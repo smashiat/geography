@@ -1,0 +1,310 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42677.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42143.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42142.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53655.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42058.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53666.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42676.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53665.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53656.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53657.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42026.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53664.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42174.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42173.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17394.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17413.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17369.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17430.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17410.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17444.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17368.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17411.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17417.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17386.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17391.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17419.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17414.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57334.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17456.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17454.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17387.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17412.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17370.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17395.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17418.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17448.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57332.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17449.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17455.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17443.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17453.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17429.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17445.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17393.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17431.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57333.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17416.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17385.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41926.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42469.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41885.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17510.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17512.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17531.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17591.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41924.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17556.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17590.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17521.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17532.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17589.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17457.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17509.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17568.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42468.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17511.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42357.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17534.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17508.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17552.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17513.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17551.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17529.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17570.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42410.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17458.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17459.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41886.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41925.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42362.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42363.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42364.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17506.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42358.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17533.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17530.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41887.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17507.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17569.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41923.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50429.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42635.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42686.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50430.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50428.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42581.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42627.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53675.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50433.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42621.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50431.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42664.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42655.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53674.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42637.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42573.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50407.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42654.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42523.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50427.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42620.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42684.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42685.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42533.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42636.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42628.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42653.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42622.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42571.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42687.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42572.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50412.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50413.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56772.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56386.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56382.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56775.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56387.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56383.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53679.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53742.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53730.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53729.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53678.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53676.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53695.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56776.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56381.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53694.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56773.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53680.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56774.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56385.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53696.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57302.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_53737.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42662.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_53736.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57337.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57300.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57301.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57336.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42089.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42663.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57335.jpg
+ asia

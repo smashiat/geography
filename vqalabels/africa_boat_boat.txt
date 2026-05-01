@@ -1,0 +1,454 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46712.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46586.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46587.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46645.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46588.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46770.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46666.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46667.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46648.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46802.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46646.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46771.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46804.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46647.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46803.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46769.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57556.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46849.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46850.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61351.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46910.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61521.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60708.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60704.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61682.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46872.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_56980.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61352.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61567.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60709.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61520.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61524.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46873.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57534.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57557.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61522.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46851.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61568.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61569.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61523.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57555.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61519.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46874.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60682.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57529.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60665.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_55153.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60710.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46911.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61711.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61713.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61684.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61683.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61712.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61714.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21596.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46772.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46777.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21597.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21593.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21592.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46776.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21594.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21595.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46786.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46876.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46799.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46823.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46877.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46897.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46853.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46870.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46896.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46821.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46890.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46820.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46871.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46886.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46868.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46828.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46895.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46875.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46819.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46822.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46787.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46818.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46854.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46898.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46904.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46801.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46858.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46859.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46894.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46869.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46860.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46885.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46800.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46884.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55231.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46906.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50907.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46908.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55175.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55167.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55173.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55211.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55213.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50904.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46907.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56529.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55166.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55174.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55210.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55232.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46905.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55230.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50896.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55212.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55229.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50897.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55330.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50905.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46909.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50906.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55165.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56976.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57565.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56530.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57532.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57567.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56979.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59039.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60661.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60693.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56531.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60653.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60674.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56962.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60655.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60675.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60673.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57552.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57554.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57573.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56963.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60662.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57531.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60692.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57553.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60654.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57566.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59040.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60663.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59038.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61518.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60703.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61471.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61417.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61715.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60702.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60713.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61780.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61786.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61782.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61675.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61781.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61354.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61252.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61262.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60722.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60712.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61573.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61716.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61416.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61717.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61574.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60711.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61685.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61353.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61418.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61355.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61260.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61788.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61787.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61789.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61790.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46878.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58493.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46861.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46862.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58491.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21532.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46863.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60690.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46846.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21543.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60652.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46879.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21533.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21531.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46880.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_55168.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46864.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58492.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57549.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57551.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21544.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46775.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57564.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46806.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60664.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21545.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57563.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_50888.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_55193.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46805.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57550.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61358.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61576.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61472.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61578.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60691.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61690.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61577.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61473.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61359.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61686.jpg
+ yes

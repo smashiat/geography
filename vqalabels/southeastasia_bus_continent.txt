@@ -1,0 +1,428 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_21996.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_22134.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47679.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47677.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47678.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_22053.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_22089.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48100.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55800.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48146.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47683.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55799.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47940.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47989.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48099.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48094.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55803.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48103.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48003.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55756.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55768.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47703.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48107.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55757.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48192.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47942.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48194.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47682.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55813.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47741.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_51130.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48093.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55769.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55814.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48147.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48101.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48005.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48102.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47941.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48046.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48172.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48193.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_47681.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55767.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48044.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48171.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48047.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_48004.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55999.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55971.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55942.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55981.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55931.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55815.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55989.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55946.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55912.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55830.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55826.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55924.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55831.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55986.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55828.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55952.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56013.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55984.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56009.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55928.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55911.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56012.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55927.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55923.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55953.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55832.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55982.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55985.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55930.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55988.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55827.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56008.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55945.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55850.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55987.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55951.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55913.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56014.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_55932.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56011.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57215.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56019.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57167.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56656.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57202.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57166.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57173.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56658.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57190.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56655.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57165.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57194.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57176.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57214.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57212.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56643.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56641.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57204.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56659.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56657.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57172.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57205.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57189.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57178.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57213.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57216.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57177.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56021.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56642.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57188.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56020.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56654.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57203.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_56015.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57222.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57220.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Indonesia_bus_57221.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Malaysia_bus_22043.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Malaysia_bus_22042.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57181.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_51098.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_22016.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57186.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57169.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57180.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_56637.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_47680.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57168.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57185.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_51100.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_51099.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57210.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57179.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55802.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55801.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_56639.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55804.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55805.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57191.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_56010.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55791.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_22017.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55764.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57187.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_55792.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_56640.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57218.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57219.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57217.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Philippines_bus_57211.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Singapore_bus_48182.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Singapore_bus_48183.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47713.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47750.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47760.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47837.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47761.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47715.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47762.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47714.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_22051.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47836.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47744.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47835.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47772.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_22052.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47773.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_21982.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47751.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_21980.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47749.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_21981.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_22050.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_48185.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47848.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51065.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47902.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55915.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47860.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_48186.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51064.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51066.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51075.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55890.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47904.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47903.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55889.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_48083.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55884.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47862.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47847.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55914.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_56007.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47861.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55980.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55916.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_48084.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_55888.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_48184.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51077.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_47846.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_51076.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_57200.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_57201.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_56653.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bus/Thailand_bus_57207.jpg
+ asia

@@ -1,0 +1,646 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18708.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18709.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18707.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18514.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43099.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19222.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43098.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19238.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19223.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19239.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19092.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19013.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19011.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43103.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18622.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18623.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43104.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18898.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18900.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18624.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43097.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18899.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19224.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18513.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18511.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19012.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19094.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19093.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18512.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18510.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43359.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43152.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43361.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43358.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43170.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43308.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43326.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43315.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43362.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43360.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43151.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43171.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43314.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43309.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43126.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43363.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43169.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43324.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43150.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43134.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43125.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43133.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43325.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43310.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18197.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18198.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18196.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18199.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18585.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18317.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18498.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18253.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18257.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18499.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18484.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18351.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18556.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18318.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18254.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18600.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18353.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18357.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18599.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18355.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18433.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18485.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18207.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18316.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18397.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18593.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18552.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18382.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18601.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18537.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18258.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18313.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18354.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18550.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18358.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18584.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18602.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18256.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18356.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18352.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18596.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18597.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18551.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18314.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18380.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18398.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18275.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18594.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18434.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18586.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18598.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18486.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18276.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18255.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18381.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18595.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18209.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18208.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18399.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18315.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18991.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18604.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18603.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18927.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18651.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18954.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18736.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18936.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18931.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18933.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18994.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18791.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18837.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18652.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18835.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18644.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18629.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18843.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18820.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18653.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18792.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18932.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18836.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18956.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18643.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18821.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18819.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18925.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18916.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18841.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18989.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18915.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18842.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18737.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18682.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18955.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18990.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18981.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18995.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18982.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18957.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18992.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18934.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18628.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18958.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18642.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18735.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18920.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18681.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18926.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18921.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18935.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18993.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19036.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19031.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19065.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19080.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19023.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19048.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19052.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19035.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19021.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18996.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19096.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19066.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19115.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19051.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19030.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19111.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19069.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18997.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19114.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19049.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19064.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19029.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19109.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19095.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19047.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19116.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19037.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19022.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19068.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19067.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19110.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19113.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19112.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19078.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19079.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19050.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43024.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43118.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19216.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19269.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43161.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43158.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43141.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43135.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19218.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43142.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19188.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19200.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19201.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19244.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19242.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43160.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19189.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43159.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43163.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19271.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43022.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43153.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43023.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43143.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19199.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43154.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43162.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19217.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19270.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19243.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19190.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43116.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19163.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19161.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19162.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43250.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43214.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43164.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43215.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43168.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43230.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43249.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43231.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43251.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43165.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43166.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43167.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43212.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43213.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43173.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43174.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43172.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43229.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18620.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18312.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18439.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18440.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18521.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18376.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18220.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18526.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18763.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18516.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18632.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18421.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18420.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18422.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18469.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18520.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18438.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18311.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18375.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18224.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18527.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18630.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18221.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18631.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18310.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18762.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18621.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18225.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18522.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18503.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18517.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18525.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18761.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18223.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18515.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18222.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43237.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19074.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18789.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19089.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19027.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18797.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19087.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43236.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43234.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43130.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19033.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19024.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19167.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43233.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19169.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19168.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19028.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18948.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43131.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43232.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19073.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18949.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18790.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19025.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18788.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19088.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43235.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43132.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43238.jpg
+ yes

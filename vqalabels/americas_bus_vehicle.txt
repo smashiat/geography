@@ -1,0 +1,434 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22097.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22080.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22078.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47664.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22075.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47662.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22074.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47666.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47665.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47667.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47663.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_22079.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48174.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48016.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48175.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47914.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47852.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47915.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47854.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48141.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47845.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48128.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_51091.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47796.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48017.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47853.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47855.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47843.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48015.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47925.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47778.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47844.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48142.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48176.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47669.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48129.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47670.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47856.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47777.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47668.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47926.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_47776.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_48037.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_55755.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56649.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_55754.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56030.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56648.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_55882.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_57195.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56038.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_51092.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56032.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56636.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56036.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56031.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_57196.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_57198.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_56037.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_57199.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Argentina_bus_57197.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47673.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47676.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47810.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47809.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47819.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47674.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_22064.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47774.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47817.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47729.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47707.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47671.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47808.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47818.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47708.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47775.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47797.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_22063.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_22025.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_22065.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47767.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47706.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47672.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47768.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47799.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47730.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47766.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47788.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47675.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47804.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47798.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48029.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47970.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48105.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47969.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48086.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_51128.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_51074.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48155.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48109.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47928.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48106.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47945.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47820.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_51127.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55794.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48085.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47956.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48081.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47821.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48110.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48190.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47828.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47829.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47971.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48191.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48082.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_47927.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_51073.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48087.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48154.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48156.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55793.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_48153.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56650.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56651.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56028.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56029.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56644.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57209.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55878.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55906.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55905.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57208.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57163.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57155.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56662.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56027.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57164.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55907.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56660.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_56661.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57157.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_55879.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Colombia_bus_57156.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_22047.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_22048.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_22049.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47769.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55795.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48118.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48178.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48159.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48158.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51062.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47823.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51079.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47831.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47770.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47812.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48181.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47811.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47822.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47787.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47830.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48180.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55765.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47786.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47789.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51078.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47864.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47863.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48195.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47790.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47785.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48179.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51080.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47771.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51059.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48177.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47816.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_47813.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55766.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_51060.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_48157.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56033.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56646.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57192.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55846.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55973.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57175.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55810.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55796.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55845.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55967.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55863.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57174.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57193.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55864.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57162.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56035.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57206.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55972.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55811.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55974.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56652.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56034.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55966.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57161.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56645.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55844.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_55812.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_56647.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/bus/Mexico_bus_57160.jpg
+ yes

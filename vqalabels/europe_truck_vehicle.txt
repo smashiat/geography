@@ -1,0 +1,450 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17383.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17384.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17392.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41958.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17604.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42170.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17628.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17539.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41957.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17466.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17605.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17415.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17538.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42163.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17465.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41959.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41928.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41921.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41929.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17629.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42159.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17519.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17606.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41927.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41922.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17564.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17562.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17540.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42172.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17563.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42158.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17630.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17520.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42171.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42221.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42347.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42183.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42343.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42379.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42328.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42326.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42190.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42301.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42318.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42348.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42182.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42202.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42317.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42303.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42349.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42194.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42189.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42181.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42342.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42339.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42195.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42302.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42380.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42203.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42344.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42204.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42381.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42327.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42222.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42193.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42319.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42338.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42503.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42576.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42488.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42568.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42435.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42554.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51233.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42519.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42518.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42486.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51234.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42528.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51232.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42487.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42461.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42529.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42544.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42508.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42527.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42428.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42505.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42462.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42553.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42460.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42545.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42507.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42506.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42570.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42514.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42504.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42555.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42520.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42546.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42569.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42605.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42606.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42005.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17522.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17523.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42140.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42050.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_41983.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17524.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42007.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42276.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42115.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42051.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42118.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_41984.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17586.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42006.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42116.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42138.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42139.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42430.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42277.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42278.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42354.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42431.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42355.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42353.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17439.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17501.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17500.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17528.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17464.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17409.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17462.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17502.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17548.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17463.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17437.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17408.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17438.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42220.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42156.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41965.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17571.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17550.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42201.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42205.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42224.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42184.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42217.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42206.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41964.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42216.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17611.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42185.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17612.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17636.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17561.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42168.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17613.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17572.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42199.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42223.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17549.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42004.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42207.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42169.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42155.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17634.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42200.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17573.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17635.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41963.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42619.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42587.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42617.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42618.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42321.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42346.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42225.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42345.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42366.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42365.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42322.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42320.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42427.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42162.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42161.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42160.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17382.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17632.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42196.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17474.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17537.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17366.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42015.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17560.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17475.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41990.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42016.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17473.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17535.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42014.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17559.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17367.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41989.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17579.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42197.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17631.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17633.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41988.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17580.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17558.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17536.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42198.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17581.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42510.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17365.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42579.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42578.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42509.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42580.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17359.jpg
+ yes

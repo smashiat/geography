@@ -1,0 +1,540 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43307.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43306.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18985.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43087.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18983.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18984.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43305.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43086.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18468.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18466.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18472.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18331.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18333.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18473.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18467.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18332.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18910.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18911.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19229.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43313.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18753.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19233.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18895.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18908.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18730.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18897.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18751.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19232.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18896.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43202.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19234.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43312.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43120.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18909.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43311.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18732.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19230.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43121.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43119.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18474.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43204.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43385.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43203.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_19228.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18731.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43386.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18752.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_18907.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43526.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43478.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43518.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43532.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43414.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43498.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43413.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43530.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43476.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43527.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43517.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43535.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43528.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43412.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43477.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43531.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43536.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43499.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43482.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43525.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43529.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43534.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43533.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43497.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43516.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43548.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43573.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43553.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43595.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43590.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43546.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43591.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43575.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43589.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43596.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43574.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43554.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43552.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43597.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/China_car_43547.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18573.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18338.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18250.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18451.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18330.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18328.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18460.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18463.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18452.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18462.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18453.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18251.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18337.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18461.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18464.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18252.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18214.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18465.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18215.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18216.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18572.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18571.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18329.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43076.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18726.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18733.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43075.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18728.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19272.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19166.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19159.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19143.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19164.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19158.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18885.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19177.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19155.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43080.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43074.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18724.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19144.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19165.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19160.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18738.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18883.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18725.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19145.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19178.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18884.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19176.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18970.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18969.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18962.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19156.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_19157.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18734.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_18729.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43333.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43346.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43082.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43339.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43110.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43208.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43297.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43179.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43205.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43186.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43207.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43255.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43341.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43254.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43108.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43185.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43081.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43109.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43210.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43206.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43187.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43340.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43334.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43298.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43299.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43209.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43256.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43191.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43181.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43180.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43348.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43350.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43637.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43616.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43383.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43620.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43636.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43638.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43381.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43607.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43642.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43619.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43639.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43615.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43644.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43617.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43643.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43618.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43640.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43645.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43347.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43641.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43382.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43634.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43633.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43349.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43635.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43608.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43646.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43648.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43661.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43653.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43654.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43650.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43656.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43655.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43657.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43647.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43651.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43652.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43659.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43649.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43660.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/Japan_car_43658.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43557.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18454.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18459.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43567.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43475.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_19134.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43201.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_19135.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18871.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18756.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_19137.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18754.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43551.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43200.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43555.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43568.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18457.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18565.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18872.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18870.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43072.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43343.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18456.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43549.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18755.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43569.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43199.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_19139.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18455.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43550.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18458.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43342.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_18566.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_19138.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43073.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43556.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43587.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43586.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43602.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43570.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43572.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43592.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43588.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43594.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43571.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43593.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43578.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43576.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43601.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43603.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/car/South_Korea_car_43577.jpg
+ asia

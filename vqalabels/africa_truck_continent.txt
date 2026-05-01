@@ -1,0 +1,478 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_17542.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41970.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_17547.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41968.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41992.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41993.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41906.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_17541.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42008.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42034.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42009.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42029.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_17543.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42010.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41907.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42027.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41969.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_41905.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_17546.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42028.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42464.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42035.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42463.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42052.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42368.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42453.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42234.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42451.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42099.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_56780.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_57297.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_56781.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42067.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42452.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42235.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_57327.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42054.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_57328.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_56779.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42236.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42100.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42053.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42229.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42036.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42101.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42141.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Egypt_truck_42367.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17376.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17378.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17361.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17436.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17381.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17446.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17407.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17377.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17379.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17554.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17553.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17565.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17435.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17372.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17371.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17555.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17447.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17360.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17406.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17405.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17362.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17380.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17584.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42226.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17624.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42228.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42179.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17567.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17577.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42191.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17607.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42192.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17608.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41962.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17585.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42286.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17578.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42180.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41932.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17582.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42186.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42178.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42219.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42187.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41937.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17566.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41960.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17609.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42227.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_41936.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42188.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42218.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42210.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42211.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42285.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17610.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42284.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17576.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_17583.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42426.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42443.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42465.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42444.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42425.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42316.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42341.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42495.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42350.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42293.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42457.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42424.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42371.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42372.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42289.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42288.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42369.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42370.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42292.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42351.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42315.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42459.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42491.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42340.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42467.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42494.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42458.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42290.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42489.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42466.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42442.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42352.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42291.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42490.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42287.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42558.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57298.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42586.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42565.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42560.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42575.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42584.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57307.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56788.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56786.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42551.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57299.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56785.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42496.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56784.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42577.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42585.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42516.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42549.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42566.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42559.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42517.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42547.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42548.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42567.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42564.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42574.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56783.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42538.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56782.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42537.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42550.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_56787.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42552.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42536.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_42515.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57322.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57320.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57317.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57311.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57318.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57316.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57314.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57313.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57315.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57312.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57319.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_61148.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57323.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57310.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57321.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57308.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/Nigeria_truck_57309.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17364.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17625.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42356.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42522.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17498.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42500.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17440.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42438.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17442.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42436.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17363.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17626.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42521.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17627.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42502.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_41967.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17518.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_41966.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17389.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42437.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42501.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42492.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17557.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17388.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17450.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42493.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17441.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17497.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17451.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17390.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42557.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42556.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42609.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17452.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42294.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_17499.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_57306.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42610.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42611.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_57326.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_57325.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_57305.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_42613.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/truck/South_Africa_truck_57324.jpg
+ north america

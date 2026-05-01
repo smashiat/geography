@@ -1,0 +1,452 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47696.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47737.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47735.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47695.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47736.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47807.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47738.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47719.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47805.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47838.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_55976.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47865.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47806.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47814.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47718.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22088.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22087.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47800.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22086.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_55975.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47740.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_21993.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_21994.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47839.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47739.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47720.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22015.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47710.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22028.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47709.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22068.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47685.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22027.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22067.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22026.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22066.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47684.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47746.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47886.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47712.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47963.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47962.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47960.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47958.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47957.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47747.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47757.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47887.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47973.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47972.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47968.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47756.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47965.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47964.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47885.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47745.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47967.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47711.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47883.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47959.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47966.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48031.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47983.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48007.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48008.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47974.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48028.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48030.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48034.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47982.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47993.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47981.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47986.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48033.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48027.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47992.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48032.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48006.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47985.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47976.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47977.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47987.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47975.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48124.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48125.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48053.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48127.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48123.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48043.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48126.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48088.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48036.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48089.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48035.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48132.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48051.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48052.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48116.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48114.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48131.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48040.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48122.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48121.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48041.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48054.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48120.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48115.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48042.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48149.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48162.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48166.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48140.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48168.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51063.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48170.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48136.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51072.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48145.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48169.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48165.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48164.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48137.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48160.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48143.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48144.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48161.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48138.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48148.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48139.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48163.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48167.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51112.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55763.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51113.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55777.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51107.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51106.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51087.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55758.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55770.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55780.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55779.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51085.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51097.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55771.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51084.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51114.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51082.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55778.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51086.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51083.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55772.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51129.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51081.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55861.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55819.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55910.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55873.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55870.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55872.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55874.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55781.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55816.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55782.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55875.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55926.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55876.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55798.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55820.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55877.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55925.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55880.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55797.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55871.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55960.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55909.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55860.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55881.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47733.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47849.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47732.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22070.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_21995.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47857.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47840.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47978.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47842.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22122.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47858.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47780.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47779.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22123.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22071.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47851.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22013.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47850.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22023.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47859.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22024.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47731.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47824.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47815.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22012.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22121.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22120.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22069.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22014.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47841.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51110.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51109.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48057.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51111.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48065.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48064.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55787.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47980.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55788.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47988.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48092.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55789.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48066.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47979.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48090.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48091.jpg
+ asia

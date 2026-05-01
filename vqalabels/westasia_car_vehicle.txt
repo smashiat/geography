@@ -1,0 +1,390 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Jordan_car_43148.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Jordan_car_43147.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Jordan_car_43149.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43405.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43432.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43226.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43140.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43139.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43442.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43408.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43407.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_18490.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43465.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43227.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43102.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43406.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43228.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43101.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43409.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43431.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_18492.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43443.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_18491.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43466.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43100.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43441.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43610.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43580.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43467.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43560.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43609.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43561.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43579.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43480.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43479.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43627.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43628.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43510.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43629.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43566.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43611.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43565.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43483.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43509.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43559.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Saudi_Arabia_car_43481.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18299.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18287.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18264.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18297.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18296.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18241.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18294.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18226.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18228.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18277.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18298.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18289.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18279.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18227.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18265.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18300.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18266.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18286.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18278.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18243.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18290.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18291.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18288.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18293.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18295.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18292.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18242.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18524.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18781.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18589.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18715.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18588.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18811.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18817.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18649.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18587.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18826.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18429.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18666.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18616.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18668.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18627.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18301.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18680.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18483.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18825.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18758.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18374.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18650.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18365.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18667.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18760.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18394.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18648.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18608.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18808.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18364.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18363.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18395.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18344.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18782.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18482.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18828.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18306.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18679.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18816.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18345.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18406.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18810.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18818.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18759.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18405.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18523.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18373.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18678.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18396.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18372.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18302.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18713.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18407.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18481.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18827.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18809.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18393.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18625.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18807.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18626.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18392.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18714.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19186.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18971.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19185.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18950.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18973.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19008.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18854.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18852.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19214.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18829.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18960.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18853.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18906.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19215.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18972.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18830.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18959.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19187.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19007.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18940.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18942.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18941.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19209.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18904.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18961.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19213.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19174.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_18905.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19210.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19175.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_19173.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43625.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43624.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43041.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43626.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43042.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/Turkey_car_43040.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43318.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_18764.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_18500.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_18765.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_18501.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_18502.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43600.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43519.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43631.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43486.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43484.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43485.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43632.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43520.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43630.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43584.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43585.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43562.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43564.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43558.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43521.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43563.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/car/United_Arab_Emirates_car_43599.jpg
+ yes

@@ -1,0 +1,168 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46597.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46575.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_21571.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_21570.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46810.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46651.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46811.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46807.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46576.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46650.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46577.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46808.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46622.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46839.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46809.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46865.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46649.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46840.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61865.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46867.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61243.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_46866.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55321.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56967.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55269.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55322.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61244.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56965.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56968.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55268.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_57544.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55270.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61583.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56966.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61566.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61582.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_57545.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_61242.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55251.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_55323.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56964.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Argentina_boat_56969.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_55250.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_21587.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_57569.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_21588.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_21586.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56535.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56533.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56536.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_55194.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_57568.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46612.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46816.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_57561.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46742.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56534.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56537.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46815.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46817.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_55249.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_46699.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_55278.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_56532.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_57574.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_58495.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_58496.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Colombia_boat_58494.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46702.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_50908.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46599.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46700.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_61965.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46598.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46900.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_61964.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_46701.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_60659.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_55252.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_61966.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_50902.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_50903.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_50901.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/boat/Mexico_boat_55221.jpg
+ yes

@@ -1,0 +1,298 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_55809.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_47950.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_57654.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_60943.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_47724.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_55808.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_56635.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_55840.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_55841.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_56634.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Saudi_Arabia_bus_56633.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22002.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22135.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22000.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47873.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22032.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47699.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22107.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22029.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47690.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22136.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47691.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22030.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_21997.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_21998.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22106.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47872.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47698.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22033.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22090.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47874.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22001.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47697.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47689.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22058.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47895.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22031.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47894.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_21999.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22003.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_21979.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_22034.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48150.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47899.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48133.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48152.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51088.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47900.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51124.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48039.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48198.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51089.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48112.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51094.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48134.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48045.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48038.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51108.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51095.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48188.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48200.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48135.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48113.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48187.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51096.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48189.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47954.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48018.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47951.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51123.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48201.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48151.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48197.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48199.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55750.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47901.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51122.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47952.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48020.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48202.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48196.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47953.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_47955.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_51090.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_48019.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55955.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55752.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55959.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55825.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55934.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55962.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55956.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55775.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55858.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55842.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55859.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55751.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55857.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55958.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55824.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55843.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55807.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55954.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55776.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55957.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56022.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55994.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55992.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56023.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55998.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56000.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56024.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56025.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_55993.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56016.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56002.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56006.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56017.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_56001.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_58553.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57657.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60941.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57724.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60949.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_58554.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60963.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57184.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57182.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57658.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60948.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60942.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57655.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57223.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_60976.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_57183.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_58883.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/Turkey_bus_58884.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_22077.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_47782.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_47781.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_22076.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_61441.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_57659.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_55969.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_55968.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_60933.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_55970.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_61442.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bus/United_Arab_Emirates_bus_48173.jpg
+ asia

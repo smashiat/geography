@@ -1,0 +1,546 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18409.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18612.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18408.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18410.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18833.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18802.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19085.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18700.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18832.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18701.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18838.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19118.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18803.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43043.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18805.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18699.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43045.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19226.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19086.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18839.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18613.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18834.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18696.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18861.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18860.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18702.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19084.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18697.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18859.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18694.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43052.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43055.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18703.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18698.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18840.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43054.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18944.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18801.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19225.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18806.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18804.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18695.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18943.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43053.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_19227.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43044.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43279.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43245.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43175.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43321.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43177.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43323.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43277.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43285.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43244.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43261.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43327.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43259.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43062.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43284.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43328.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43276.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43364.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43246.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43260.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43286.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43365.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43322.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43058.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43275.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43366.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43057.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43059.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43278.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43274.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43056.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43176.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43329.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43410.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43420.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43444.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43464.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43424.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43446.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43494.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43421.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43389.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43487.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43393.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43463.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43511.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43394.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43411.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43422.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43401.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43425.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43460.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43392.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43400.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43512.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43461.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43415.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43423.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43390.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43492.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43416.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43493.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43496.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43445.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43462.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43495.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43491.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43459.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43391.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_43513.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18324.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Argentina_car_18323.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18712.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18705.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18711.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18727.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18320.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18704.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18706.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18560.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18710.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18798.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18799.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18800.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43252.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19194.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43253.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18866.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43258.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43265.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18946.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43183.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43266.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43034.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19000.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18945.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18947.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43050.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19130.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43178.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43257.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43184.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18986.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18867.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43061.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43051.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18999.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18998.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43035.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43060.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43239.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43049.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43240.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19128.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18988.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19131.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_19129.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43182.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18987.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_18865.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43036.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43281.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43433.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43282.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43430.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43370.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43267.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43367.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43331.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43399.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43397.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43426.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43395.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43332.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43452.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43428.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43450.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43427.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43330.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43396.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43454.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43371.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43434.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43470.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43369.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43398.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43283.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43368.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43270.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43453.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43268.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43429.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43455.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43269.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43451.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43506.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43524.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43505.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43522.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43471.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43507.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43523.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43503.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43472.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43543.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43508.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43544.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43504.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Colombia_car_43545.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18325.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18200.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19151.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43376.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43372.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43375.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43404.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18427.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43403.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18558.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43144.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18564.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19142.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43065.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43418.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18882.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43377.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43417.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19141.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18428.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18562.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43064.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43374.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18881.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18563.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18559.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43435.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19140.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19150.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18426.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43419.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18326.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43146.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43402.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43063.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43145.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18557.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_19149.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_18327.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43373.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43437.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43502.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43500.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43469.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43489.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43458.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43514.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43501.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43515.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43488.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43436.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43538.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43456.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43468.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43457.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43537.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43539.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/americas/car/Mexico_car_43490.jpg
+ yes

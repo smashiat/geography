@@ -1,0 +1,590 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23080.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48859.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48860.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23079.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23081.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22716.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22717.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22715.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22804.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22973.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22805.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49125.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22972.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_48834.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23171.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49082.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49099.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22803.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_48835.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49116.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49102.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23001.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49103.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49100.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22792.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23172.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49101.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49081.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22791.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23002.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49085.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23003.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23008.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49115.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22790.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49083.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49084.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23173.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49215.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49216.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49142.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49214.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49126.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49144.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49225.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49127.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49141.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49223.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49143.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49145.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49224.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49140.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22649.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22610.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22648.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22673.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22647.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22612.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22611.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22674.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22870.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22800.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23056.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22924.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22847.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22850.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22900.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22864.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23174.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22925.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22852.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22863.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22849.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22851.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22860.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22859.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23136.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22926.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22865.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22861.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22848.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22796.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22795.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23135.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22794.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22714.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23139.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23138.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22901.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22869.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22846.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22853.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23057.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22712.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22713.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22675.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22802.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23058.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23071.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22871.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23137.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22801.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23140.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22899.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48920.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48894.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48921.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48922.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23180.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48950.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48896.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48836.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48877.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48838.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48898.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48882.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48885.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48826.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23178.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48827.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48880.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48825.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23176.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48837.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48895.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48886.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48881.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48897.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23179.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23175.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49263.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48962.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49272.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49271.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48984.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49273.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48952.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49016.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49262.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49017.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49018.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48985.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48963.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49261.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48951.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48965.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49264.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49260.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48954.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48964.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48953.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49259.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49279.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49348.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49349.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49353.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49292.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49361.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49278.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49360.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49308.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49291.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49289.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49324.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49344.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49343.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49294.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49280.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49277.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49293.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49359.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49362.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49355.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49354.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49342.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49290.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49347.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49370.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49363.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49377.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49394.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49391.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49395.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49390.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49375.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49386.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49373.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49367.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49392.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49393.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49369.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49364.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49372.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49376.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49385.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49368.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49366.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49387.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49389.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49371.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49365.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49388.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49396.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49412.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49397.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49427.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49406.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49417.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49414.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49424.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49404.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49407.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49405.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49411.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49419.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49420.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49398.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49399.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49403.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49429.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49428.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49432.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49425.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49413.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49418.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49416.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49415.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49426.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49433.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49434.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49435.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23046.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23133.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22798.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22781.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23134.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49080.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49070.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23130.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49068.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49104.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22989.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23045.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22990.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22797.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23132.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49078.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48945.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49079.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49069.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23129.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22845.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48815.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48816.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22782.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48901.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23131.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48944.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48946.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22843.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22799.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48900.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48814.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22991.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23044.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48899.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22844.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49249.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49410.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49408.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49186.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49181.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49138.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49185.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49409.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49437.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49179.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49164.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49105.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49165.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49106.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49139.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49255.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49212.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49187.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49211.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49137.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49166.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49248.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49253.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49247.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49254.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49180.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49213.jpg
+ asia

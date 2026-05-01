@@ -1,0 +1,470 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18448.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18779.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18568.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18449.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18567.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18891.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18717.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18350.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18577.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18876.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18540.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19001.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18886.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18379.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18877.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19002.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19003.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18206.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18722.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18239.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18341.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18576.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18723.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18879.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18669.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18538.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18447.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19005.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18716.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18569.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18671.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18575.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18878.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19004.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18888.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18880.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18746.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18887.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18777.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18205.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18240.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18339.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19006.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18273.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19136.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18204.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18349.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18747.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18488.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18889.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18778.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18718.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18377.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18745.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18757.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18539.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18487.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18670.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18378.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18574.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18780.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18340.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18274.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18238.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18489.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18450.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18890.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19181.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19236.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43071.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43078.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43070.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19235.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43020.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43079.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43092.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43091.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43096.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19180.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43188.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43066.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43047.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19237.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43068.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43067.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43021.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43088.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43093.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43069.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43189.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43094.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43095.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43046.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43037.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43190.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19154.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19179.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43048.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43089.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43019.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19152.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43039.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43038.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19153.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43090.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43192.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19205.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19231.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43344.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43217.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43225.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43218.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43337.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43211.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43290.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43247.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43193.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43222.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43288.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43224.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43354.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43287.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43338.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43289.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43248.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43223.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43355.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43304.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43345.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43280.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43216.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43357.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43384.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43303.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43194.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43356.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18234.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18232.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18233.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18470.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18739.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18719.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18213.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18579.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18720.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18741.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18570.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18740.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18580.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18493.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18494.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18471.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18721.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18578.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19147.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43114.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43198.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43025.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19146.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43379.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43293.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43111.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18893.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43291.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43113.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43112.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43292.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18892.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18815.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43115.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43295.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19148.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43317.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43294.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19032.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43196.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43197.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43378.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43380.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18894.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43027.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43296.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43316.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18244.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18342.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18615.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18245.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18246.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18869.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18868.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18767.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19010.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43105.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18343.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18478.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18783.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18766.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18742.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18614.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19241.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43106.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43107.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18743.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18744.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18480.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19240.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19009.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19034.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18479.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18784.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43077.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43352.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43388.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43273.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43335.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43302.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43241.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43243.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43272.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43271.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43353.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43128.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43220.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43129.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43219.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43301.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43195.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43300.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43387.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43336.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43351.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43221.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43127.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43242.jpg
+ yes

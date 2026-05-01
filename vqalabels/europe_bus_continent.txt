@@ -1,0 +1,452 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47693.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22055.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22093.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22008.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_21992.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22108.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22004.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47721.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22092.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47722.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22109.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22137.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22091.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_21991.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47877.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47692.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22056.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47694.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22110.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47723.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22057.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22007.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22138.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47929.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47921.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47910.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47932.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48025.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47949.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47911.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48014.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48059.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47948.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47930.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48023.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47923.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47934.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48002.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47907.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48060.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47909.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47908.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48058.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48024.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48013.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47922.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47933.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47931.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48062.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48079.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48061.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60965.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58563.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60964.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60955.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58557.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60994.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58555.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58561.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48071.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58566.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58556.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60956.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60995.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_51249.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48063.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48070.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48080.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58562.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58565.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58564.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48076.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48075.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_51250.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Poland_bus_22062.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47791.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47795.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47794.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47802.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47792.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47917.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47869.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_22095.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47938.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_22094.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47937.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47743.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47999.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47936.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47801.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47918.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47793.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47803.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60961.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48000.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60951.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60950.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60962.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48077.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48021.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48022.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48078.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22035.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22073.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22098.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22059.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21990.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22072.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22022.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22099.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21989.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22060.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21988.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22100.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22061.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22036.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22144.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22105.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47704.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47716.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22148.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47868.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22124.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22126.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22114.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47717.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22129.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47701.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47700.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47893.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22115.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22147.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22103.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22125.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22145.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47889.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22151.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22150.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47702.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47866.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22102.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22104.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22130.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22116.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22152.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47867.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22146.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22149.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47705.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47728.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47888.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47996.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47920.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_58887.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59050.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47991.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47924.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60999.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59051.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47897.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60958.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_58886.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47990.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60954.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47919.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60985.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47997.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60986.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47898.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59058.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47946.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59052.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47998.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59056.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47896.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47906.jpg
+ africa
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59057.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47905.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60957.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47876.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/France_bus_61003.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47881.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47882.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47875.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/France_bus_61004.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47880.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22005.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22111.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_21983.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22038.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_21984.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22082.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22037.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22096.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22113.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22112.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22143.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59055.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47995.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47890.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60959.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22141.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47871.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22119.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47870.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60953.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58560.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58559.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22127.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47752.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47994.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60952.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59053.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47891.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59054.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47892.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22118.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_48012.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22139.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22142.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22128.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22140.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58558.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60969.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60960.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60967.jpg
+ europe

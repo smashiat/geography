@@ -1,0 +1,474 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46747.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21554.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46610.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46604.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21540.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21496.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46796.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21494.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21495.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21541.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46609.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21542.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21530.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46611.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46746.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21555.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21497.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_21556.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46603.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55243.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55192.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46902.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50890.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50892.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50889.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55169.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55300.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55298.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55216.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46856.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55191.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50919.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55215.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55307.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55287.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55197.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55257.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46798.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55196.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55256.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46797.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55198.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46857.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55195.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46855.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55242.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55299.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55217.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55222.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55214.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55258.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55235.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55224.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55223.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46901.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50891.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_46899.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55275.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_50918.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55327.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_59035.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61249.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60656.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61239.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_59036.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56977.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58498.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61362.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56984.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55308.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55309.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61250.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61349.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60706.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58505.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56983.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55328.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60657.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_59037.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58499.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60660.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56978.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61350.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56985.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61241.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61361.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60705.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56973.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60684.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58507.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56971.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58497.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60707.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_56972.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60689.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_60685.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61240.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61251.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_55329.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_58506.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61676.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61785.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61710.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61700.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61702.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61415.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61570.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61784.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61779.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61709.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61837.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61838.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61783.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61575.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61791.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61571.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61678.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61694.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61701.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61572.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61414.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61677.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61718.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61703.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61836.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61720.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61719.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61695.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Indonesia_boat_61696.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_21502.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_57681.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56958.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55291.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_58488.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46752.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46834.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55302.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_50912.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_57680.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56959.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46663.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46835.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55293.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56526.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46665.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_58489.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55310.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55294.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_58490.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55303.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_50899.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46848.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_57682.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46793.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55311.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_50900.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56960.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56954.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55292.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_50898.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56527.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46847.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56982.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60671.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_55301.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46664.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46836.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60672.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_56981.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_21516.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_46792.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60677.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60714.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61698.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61835.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61699.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60715.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61692.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61256.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61834.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60716.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61697.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_60676.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Philippines_boat_61693.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Singapore_boat_50914.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Singapore_boat_50913.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21503.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21504.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21599.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21508.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21509.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21510.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21600.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46579.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46600.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46616.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46631.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55207.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55226.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46578.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46602.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46580.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55228.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21603.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21604.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55282.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55208.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46642.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21602.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55227.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_21601.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55238.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46644.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46623.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46601.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46617.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55283.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46624.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55209.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46643.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_46632.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_56975.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_60686.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61238.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_60658.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61236.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61237.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55289.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61357.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55288.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_60687.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61707.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61708.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_56974.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55284.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_61356.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/boat/Thailand_boat_55290.jpg
+ yes

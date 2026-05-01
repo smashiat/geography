@@ -1,0 +1,346 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46584.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46630.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46837.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46625.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46629.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46585.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46893.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46583.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46891.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_58503.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_46892.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_56961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_58504.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_61474.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_61475.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_61691.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/China_boat_61476.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46741.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46672.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46593.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46740.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_21534.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46713.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46592.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46582.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46739.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46581.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46694.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46695.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_21536.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46773.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46673.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46743.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46744.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46756.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46693.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_21535.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46757.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46745.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46758.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46711.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50911.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50917.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46887.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50895.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46914.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50894.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50910.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46881.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46827.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46888.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46912.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50916.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50915.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55156.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46889.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46852.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55157.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50893.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55155.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46882.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46883.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_50909.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55162.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_46913.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55244.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55245.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55163.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55200.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55178.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55172.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55170.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55179.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55171.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55176.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55186.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55255.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55180.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55164.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55188.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55185.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55253.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55181.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55199.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55254.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55187.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55177.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55263.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55225.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55189.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55190.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55262.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57537.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55313.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_56525.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_56953.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55286.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55326.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55271.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55325.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55272.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55264.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57535.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55280.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55285.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_56524.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55304.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55273.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55305.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_56970.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57536.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_56952.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55324.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55306.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55279.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55281.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_55314.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57530.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57538.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61517.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57684.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57548.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57539.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61563.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_60695.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57547.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57683.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61516.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_59042.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_59041.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61515.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61565.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_60694.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61564.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_58869.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57685.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_58867.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_57546.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_58868.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_58486.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_59043.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_58487.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61960.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61869.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61951.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61961.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61954.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61962.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61895.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61958.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61952.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61953.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61894.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61870.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61722.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61679.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61681.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61963.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61896.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61959.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61680.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/Japan_boat_61955.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_21517.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_21518.jpg
+ north america
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_21598.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_60678.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_46619.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_61525.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_46832.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_46618.jpg
+ europe
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_46831.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_61348.jpg
+ asia
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/boat/South_Korea_boat_46833.jpg
+ north america

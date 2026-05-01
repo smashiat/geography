@@ -1,0 +1,468 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47753.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47947.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47763.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47765.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22011.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47748.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47734.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47755.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47759.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47764.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47834.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48056.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48055.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48067.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48011.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47833.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22009.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48010.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48009.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47758.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22010.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47742.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47754.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47884.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47832.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60981.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48069.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51070.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55818.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61010.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61020.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61001.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48119.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60980.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55823.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51068.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55902.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61012.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58892.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61018.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55817.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55759.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55821.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55849.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55761.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48068.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55903.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60987.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55822.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51069.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60988.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58891.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61000.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61013.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58893.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61019.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61011.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55760.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55908.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55904.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Ghana_bus_55898.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22019.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22054.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48048.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48095.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22020.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22018.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48098.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48108.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21977.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21978.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48001.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48097.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47878.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47916.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48111.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21976.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22101.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48096.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48050.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47913.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22081.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47879.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47912.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47939.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48104.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47984.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48049.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47935.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51103.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51116.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55866.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55856.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51093.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55774.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51125.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51105.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51061.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55855.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55862.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51067.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55865.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48130.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51119.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55868.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51115.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55773.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55839.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51126.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51104.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55838.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51102.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55783.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55762.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51101.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55847.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55829.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55790.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55867.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51118.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51117.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55848.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60984.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55944.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60983.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55900.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60998.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55891.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60938.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60974.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55950.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55948.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55901.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55918.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55949.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55936.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55937.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60939.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60989.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55869.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55897.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55892.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61002.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60968.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60975.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60982.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55883.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60940.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60993.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60992.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55917.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60991.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55935.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60937.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60936.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60966.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60970.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60990.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55947.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61015.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61009.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61017.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61016.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61008.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61014.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61007.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22039.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51121.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48073.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48074.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22044.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47727.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22021.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22041.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55786.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22045.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47944.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22046.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55784.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47725.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21985.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47943.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21986.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48072.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22040.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22132.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47726.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22133.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51120.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21987.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22006.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51071.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55785.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22131.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55922.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55837.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58888.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61022.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55920.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58889.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60935.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55833.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55834.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55919.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55835.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61023.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55886.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55940.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60973.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55929.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60996.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60931.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55941.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55887.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60971.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61024.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60934.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60977.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60979.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61021.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58890.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61025.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60972.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60978.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61006.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60932.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55939.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55885.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61005.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55836.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61027.jpg
+ yes

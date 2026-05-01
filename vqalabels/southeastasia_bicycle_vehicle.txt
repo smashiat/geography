@@ -1,0 +1,470 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22813.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22908.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22718.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22855.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22727.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22784.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22856.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23048.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23007.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22617.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22635.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23006.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22730.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22881.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23031.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22728.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22909.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22882.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22883.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22729.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22732.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22995.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23005.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22907.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22731.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22857.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22719.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22785.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23030.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22838.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22615.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23047.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22944.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22720.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22817.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22616.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23049.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22818.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22858.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22783.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22636.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22945.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22819.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23053.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22985.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23032.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22739.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_22854.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48800.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48891.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48884.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48864.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48810.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48798.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48995.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48887.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48842.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23086.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48943.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48892.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48843.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48799.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48866.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23088.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48824.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23177.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48811.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48923.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48865.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48949.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48906.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48947.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48874.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23096.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23126.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23127.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48924.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48822.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48872.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48781.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48893.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23054.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48873.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23055.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48883.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23087.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48812.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23095.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_23085.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48823.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48780.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48948.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49328.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49303.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_48996.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49331.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49329.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49323.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49431.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49301.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49267.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49298.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49380.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49379.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49334.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49381.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49300.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49333.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49265.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49322.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49302.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49326.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49325.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49430.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49436.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49299.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49332.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49266.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Indonesia_bicycle_49327.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Malaysia_bicycle_22923.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Malaysia_bicycle_22921.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Malaysia_bicycle_22922.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22722.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22627.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22793.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22878.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22614.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22756.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22721.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22629.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22757.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22723.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22786.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22613.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22628.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22758.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49026.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48829.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49025.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22894.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22880.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48959.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_23142.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22929.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22975.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_23141.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_23143.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48956.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48997.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48955.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48958.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49421.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22879.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49027.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48830.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49015.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48992.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48960.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49013.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49422.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48957.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48847.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48848.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22928.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22895.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48849.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48998.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22974.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48999.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22893.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48828.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48974.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48991.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22976.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48973.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_48813.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_49014.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Philippines_bicycle_22927.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48888.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_23050.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48889.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22876.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48971.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22956.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22645.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22886.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22885.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22740.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48969.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48970.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_23052.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22736.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22954.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22884.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22737.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48890.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48846.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48967.jpg
+ no
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22646.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48845.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_23051.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48844.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22741.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22875.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48968.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22877.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22955.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49401.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49136.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48975.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49033.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49031.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49135.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49009.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49230.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49032.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49008.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49034.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49238.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48977.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48976.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49231.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49035.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49024.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48972.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49022.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49023.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49400.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48993.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49191.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49229.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49402.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_48994.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_49134.jpg
+ yes
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/bicycle/Thailand_bicycle_22644.jpg
+ yes
