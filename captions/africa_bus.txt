@@ -1,0 +1,468 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47753.jpg
+ a picture of a bus and a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47947.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47763.jpg
+ a picture of a person walking down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47765.jpg
+ a picture of a bus and a bus in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22011.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47748.jpg
+ a picture of a bus and a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47734.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47755.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47759.jpg
+ a picture of a bus and a bus on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47764.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47834.jpg
+ a picture of a bus at night time
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48056.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48055.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48067.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48011.jpg
+ a picture of a bus and a car in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47833.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22009.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48010.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48009.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47758.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_22010.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47742.jpg
+ a picture of a bus parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47754.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47884.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_47832.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60981.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48069.jpg
+ a picture of a bus that is blue and white
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51070.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55818.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61010.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61020.jpg
+ a picture of a bus that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61001.jpg
+ a picture of a bus that is parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48119.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60980.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55823.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51068.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55902.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61012.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58892.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61018.jpg
+ a picture of a bus that crashed into a car in the middle of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55817.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55759.jpg
+ a picture of a bus parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55821.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55849.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55761.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_48068.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55903.jpg
+ a picture of a bus that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60987.jpg
+ a picture of a bus in a city
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55822.jpg
+ a picture of a van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_51069.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_60988.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58891.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61000.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61013.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_58893.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61019.jpg
+ a picture of a bus that was damaged in the accident
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_61011.jpg
+ a picture of a bus on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55760.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55908.jpg
+ a picture of a city at night time
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Egypt_bus_55904.jpg
+ a picture of a bus and a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Ghana_bus_55898.jpg
+ a picture of a white bus parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22019.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22054.jpg
+ a picture of a bus parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48048.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48095.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22020.jpg
+ a picture of a man in a suit and tie
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22018.jpg
+ a picture of a car that is stuck in the sand
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48098.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48108.jpg
+ a picture of a bus that is parked
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21977.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21978.jpg
+ a picture of a van that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48001.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48097.jpg
+ a picture of a woman standing next to a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47878.jpg
+ a picture of a yellow van parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47916.jpg
+ a picture of a white bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48111.jpg
+ a picture of a bus and a bus on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_21976.jpg
+ a picture of a yellow van with a green roof
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22101.jpg
+ a picture of a yellow van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48096.jpg
+ a picture of a yellow van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22117.jpg
+ a picture of a van that has been vandaled
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48026.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48050.jpg
+ a picture of a van and a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47913.jpg
+ a picture of a yellow van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_22081.jpg
+ a picture of a yellow van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47879.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47912.jpg
+ a picture of a yellow van driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47939.jpg
+ a picture of a yellow van with people walking around
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48104.jpg
+ a picture of a white van parked in front of a church
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47984.jpg
+ a picture of a van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48049.jpg
+ a picture of a bus that is parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_47935.jpg
+ a picture of a yellow van with a broken door
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51103.jpg
+ a picture of a man walking by a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51116.jpg
+ a picture of a bus that is in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55866.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55856.jpg
+ a picture of a yellow van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51093.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55774.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51125.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51105.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51061.jpg
+ a picture of a car parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55855.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55862.jpg
+ a picture of a van that has been vandaled
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51067.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55865.jpg
+ a picture of a car driving down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_48130.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51119.jpg
+ a picture of a yellow van parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55868.jpg
+ a picture of a van parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51115.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55773.jpg
+ a picture of a yellow van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55839.jpg
+ a picture of a bus parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51126.jpg
+ a picture of a yellow van parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51104.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55838.jpg
+ a picture of a van parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51102.jpg
+ a picture of a white bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55783.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55762.jpg
+ a picture of a van parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51101.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55847.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55829.jpg
+ a picture of a white bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55790.jpg
+ a picture of a yellow van parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55867.jpg
+ a picture of a van that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51118.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_51117.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55848.jpg
+ a picture of a white van parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60984.jpg
+ a picture of a yellow van parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55944.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60983.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55900.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60998.jpg
+ a picture of a van that is in the mud
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55891.jpg
+ a picture of a yellow van on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60938.jpg
+ a picture of a car that is in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60974.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55950.jpg
+ a picture of a van parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55948.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55901.jpg
+ a picture of a yellow van parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55918.jpg
+ a picture of a yellow van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55949.jpg
+ a picture of a yellow van
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55936.jpg
+ a picture of a white van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55937.jpg
+ a picture of a white bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60939.jpg
+ a picture of a van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60989.jpg
+ a picture of a yellow van parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55869.jpg
+ a picture of a van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55897.jpg
+ a picture of a van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55892.jpg
+ a picture of a man getting into a van
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61002.jpg
+ a picture of a bus parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60968.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60975.jpg
+ a picture of a yellow van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60982.jpg
+ a picture of a van parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55883.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60940.jpg
+ a picture of a yellow van parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60993.jpg
+ a picture of a yellow van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60992.jpg
+ a picture of a van and a van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55917.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60991.jpg
+ a picture of a car that has been wrecked
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55935.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60937.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60936.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60966.jpg
+ a picture of a yellow van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60970.jpg
+ a picture of a yellow van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_60990.jpg
+ a picture of a man fixing a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_55947.jpg
+ a picture of a woman walking in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61026.jpg
+ a picture of a van parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61015.jpg
+ a picture of a man walking in front of a yellow van
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61009.jpg
+ a picture of a yellow van parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61017.jpg
+ a picture of a man standing next to a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61016.jpg
+ a picture of a group of people getting into a yellow van
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61008.jpg
+ a picture of a yellow van parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61014.jpg
+ a picture of a van that is yellow
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/Nigeria_bus_61007.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22039.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51121.jpg
+ a picture of a bus parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48073.jpg
+ a picture of a bus and a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48074.jpg
+ a picture of a bus that is on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22044.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47727.jpg
+ a picture of a bus parked in a bus station
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22021.jpg
+ a picture of a bus with a man in the back
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22041.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55786.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22045.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47944.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22046.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55784.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47725.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21985.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47943.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21986.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_48072.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22040.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22132.jpg
+ a picture of a bus on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_47726.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22133.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51120.jpg
+ a picture of a bus parked in front of a gas station
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_21987.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22006.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_51071.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55785.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_22131.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55922.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55837.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58888.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61022.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55920.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58889.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60935.jpg
+ a picture of a bus being towed by a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55833.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55834.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55919.jpg
+ a picture of a bus parked in a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55835.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61023.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55886.jpg
+ a picture of a bus and people on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55940.jpg
+ a picture of a white bus parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60973.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55929.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60996.jpg
+ a picture of a person walking on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60931.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55941.jpg
+ a picture of a person walking down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55887.jpg
+ a picture of a bus and a bus on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60971.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61024.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60934.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60977.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60979.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61021.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_58890.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61025.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60972.jpg
+ a picture of a bus and a bus in the background
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60978.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61006.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_60932.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55939.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55885.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61005.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_55836.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/bus/South_Africa_bus_61027.jpg
+ a picture of a bus

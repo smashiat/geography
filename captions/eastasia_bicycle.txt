@@ -1,0 +1,590 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23080.jpg
+ a picture of a small yellow vehicle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48859.jpg
+ a picture of a person standing next to a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48860.jpg
+ a picture of a person standing next to a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23079.jpg
+ a picture of a motorcycle parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23081.jpg
+ a picture of a motorcycle parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22716.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22717.jpg
+ a picture of a yellow bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22715.jpg
+ a picture of a bike parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22804.jpg
+ a picture of a bike and a chair
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22973.jpg
+ a picture of a bike parked in front of a blue door
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22805.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49125.jpg
+ a picture of a scoote
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22972.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_48834.jpg
+ a picture of a green cart
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23171.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49082.jpg
+ a picture of a scr scr scr scr scr scr scr scr scr sc
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49099.jpg
+ a picture of a bicycle with a red cover on it
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22803.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_48835.jpg
+ a picture of a bike with a cart on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49116.jpg
+ a picture of a motor parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49102.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23001.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49103.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49100.jpg
+ a picture of a scr scr scr scr scr scr scr scr scr sc
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22792.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23172.jpg
+ a picture of a bike parked on a brick sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49101.jpg
+ a picture of a motor parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49081.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22791.jpg
+ a picture of a bike on a floor
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23002.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49085.jpg
+ a picture of a yellow bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23003.jpg
+ a picture of a motorcycle parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23008.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49115.jpg
+ a picture of a row of parked motorcycles
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_22790.jpg
+ a picture of a red bike parked on a brick path
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49083.jpg
+ a picture of a bike parked in front of a car
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49084.jpg
+ a picture of a dog and a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_23173.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49215.jpg
+ a picture of a yellow bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49216.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49142.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49214.jpg
+ a picture of a motor parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49126.jpg
+ a picture of a motor parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49144.jpg
+ a picture of a bike parked against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49225.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49127.jpg
+ a picture of a girl ' s bike with a basket
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49141.jpg
+ a picture of a motorcycle parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49223.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49143.jpg
+ a picture of a pink bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49145.jpg
+ a picture of a small child ' s bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49224.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/China_bicycle_49140.jpg
+ a picture of a yellow bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22649.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22610.jpg
+ a picture of a bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22648.jpg
+ a picture of a bike parked in a train station
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22673.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22647.jpg
+ a picture of a bike parked in a store
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22612.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22611.jpg
+ a picture of a pink bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22674.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22870.jpg
+ a picture of a bicycle in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22800.jpg
+ a picture of a bicycle parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23056.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22924.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22847.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22850.jpg
+ a picture of a red bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22900.jpg
+ a picture of a red tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22864.jpg
+ a picture of a bike with a bag on it
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23174.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22925.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22852.jpg
+ a picture of a small child ' s bike in a dirty area
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22863.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22849.jpg
+ a picture of a bicycle and a bowl of food
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22851.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22860.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22859.jpg
+ a picture of bikes parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23136.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22926.jpg
+ a picture of a bike parked in front of a car
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22865.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22861.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22848.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22796.jpg
+ a picture of a bike with a basket on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22795.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23135.jpg
+ a picture of a bike and a backpack
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22794.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22714.jpg
+ a picture of a child ' s tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23139.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23138.jpg
+ a picture of a bicycle parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22901.jpg
+ a picture of a blue bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22869.jpg
+ a picture of a red bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22846.jpg
+ a picture of a bicycle parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22853.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23057.jpg
+ a picture of a bicycle parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22712.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22713.jpg
+ a picture of a bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22675.jpg
+ a picture of a bike parked next to a laptop
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22802.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23058.jpg
+ a picture of a bicycle parked in front of a store
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23071.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22871.jpg
+ a picture of a bicycle parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23137.jpg
+ a picture of a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22801.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23140.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_22899.jpg
+ a picture of a red bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48920.jpg
+ a picture of a bicycle parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48894.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48921.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48922.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23180.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48950.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48896.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48836.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48877.jpg
+ a picture of a bike parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48838.jpg
+ a picture of a bike parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48898.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48882.jpg
+ a picture of a bicycle parked against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48885.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48826.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23178.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48827.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48880.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48825.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23176.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48837.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48895.jpg
+ a picture of a bike and a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48886.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48881.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48897.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23179.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_23175.jpg
+ a picture of a bike with a basket on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49263.jpg
+ a picture of a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48962.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49272.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49271.jpg
+ a picture of a bicycle parked next to a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48984.jpg
+ a picture of a bike parked on the side of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49273.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48952.jpg
+ a picture of a bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49016.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49262.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49017.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48961.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49018.jpg
+ a picture of a bike parked on a stone path
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48985.jpg
+ a picture of a bike parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48963.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49261.jpg
+ a picture of a bike parked on a brick walkway
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48951.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48965.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49264.jpg
+ a picture of a bicycle parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49260.jpg
+ a picture of a bike parked on a brick sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48954.jpg
+ a picture of a bicycle parked in front of a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48964.jpg
+ a picture of a bike parked in front of a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_48953.jpg
+ a picture of a bike parked on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49259.jpg
+ a picture of a bike parked against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49279.jpg
+ a picture of a bicycle parked on a brick floor
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49348.jpg
+ a picture of a bike parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49349.jpg
+ a picture of two bikes parked next to each other bikes
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49353.jpg
+ a picture of a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49292.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49361.jpg
+ a picture of a bike rack with a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49278.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49360.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49308.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49291.jpg
+ a picture of a pile of motorcycles parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49289.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49324.jpg
+ a picture of a bike on a table
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49344.jpg
+ a picture of a kid ' s bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49343.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49294.jpg
+ a picture of a red bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49280.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49277.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49293.jpg
+ a picture of a bike with a basket
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49359.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49362.jpg
+ a picture of a bicycle parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49355.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49354.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49342.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49290.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49347.jpg
+ a picture of a red bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49370.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49363.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49377.jpg
+ a picture of a bike parked next to a table
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49394.jpg
+ a picture of a small child ' s bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49391.jpg
+ a picture of a red bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49395.jpg
+ a picture of a bike parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49390.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49375.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49386.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49373.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49367.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49392.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49393.jpg
+ a picture of a blue bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49369.jpg
+ a picture of a bunch of bikes parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49364.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49372.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49376.jpg
+ a picture of a bike parked next to a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49385.jpg
+ a picture of a bicycle parked on a bike rack
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49368.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49366.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49387.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49389.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49371.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49365.jpg
+ a picture of a bicycle parked next to a flower
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49388.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49396.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49412.jpg
+ a picture of a bicycle parked in front of a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49397.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49427.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49406.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49417.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49414.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49424.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49404.jpg
+ a picture of a bicycle parked in front of a store
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49407.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49405.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49411.jpg
+ a picture of a bicycle parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49419.jpg
+ a picture of a bicycle parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49420.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49398.jpg
+ a picture of a bicycle parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49399.jpg
+ a picture of a bike with a helmet and a pair of shoes
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49403.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49429.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49428.jpg
+ a picture of a bicycle parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49432.jpg
+ a picture of a motorcycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49425.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49413.jpg
+ a picture of a bike parked next to a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49418.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49416.jpg
+ a picture of a bicycle parked next to a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49415.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49426.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49433.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49434.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/Japan_bicycle_49435.jpg
+ a picture of a bicycle parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23046.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23133.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22798.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22781.jpg
+ a picture of a motorcycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23134.jpg
+ a picture of a bike parked next to a sign
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49080.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49070.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23130.jpg
+ a picture of a red bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49068.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49104.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22989.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23045.jpg
+ a picture of a dog and a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22990.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22797.jpg
+ a picture of a bike and a lego
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23132.jpg
+ a picture of a bike parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49078.jpg
+ a picture of a bicycle parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48945.jpg
+ a picture of a bike with a basket
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49079.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49069.jpg
+ a picture of a pink bike parked next to a white bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23129.jpg
+ a picture of a white bike on a brick path
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22845.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48815.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48816.jpg
+ a picture of a bike parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22782.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48901.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23131.jpg
+ a picture of a motorcycle parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48944.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48946.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22843.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22799.jpg
+ a picture of a bike on a table
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48900.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48814.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22991.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_23044.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_48899.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_22844.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49249.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49410.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49408.jpg
+ a picture of a bike parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49186.jpg
+ a picture of a pink bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49181.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49138.jpg
+ a picture of a bunch of bikes parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49185.jpg
+ a picture of a pink bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49409.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49437.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49179.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49164.jpg
+ a picture of a yellow bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49105.jpg
+ a picture of a yellow bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49165.jpg
+ a picture of a pink bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49106.jpg
+ a picture of a bike parked next to a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49139.jpg
+ a picture of a bike parked in a public bathroom
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49255.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49212.jpg
+ a picture of a bike parking in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49187.jpg
+ a picture of a scr scr scr scr scr scr scr scr scr sc
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49211.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49137.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49166.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49248.jpg
+ a picture of a kid ' s bike
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49253.jpg
+ a picture of a bike parked in front of a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49247.jpg
+ a picture of a bike rack with a bicycle
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49254.jpg
+ a picture of a bike parked next to a tree
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49180.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bicycle/South_Korea_bicycle_49213.jpg
+ a picture of a pink bike parked in front of a building

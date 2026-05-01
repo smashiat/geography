@@ -1,0 +1,726 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18211.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18212.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18210.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18545.jpg
+ a picture of a car parked in front of a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18219.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18533.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18534.jpg
+ a picture of a red car parked in front of a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18308.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18309.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18361.jpg
+ a picture of a small car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18535.jpg
+ a picture of a black car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18218.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18546.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18634.jpg
+ a picture of a car that is in the middle of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18360.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18633.jpg
+ a picture of a blue car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18532.jpg
+ a picture of a black car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18367.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18544.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18547.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18425.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18548.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18554.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18384.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18531.jpg
+ a picture of a car that is parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18477.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18307.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18359.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18638.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18217.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18637.jpg
+ a picture of a small car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18271.jpg
+ a picture of a white car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18368.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18412.jpg
+ a picture of a white jeep parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18385.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18475.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18445.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18411.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18272.jpg
+ a picture of a car that is parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18636.jpg
+ a picture of a car parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18413.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18444.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18424.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18553.jpg
+ a picture of a blue car parked under a tree
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18446.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18555.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18476.jpg
+ a picture of a dog standing next to a car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18366.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18536.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18270.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18635.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18423.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18383.jpg
+ a picture of two cars parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18549.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18855.jpg
+ a picture of a blue car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19040.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18938.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18862.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18965.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18692.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18864.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18929.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19039.jpg
+ a picture of two cars parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18863.jpg
+ a picture of a car that is parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18795.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18846.jpg
+ a picture of a car with a roof rack on top
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19038.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18939.jpg
+ a picture of a red car parked on a cobb road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18640.jpg
+ a picture of a red car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18691.jpg
+ a picture of a car being towed by a trailer
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18963.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18964.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18845.jpg
+ a picture of a small car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18639.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18665.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18774.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18794.jpg
+ a picture of a red car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18685.jpg
+ a picture of a car that is parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18776.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18844.jpg
+ a picture of a small car parked next to a smaller car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18687.jpg
+ a picture of a red car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18693.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19044.jpg
+ a picture of a car parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18930.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18918.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18686.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18917.jpg
+ a picture of a parking area with cars parked on the side
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18856.jpg
+ a picture of a blue car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18793.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18937.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18775.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18664.jpg
+ a picture of a white car parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18796.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18641.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18663.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18919.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_18928.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19099.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19123.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19058.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19184.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19055.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19183.jpg
+ a picture of a blue car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19182.jpg
+ a picture of a blue car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19101.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19122.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19097.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19098.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19045.jpg
+ a picture of a car parked under a wooden structure
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19102.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19126.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19061.jpg
+ a picture of a white van parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19127.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19046.jpg
+ a picture of a car parked under a wooden structure
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19056.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19125.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19057.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19100.jpg
+ a picture of a white car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19124.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19054.jpg
+ a picture of a small car parked in front of a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19053.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19063.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19062.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19252.jpg
+ a picture of a jeep parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19267.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19266.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19212.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19257.jpg
+ a picture of a car parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19207.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19253.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19206.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19265.jpg
+ a picture of a car parked on a cobb street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19258.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19251.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19211.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19268.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Italy_car_19208.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18659.jpg
+ a picture of a red van parked on a brick street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18543.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18541.jpg
+ a picture of a van parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18657.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18542.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Poland_car_18658.jpg
+ a picture of a car in a puddle
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18674.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18400.jpg
+ a picture of a parking lot with cars parked in it
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18402.jpg
+ a picture of a car and a truck in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18401.jpg
+ a picture of a car and a truck in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18673.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Portugal_car_18672.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18684.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18922.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18346.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18849.jpg
+ a picture of a car parked in the snow
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18924.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_19196.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18850.jpg
+ a picture of a car in the snow
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18851.jpg
+ a picture of a car in the snow
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18974.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18348.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18975.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18683.jpg
+ a picture of a red car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_19198.jpg
+ a picture of a car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18347.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_19197.jpg
+ a picture of a blue car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Romania_car_18923.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18321.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18268.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18322.jpg
+ a picture of a car parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18335.jpg
+ a picture of a car that is parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18262.jpg
+ a picture of a red car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18443.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18263.jpg
+ a picture of a green car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18495.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18303.jpg
+ a picture of a red car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18336.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18506.jpg
+ a picture of a car parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18334.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18304.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18508.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18431.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18418.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18497.jpg
+ a picture of a silver car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18417.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18370.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18442.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18441.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18269.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18305.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18505.jpg
+ a picture of a black car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18404.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18267.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18507.jpg
+ a picture of a car parked in front of a cement wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18371.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18419.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18430.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18231.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18496.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18230.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18504.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18403.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18369.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18432.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18582.jpg
+ a picture of a parking meter on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18647.jpg
+ a picture of two cars parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18857.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18769.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19072.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18858.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18750.jpg
+ a picture of a white car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19090.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18812.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19076.jpg
+ a picture of a blue car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18967.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18509.jpg
+ a picture of a blue mazda cx - 3 parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19071.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18813.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19041.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18773.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18901.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18583.jpg
+ a picture of a woman sitting on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18660.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18772.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18968.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18831.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19042.jpg
+ a picture of a red car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19070.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18771.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18581.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18903.jpg
+ a picture of a blue car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19060.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18662.jpg
+ a picture of a red car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18645.jpg
+ a picture of a blue car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18749.jpg
+ a picture of a silver car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18770.jpg
+ a picture of a white car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18814.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18690.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18966.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18902.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18848.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18646.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19077.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18561.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18688.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19059.jpg
+ a picture of a white van
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18689.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18661.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18748.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18768.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19075.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18847.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19043.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19255.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19119.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19091.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19221.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19171.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19192.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19193.jpg
+ a picture of a red car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19220.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19172.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19120.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19261.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19259.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19219.jpg
+ a picture of a van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19191.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19170.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19121.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_18229.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19260.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19256.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/Spain_car_19254.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18280.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18203.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18281.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18436.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18435.jpg
+ a picture of a yellow car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18619.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18607.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18386.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18391.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18414.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18656.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18249.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18591.jpg
+ a picture of a van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18319.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18285.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18518.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18235.jpg
+ a picture of a car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18390.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18415.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18362.jpg
+ a picture of a blue car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18617.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18387.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18202.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18590.jpg
+ a picture of a car parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18530.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18609.jpg
+ a picture of two cars parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18605.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18247.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18248.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18236.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18284.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18437.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18528.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18611.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18282.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18592.jpg
+ a picture of a white car parked in a residential area
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18654.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18201.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18618.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18237.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18416.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18259.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18283.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18610.jpg
+ a picture of a smart car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18519.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18655.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18529.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18261.jpg
+ a picture of a silver audi parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18388.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18606.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18389.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18260.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19264.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19204.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18675.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18977.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18913.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19250.jpg
+ a picture of a car parked on a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19103.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18980.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19248.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18786.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19249.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19106.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18952.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18951.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18785.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19133.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19263.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19108.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19105.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18823.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19262.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18978.jpg
+ a picture of a red car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19245.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19107.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18677.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18979.jpg
+ a picture of a silver car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18914.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18676.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19246.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18953.jpg
+ a picture of a black car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18787.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19202.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19247.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18976.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18912.jpg
+ a picture of two cars parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18824.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_18822.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19203.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19132.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/car/United_Kingdom_car_19104.jpg
+ a picture of a car parked on the side of the road

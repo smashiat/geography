@@ -1,0 +1,310 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42677.jpg
+ a picture of a truck parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42143.jpg
+ a picture of a truck with a man on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42142.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53655.jpg
+ a picture of a cement truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42058.jpg
+ a picture of a truck driving down a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53666.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42676.jpg
+ a picture of a truck parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53665.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53656.jpg
+ a picture of a truck with a trailer on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53657.jpg
+ a picture of a truck driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42026.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_53664.jpg
+ a picture of a red truck parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42174.jpg
+ a picture of a truck with a crane on it
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Saudi_Arabia_truck_42173.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17394.jpg
+ a picture of a truck parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17413.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17369.jpg
+ a picture of a dump truck on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17430.jpg
+ a picture of a dump truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17410.jpg
+ a picture of a truck and a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17444.jpg
+ a picture of a truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17368.jpg
+ a picture of a truck parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17411.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17417.jpg
+ a picture of a dump truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17386.jpg
+ a picture of a moving truck in a city
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17391.jpg
+ a picture of a truck parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17419.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17414.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57334.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17456.jpg
+ a picture of a red truck parked on a brick road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17454.jpg
+ a picture of a red truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17387.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17412.jpg
+ a picture of a truck with a tare on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17370.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17395.jpg
+ a picture of a dump truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17418.jpg
+ a picture of a truck and a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17448.jpg
+ a picture of a truck on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57332.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17449.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17455.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17443.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17453.jpg
+ a picture of a truck and a truck in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17429.jpg
+ a picture of a delivery truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17445.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17393.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17431.jpg
+ a picture of a truck with a trailer in the back
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_57333.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17416.jpg
+ a picture of a small truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17385.jpg
+ a picture of a truck driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41926.jpg
+ a picture of a truck on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42469.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41885.jpg
+ a picture of a truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17510.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17512.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17531.jpg
+ a picture of a truck that has been wrecked
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17591.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41924.jpg
+ a picture of a dump truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17556.jpg
+ a picture of a dump truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17590.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17521.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17532.jpg
+ a picture of a white van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17589.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17457.jpg
+ a picture of a truck with flames painted on it
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17509.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17568.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42468.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17511.jpg
+ a picture of a silver truck parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42357.jpg
+ a picture of a dump truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17534.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17508.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17552.jpg
+ a picture of a truck that is parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17513.jpg
+ a picture of a dump truck on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17551.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17529.jpg
+ a picture of a tree in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17570.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42410.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17458.jpg
+ a picture of a red truck parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17459.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41886.jpg
+ a picture of a dump truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41925.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42362.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42363.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42364.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17506.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42358.jpg
+ a picture of a truck with a yellow cover on it
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17533.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17530.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41887.jpg
+ a picture of a red truck parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17507.jpg
+ a picture of a truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_17569.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_41923.jpg
+ a picture of a truck parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50429.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42635.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42686.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50430.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50428.jpg
+ a picture of a dump truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42581.jpg
+ a picture of a truck on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42627.jpg
+ a picture of a dump truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53675.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50433.jpg
+ a picture of a red truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42621.jpg
+ a picture of a dump truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50431.jpg
+ a picture of a truck parked in the rain
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42664.jpg
+ a picture of a car and a van on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42655.jpg
+ a picture of a truck driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53674.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42637.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42573.jpg
+ a picture of a truck parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50407.jpg
+ a picture of a truck driving down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42654.jpg
+ a picture of a truck and a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42523.jpg
+ a picture of a white car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50427.jpg
+ a picture of a dump truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42620.jpg
+ a picture of a truck parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42684.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42685.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42533.jpg
+ a picture of a man on a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42636.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42628.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42653.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42622.jpg
+ a picture of a dump truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42571.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42687.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_42572.jpg
+ a picture of a delivery truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50412.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_50413.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56772.jpg
+ a picture of a white van
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56386.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56382.jpg
+ a picture of a truck driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56775.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56387.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56383.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53679.jpg
+ a picture of a city
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53742.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53730.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53729.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53678.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53676.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53695.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56776.jpg
+ a picture of a truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56381.jpg
+ a picture of a dump truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53694.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56773.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53680.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56774.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_56385.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/Turkey_truck_53696.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57302.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_53737.jpg
+ a picture of a truck with a red truck in the back
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42662.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_53736.jpg
+ a picture of a truck with a truck bed
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57337.jpg
+ a picture of a truck driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57300.jpg
+ a picture of a truck parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57301.jpg
+ a picture of a truck parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57336.jpg
+ a picture of a truck driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42089.jpg
+ a picture of a truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_42663.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/truck/United_Arab_Emirates_truck_57335.jpg
+ a picture of a dump truck driving down the street

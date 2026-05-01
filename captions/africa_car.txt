@@ -1,0 +1,646 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18708.jpg
+ a picture of a car that is damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18709.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18707.jpg
+ a picture of a car that is parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18514.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43099.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19222.jpg
+ a picture of a car that is stuck in the mud
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43098.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19238.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19223.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19239.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19092.jpg
+ a picture of the car that was involved in the crash
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19013.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19011.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43103.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18622.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18623.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43104.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18898.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18900.jpg
+ a picture of a car parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18624.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43097.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18899.jpg
+ a picture of a red car parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19224.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18513.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18511.jpg
+ a picture of a car that is stuck to the ground
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19012.jpg
+ a picture of a car that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19094.jpg
+ a picture of a car that is parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_19093.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18512.jpg
+ a picture of a car parked in front of a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_18510.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43359.jpg
+ a picture of a red car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43152.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43361.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43358.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43170.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43308.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43326.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43315.jpg
+ a picture of a yellow car in a dirty street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43362.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43360.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43151.jpg
+ a picture of a car in a showroom
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43171.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43314.jpg
+ a picture of a car that is parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43309.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43126.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43363.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43169.jpg
+ a picture of a car that is parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43324.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43150.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43134.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43125.jpg
+ a picture of a parking lot with cars parked in it
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43133.jpg
+ a picture of a car that is sitting on the ground
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43325.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Egypt_car_43310.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18197.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18198.jpg
+ a picture of a car parked under a canopy
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18196.jpg
+ a picture of a car covered up with a sheet
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18199.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18585.jpg
+ a picture of a car parked on a cobbed street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18317.jpg
+ a picture of a car that is damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18498.jpg
+ a picture of a car parked under a roof
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18253.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18257.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18499.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18484.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18351.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18556.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18318.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18254.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18600.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18353.jpg
+ a picture of a white car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18357.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18599.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18355.jpg
+ a picture of a car parked in a dirty street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18433.jpg
+ a picture of a car that is stuck in the sand
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18485.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18207.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18316.jpg
+ a picture of a car parked under a aw
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18397.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18593.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18552.jpg
+ a picture of a red car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18382.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18601.jpg
+ a picture of a red car parked in a dirty street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18537.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18258.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18313.jpg
+ a picture of a car that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18354.jpg
+ a picture of a car that is dirty
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18550.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18358.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18584.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18602.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18256.jpg
+ a picture of a man walking down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18356.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18352.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18596.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18597.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18551.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18314.jpg
+ a picture of a car that is stuck to a tree
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18380.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18398.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18275.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18594.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18434.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18586.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18598.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18486.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18276.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18255.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18381.jpg
+ a picture of a car with a broken hood
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18595.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18209.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18208.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18399.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18315.jpg
+ a picture of a red car parked under a bridge
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18991.jpg
+ a picture of a car that is parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18604.jpg
+ a picture of a black car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18603.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18927.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18651.jpg
+ a picture of a dog laying on the ground next to a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18954.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18736.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18936.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18931.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18933.jpg
+ a picture of a car parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18994.jpg
+ a picture of a man riding a skateboard
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18791.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18837.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18652.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18835.jpg
+ a picture of a car that is stuck in the mud
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18644.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18629.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18843.jpg
+ a picture of a silver truck parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18820.jpg
+ a picture of a car and a dog
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18653.jpg
+ a picture of a red sports car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18792.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18932.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18836.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18956.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18643.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18821.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18819.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18925.jpg
+ a picture of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18916.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18841.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18989.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18915.jpg
+ a picture of a car stuck to the ground in a flooded street in the city of gula, nicaragua
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18842.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18737.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18682.jpg
+ a picture of a car parked on a brick street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18955.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18990.jpg
+ a picture of a car parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18981.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18995.jpg
+ a picture of a silver car parked in front of a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18982.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18957.jpg
+ a picture of a car parked in a narrow alley
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18992.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18934.jpg
+ a picture of a black suv parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18628.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18958.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18642.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18735.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18920.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18681.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18926.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18921.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18935.jpg
+ a picture of a blue car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18993.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19036.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19031.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19065.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19080.jpg
+ a picture of a car parked in a village
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19023.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19048.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19052.jpg
+ a picture of a silver car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19035.jpg
+ a picture of a silver car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19021.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18996.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19096.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19066.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19115.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19051.jpg
+ a picture of a black car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19030.jpg
+ a picture of a white car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19111.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19069.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_18997.jpg
+ a picture of a car parked on a concrete platform
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19114.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19049.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19064.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19029.jpg
+ a picture of a car that is parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19109.jpg
+ a picture of a gray suv parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19095.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19047.jpg
+ a picture of a car parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19116.jpg
+ a picture of a car that is parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19037.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19022.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19068.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19067.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19110.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19113.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19112.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19078.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19079.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19050.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43024.jpg
+ a picture of a black car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43118.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19216.jpg
+ a picture of a car that is stuck in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19269.jpg
+ a picture of a car driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43161.jpg
+ a picture of a car parked in the leaves
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43158.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43141.jpg
+ a picture of a car and a truck in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43135.jpg
+ a picture of a car and a sign on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19218.jpg
+ a picture of a car parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43142.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19188.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19200.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19201.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19244.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19242.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43160.jpg
+ a picture of a car that is damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19189.jpg
+ a picture of a car parked under a tree
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43159.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43163.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19271.jpg
+ a picture of a car driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43022.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43153.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43023.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43143.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19199.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43154.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43162.jpg
+ a picture of a car parked in the shade
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43117.jpg
+ a picture of a car that is stuck to the side
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19217.jpg
+ a picture of a car that is parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19270.jpg
+ a picture of a car driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19243.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19190.jpg
+ a picture of a car that is in the middle of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43116.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19163.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19161.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_19162.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43250.jpg
+ a picture of a car that is parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43214.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43164.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43215.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43168.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43230.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43249.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43231.jpg
+ a picture of a blue car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43251.jpg
+ a picture of a green car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43165.jpg
+ a picture of a car parked in a dirt lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43166.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43167.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43212.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43213.jpg
+ a picture of a car that is parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43173.jpg
+ a picture of a car parked on the tracks
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43174.jpg
+ a picture of a car
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43172.jpg
+ a picture of a car parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/Nigeria_car_43229.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18620.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18312.jpg
+ a picture of a white car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18439.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18440.jpg
+ a picture of a red mercedes suv parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18521.jpg
+ a picture of a car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18376.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18220.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18526.jpg
+ a picture of a silver car parked on a brick sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18763.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18516.jpg
+ a picture of a truck parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18632.jpg
+ a picture of a car parked on a cobbled street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18421.jpg
+ a picture of a car parked in a carp
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18420.jpg
+ a picture of a car parked under a carp
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18422.jpg
+ a picture of a car parked under a carp
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18469.jpg
+ a picture of a car parked on a brick sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18520.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18438.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18311.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18375.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18224.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18527.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18630.jpg
+ a picture of a car parked on a cobbled street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18221.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18631.jpg
+ a picture of a white truck parked on a cobb road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18310.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18762.jpg
+ a picture of a white mercedes g6
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18621.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18225.jpg
+ a picture of a blue jeep parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18522.jpg
+ a picture of a car that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18503.jpg
+ a picture of a silver car parked in front of a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18517.jpg
+ a picture of a person standing in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18525.jpg
+ a picture of a red car parked in front of a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18761.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18223.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18515.jpg
+ a picture of a white van parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18222.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43237.jpg
+ a picture of a parking lot with a truck parked in it
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19074.jpg
+ a picture of a street with cars parked on it
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18789.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19089.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19027.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18797.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19087.jpg
+ a picture of a silver bmw suv parked on a brick driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43236.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19026.jpg
+ a picture of a truck parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43234.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43130.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19033.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19024.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19167.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43233.jpg
+ a picture of a car that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19169.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19168.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19028.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18948.jpg
+ a picture of a car parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43131.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43232.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19073.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18949.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18790.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19025.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_18788.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_19088.jpg
+ a picture of a silver car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43235.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43132.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/car/South_Africa_car_43238.jpg
+ a picture of a car parked in a parking lot

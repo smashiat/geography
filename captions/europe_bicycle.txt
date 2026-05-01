@@ -1,0 +1,476 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/France_bicycle_22606.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/France_bicycle_22605.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22746.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22743.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22750.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22686.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22658.jpg
+ a picture of a bike parked next to a car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22920.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22807.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22809.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22808.jpg
+ a picture of a pink bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22892.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22806.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22769.jpg
+ a picture of a bike parked on a balcony
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22810.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22890.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22912.jpg
+ a picture of a bicycle parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22742.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22910.jpg
+ a picture of a bicycle parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22687.jpg
+ a picture of a pink bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22657.jpg
+ a picture of a bike parked next to a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22891.jpg
+ a picture of a bicycle parked against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22751.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22621.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22748.jpg
+ a picture of a scr scr scr scr scr scr scr scr scr sc
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22637.jpg
+ a picture of a bike that is laying on the ground
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22747.jpg
+ a picture of a red bike with a green seat
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22697.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22949.jpg
+ a picture of a pink bike parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22911.jpg
+ a picture of a bike parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22752.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22948.jpg
+ a picture of a pink bike parked on a step ladder
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22622.jpg
+ a picture of a bike parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22698.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22623.jpg
+ a picture of a bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22744.jpg
+ a picture of a bike parked on the side of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22696.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22656.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22919.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23113.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23111.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23034.jpg
+ a picture of a bicycle parked in front of a fence
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23183.jpg
+ a picture of a bunch of bikes parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23067.jpg
+ a picture of a small white and green bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23107.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23106.jpg
+ a picture of a bike chained on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23105.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23065.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23185.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23122.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23109.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23009.jpg
+ a picture of a bicycle parked on a railing
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23110.jpg
+ a picture of a bicycle parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23060.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23061.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23012.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23123.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23108.jpg
+ a picture of a row of bikes parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23059.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23043.jpg
+ a picture of a red bike on a marble floor
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23124.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23112.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23184.jpg
+ a picture of a small bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23033.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23066.jpg
+ a picture of a pink bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23035.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_22950.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23011.jpg
+ a picture of a yellow bike parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23013.jpg
+ a picture of a bike parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23014.jpg
+ a picture of a bike parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23115.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23186.jpg
+ a picture of a bike in a kitchen
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23010.jpg
+ a picture of a bike that is leaning against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48909.jpg
+ a picture of a bike parked in a corner
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23196.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48912.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48904.jpg
+ a picture of a pink bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48903.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23195.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48905.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_23194.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48910.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48907.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48913.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48908.jpg
+ a picture of a pink bike parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Italy_bicycle_48911.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Poland_bicycle_22866.jpg
+ a picture of a bicycle parked on a railing
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Poland_bicycle_22868.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Poland_bicycle_22867.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Portugal_bicycle_22902.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Portugal_bicycle_22903.jpg
+ a picture of a pink tri tricycle
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23145.jpg
+ a picture of a bike parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49207.jpg
+ a picture of a bike parked against a rock wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49119.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49109.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23074.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23062.jpg
+ a picture of a kid ' s tricycle
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49206.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49208.jpg
+ a picture of a bike parked against a stone wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23144.jpg
+ a picture of a blue bike with a bucket and a plastic bag
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49117.jpg
+ a picture of a bicycle parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_48966.jpg
+ a picture of a green bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49108.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_48936.jpg
+ a picture of a dirt bike parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23063.jpg
+ a picture of a red bike with blue wheels
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_48935.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49118.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49004.jpg
+ a picture of a bike hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49003.jpg
+ a picture of a bike hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49087.jpg
+ a picture of a dog on a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49005.jpg
+ a picture of a bike hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49107.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_23064.jpg
+ a picture of a person on a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_48934.jpg
+ a picture of a bike with a blue handle
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49202.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Romania_bicycle_49210.jpg
+ a picture of a bicycle parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22754.jpg
+ a picture of a bicycle parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22663.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22916.jpg
+ a picture of a bike parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22753.jpg
+ a picture of a bicycle with a basket on the back
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23151.jpg
+ a picture of a man laying on the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22930.jpg
+ a picture of a bike hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22755.jpg
+ a picture of a bicycle parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23149.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23029.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22833.jpg
+ a picture of a bike leaning against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22583.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22662.jpg
+ a picture of a red bike parked in front of a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22904.jpg
+ a picture of a kid ' s bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22917.jpg
+ a picture of a bicycle hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22905.jpg
+ a picture of two bikes parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23026.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22906.jpg
+ a picture of a pink bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23024.jpg
+ a picture of a yellow bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22726.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22664.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22999.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23025.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23027.jpg
+ a picture of a green electric bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23000.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22832.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22835.jpg
+ a picture of a bike parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22998.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23150.jpg
+ a picture of a bicycle parked on a bridge
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22724.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23028.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22834.jpg
+ a picture of a bike with a blue cover on it
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22831.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22584.jpg
+ a picture of a dirt bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22918.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22959.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22725.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23101.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22830.jpg
+ a picture of a bicycle and a bicycle rack
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_22931.jpg
+ a picture of a bike hanging on a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23100.jpg
+ a picture of a child ' s tricycle
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23193.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23190.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48868.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23161.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48871.jpg
+ a picture of a bike hanging on a ceiling
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48853.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48854.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48870.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48932.jpg
+ a picture of a bicycle parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_49001.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23156.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23181.jpg
+ a picture of a bike on a stand
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48855.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23163.jpg
+ a picture of a bike parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23157.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48867.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_49000.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48933.jpg
+ a picture of a red bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23191.jpg
+ a picture of a bike and a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23189.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23162.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23192.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48869.jpg
+ a picture of a child ' s tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23188.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_23155.jpg
+ a picture of a bike parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/Spain_bicycle_48931.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22671.jpg
+ a picture of a bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22693.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22633.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22634.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22632.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22676.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22688.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22709.jpg
+ a picture of a bike parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22672.jpg
+ a picture of a bike parked against a wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22710.jpg
+ a picture of a bike in the yard
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22759.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22745.jpg
+ a picture of a bike and a backpack
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22695.jpg
+ a picture of a person on a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22689.jpg
+ a picture of a bike leaning on a railing
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22711.jpg
+ a picture of a bike with a wooden fence in the background
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22694.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22932.jpg
+ a picture of a bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22992.jpg
+ a picture of a bicycle parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23152.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22828.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22943.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23159.jpg
+ a picture of a bicycle parked on the side of the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22942.jpg
+ a picture of a bicycle parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22983.jpg
+ a picture of a bike parked in a garden
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22812.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23158.jpg
+ a picture of a bike chained to a pole
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23153.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22994.jpg
+ a picture of a bike parked on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22814.jpg
+ a picture of a bike parked in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23125.jpg
+ a picture of a bicycle in a store window
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_48982.jpg
+ a picture of a bike on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22958.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22826.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23070.jpg
+ a picture of a bicycle parked against a brick wall
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22984.jpg
+ a picture of a bike parked in a garden
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23160.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23103.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22934.jpg
+ a picture of a bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22993.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22827.jpg
+ a picture of a bicycle parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22760.jpg
+ a picture of a bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23104.jpg
+ a picture of a bike parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23020.jpg
+ a picture of a blue bike with a flower in a vase
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22811.jpg
+ a picture of a bike parked next to a chair
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23068.jpg
+ a picture of a bike in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23078.jpg
+ a picture of a bike parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_48981.jpg
+ a picture of a bicycle parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23069.jpg
+ a picture of a red bike parked on a sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22761.jpg
+ a picture of a person sitting on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23165.jpg
+ a picture of a girl ' s bike on a wooden floor
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22933.jpg
+ a picture of a bike parked in a doorway
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22815.jpg
+ a picture of a green bike
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_22816.jpg
+ a picture of a bike in a room
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23154.jpg
+ a picture of a bicycle parked on the sidewalk
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_23102.jpg
+ a picture of a bike parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bicycle/United_Kingdom_bicycle_48983.jpg
+ a picture of a bike parked on the sidewalk

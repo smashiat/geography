@@ -1,0 +1,470 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18448.jpg
+ a picture of a car painted with a cat
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18779.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18568.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18449.jpg
+ a picture of a car that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18567.jpg
+ a picture of a truck in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18891.jpg
+ a picture of a black car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18717.jpg
+ a picture of a car that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18350.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18577.jpg
+ a picture of a black car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18876.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18540.jpg
+ a picture of a white car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19001.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18886.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18379.jpg
+ a picture of a car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18877.jpg
+ a picture of a car that is in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19002.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19003.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18206.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18722.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18239.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18341.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18576.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18723.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18879.jpg
+ a picture of a white suv parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18669.jpg
+ a picture of a car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18538.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18447.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19005.jpg
+ a picture of a car that was damaged in the accident
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18716.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18569.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18671.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18575.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18878.jpg
+ a picture of a grey car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19004.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18888.jpg
+ a picture of a green van parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18880.jpg
+ a picture of a car that is parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18746.jpg
+ a picture of a car parked in a dirty street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18887.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18777.jpg
+ a picture of a yellow car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18205.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18240.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18339.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19006.jpg
+ a picture of a van that was involved in a car bomb in the city of gula, guatemala
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18273.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19136.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18204.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18349.jpg
+ a picture of a yellow car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18747.jpg
+ a picture of a car parked on a dirt road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18488.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18889.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18778.jpg
+ a picture of a silver car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18718.jpg
+ a picture of a grey car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18377.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18745.jpg
+ a picture of a black car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18757.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18539.jpg
+ a picture of a white car parked in the grass
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18487.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18670.jpg
+ a picture of a white jeep parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18378.jpg
+ a picture of a woman sitting on a bench
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18574.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18780.jpg
+ a picture of a black car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18340.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18274.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18238.jpg
+ a picture of a car parked on the side of a road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18489.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18450.jpg
+ a picture of a red car parked on a cobb road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_18890.jpg
+ a picture of a black suv parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19181.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19236.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43071.jpg
+ a picture of a man walking down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43078.jpg
+ a picture of a green car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43070.jpg
+ a picture of a street with a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19235.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43020.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43079.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43092.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43091.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43096.jpg
+ a picture of a black van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19180.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43188.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43066.jpg
+ a picture of a van parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43047.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19237.jpg
+ a picture of a person on a motorcycle
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43068.jpg
+ a picture of a car that is in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43067.jpg
+ a picture of a truck parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43021.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43088.jpg
+ a picture of a street with a car and motor
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43093.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43069.jpg
+ a picture of a car driving down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43189.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43094.jpg
+ a picture of a white car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43095.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43046.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43037.jpg
+ a picture of a car parked in front of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43190.jpg
+ a picture of a red car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19154.jpg
+ a picture of a black bmw in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19179.jpg
+ a picture of a car parked under a carp
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43048.jpg
+ a picture of a red car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43089.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43019.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19152.jpg
+ a picture of a silver car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43039.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43038.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19153.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43090.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43192.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19205.jpg
+ a picture of a car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_19231.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43344.jpg
+ a picture of a white car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43217.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43225.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43218.jpg
+ a picture of a car parked under a bridge
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43337.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43211.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43290.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43247.jpg
+ a picture of a car with a broken roof
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43193.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43222.jpg
+ a picture of a van parked in a dirty street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43288.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43224.jpg
+ a picture of a car that is parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43354.jpg
+ a picture of a white car parked on the side of a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43287.jpg
+ a picture of a red car driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43338.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43289.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43248.jpg
+ a picture of a toy truck on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43223.jpg
+ a picture of a car in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43355.jpg
+ a picture of a white car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43304.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43345.jpg
+ a picture of a white car parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43280.jpg
+ a picture of a car
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43216.jpg
+ a picture of a man sleeping on a bench next to a car
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43357.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43384.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43303.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43194.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Indonesia_car_43356.jpg
+ a picture of a silver toyota bre
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18234.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18232.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Malaysia_car_18233.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18470.jpg
+ a picture of a car driving down a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18739.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18719.jpg
+ a picture of a white truck parked in the dirt
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18213.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18579.jpg
+ a picture of a car parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18720.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18741.jpg
+ a picture of a car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18570.jpg
+ a picture of a car parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18740.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18580.jpg
+ a picture of a jeep parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18493.jpg
+ a picture of a car and a motorcycle on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18494.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18471.jpg
+ a picture of a car and a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18721.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18578.jpg
+ a picture of a white car parked on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19147.jpg
+ a picture of a truck
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43114.jpg
+ a picture of a car parked on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43198.jpg
+ a picture of a car parked under a bridge
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43025.jpg
+ a picture of a car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19146.jpg
+ a picture of a red car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43379.jpg
+ a picture of a blue truck parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43293.jpg
+ a picture of a car parked in a field
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43111.jpg
+ a picture of a car parked in front of a sign
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18893.jpg
+ a picture of a white car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43291.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43113.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43112.jpg
+ a picture of a white truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43292.jpg
+ a picture of a truck parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18892.jpg
+ a picture of a car in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18815.jpg
+ a picture of a maroon colored car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43115.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43026.jpg
+ a picture of a car parked in a gravel lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43295.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19148.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43317.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43294.jpg
+ a picture of a car with a tent on top
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_19032.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43196.jpg
+ a picture of a red truck parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43197.jpg
+ a picture of a car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43378.jpg
+ a picture of a car parked in a yard
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43380.jpg
+ a picture of a car that has been damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_18894.jpg
+ a picture of a red car parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43027.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43296.jpg
+ a picture of a jeep parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Philippines_car_43316.jpg
+ a picture of a car that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18244.jpg
+ a picture of a black suv parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18342.jpg
+ a picture of a car that is damaged
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18615.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18245.jpg
+ a picture of a black car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18246.jpg
+ a picture of a car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18869.jpg
+ a picture of a red car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18868.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18767.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19010.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43105.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18343.jpg
+ a picture of a white car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18478.jpg
+ a picture of a car parked under a tent
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18783.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18766.jpg
+ a picture of a truck parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18742.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18614.jpg
+ a picture of a red car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19241.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43106.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43107.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18743.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18744.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18480.jpg
+ a picture of a jeep parked under a tent
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19240.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19009.jpg
+ a picture of a car parked in a street
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_19034.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18479.jpg
+ a picture of a car parked under a shade
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_18784.jpg
+ a picture of a car parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43077.jpg
+ a picture of a white car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43352.jpg
+ a picture of a white car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43388.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43273.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43335.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43302.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43241.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43243.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43272.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43271.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43353.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43128.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43220.jpg
+ a picture of a white truck parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43129.jpg
+ a picture of a white car parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43219.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43301.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43195.jpg
+ a picture of a car parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43300.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43387.jpg
+ a picture of a car parked in a driveway
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43336.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43351.jpg
+ a picture of a truck parked in a parking lot
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43221.jpg
+ a picture of a car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43127.jpg
+ a picture of a white car parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/southeastasia/car/Thailand_car_43242.jpg
+ a picture of a car parked in a driveway

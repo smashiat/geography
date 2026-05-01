@@ -1,0 +1,452 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47693.jpg
+ a picture of a bus and a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22055.jpg
+ a picture of a bus stop in a city
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22093.jpg
+ a picture of a bus and a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22008.jpg
+ a picture of a bus that is stuck in the snow
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_21992.jpg
+ a picture of a bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22108.jpg
+ a picture of a bus and a bus in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22004.jpg
+ a picture of a bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47721.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22092.jpg
+ a picture of a bus and a car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47722.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22109.jpg
+ a picture of a parking lot with a bus and a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22137.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22091.jpg
+ a picture of a bus parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_21991.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47877.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47692.jpg
+ a picture of a bus that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22056.jpg
+ a picture of a bus with a lion on it
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47694.jpg
+ a picture of a bus and a van on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22110.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47723.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22057.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22007.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_22138.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47929.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47921.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47910.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47932.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48025.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47949.jpg
+ a picture of a bus parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47911.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48014.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48059.jpg
+ a picture of a bus and a car on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47948.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47930.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48023.jpg
+ a picture of a bus parked on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47923.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47934.jpg
+ a picture of a bus parked under a bridge
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48002.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47907.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48060.jpg
+ a picture of a bus and a person crossing a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47909.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47908.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48058.jpg
+ a picture of a bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48024.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48013.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47922.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47933.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47931.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48062.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48079.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48061.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60965.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58563.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60964.jpg
+ a picture of a bus and a car on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60955.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58557.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60994.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58555.jpg
+ a picture of a bus parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58561.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48071.jpg
+ a picture of a yellow bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58566.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58556.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60956.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_60995.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_51249.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48063.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48070.jpg
+ a picture of a yellow bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48080.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58562.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58565.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_58564.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48076.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_48075.jpg
+ a picture of a bus and a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_51250.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Poland_bus_22062.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47791.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47795.jpg
+ a picture of a bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47794.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47802.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47792.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47917.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47869.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_22095.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47938.jpg
+ a picture of a van parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_22094.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47937.jpg
+ a picture of a yellow van parked on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47743.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47999.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47936.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47801.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47918.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47793.jpg
+ a picture of a bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_47803.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60961.jpg
+ a picture of a bus station with buses parked
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48000.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60951.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60950.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_60962.jpg
+ a picture of a bus station with a bus parked in the station
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48077.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48021.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48022.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Romania_bus_48078.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22035.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22073.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22098.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22059.jpg
+ a picture of a green bus parked in front of a house
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21990.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22072.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22022.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22099.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21989.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22060.jpg
+ a picture of a bus that is parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_21988.jpg
+ a picture of a green bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22100.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22061.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22036.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22144.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22105.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47704.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47716.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22148.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47868.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22124.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22126.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22114.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47717.jpg
+ a picture of a bus stop with a bus parked in the background
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22129.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47701.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47700.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47893.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22115.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22147.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22103.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22125.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22145.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47889.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22151.jpg
+ a picture of a bus parked on a road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22150.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47702.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47866.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22102.jpg
+ a picture of a bus that is parked in the rain
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22104.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22130.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22116.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22152.jpg
+ a picture of a yellow bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47867.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22146.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_22149.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47705.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47728.jpg
+ a picture of a bus and a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47888.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47996.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47920.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_58887.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59050.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47991.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47924.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60999.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59051.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47897.jpg
+ a picture of a bus parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60958.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_58886.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47990.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60954.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47919.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60985.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47997.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60986.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47898.jpg
+ a picture of a bus parked in a garage
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59058.jpg
+ a picture of a bus and a car
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47946.jpg
+ a picture of a city street with a bus and cars
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59052.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47998.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59056.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47896.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47906.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_59057.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47905.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_60957.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47876.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/France_bus_61003.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47881.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47882.jpg
+ a picture of a bus driving down the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Italy_bus_47875.jpg
+ a picture of a bus and a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/France_bus_61004.jpg
+ a picture of a double decker bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/Spain_bus_47880.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22005.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22111.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_21983.jpg
+ a picture of a red double decker bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22038.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_21984.jpg
+ a picture of a bus parked in a parking
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22082.jpg
+ a picture of a bus parked in front of a building
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22037.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22096.jpg
+ a picture of a bus driving down the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22113.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22112.jpg
+ a picture of a red bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22143.jpg
+ a picture of a bus on the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59055.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47995.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47890.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60959.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22141.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47871.jpg
+ a picture of a double decker bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22119.jpg
+ a picture of a bus that is parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47870.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60953.jpg
+ a picture of a red double decker bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58560.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58559.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22127.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47752.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47994.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60952.jpg
+ a picture of a red bus on a city street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59053.jpg
+ a picture of a bus and a car on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47891.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_59054.jpg
+ a picture of a bus and cars on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_47892.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22118.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_48012.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22139.jpg
+ a picture of a bus parked in a bus stop
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22142.jpg
+ a picture of a bus
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22128.jpg
+ a picture of a bus that is parked in the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_22140.jpg
+ a picture of a bus parked in a lot
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_58558.jpg
+ a picture of a bus on the street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60969.jpg
+ a picture of a bus on a street
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60960.jpg
+ a picture of a bus parked on the side of the road
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/bus/United_Kingdom_bus_60967.jpg
+ a picture of a double decker bus on a city street
