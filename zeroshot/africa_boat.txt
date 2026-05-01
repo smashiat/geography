@@ -1,0 +1,908 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46712.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0903, 22.6942, 24.3768, 23.4750, 29.3305]])
+Probabilities for the given text: tensor([[0.0019, 0.0013, 0.0070, 0.0028, 0.9870]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46586.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1236, 19.9228, 18.8961, 22.3317, 28.1457]])
+Probabilities for the given text: tensor([[4.4258e-05, 2.6755e-04, 9.5824e-05, 2.9754e-03, 9.9662e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46587.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2105, 20.3870, 19.8237, 22.7167, 28.6867]])
+Probabilities for the given text: tensor([[2.0772e-04, 2.4781e-04, 1.4109e-04, 2.5462e-03, 9.9686e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46645.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9143, 20.8146, 21.8157, 22.2017, 28.9930]])
+Probabilities for the given text: tensor([[3.0933e-04, 2.7997e-04, 7.6190e-04, 1.1208e-03, 9.9753e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46588.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5029, 20.1158, 19.7437, 22.6320, 27.5296]])
+Probabilities for the given text: tensor([[1.1913e-04, 5.9774e-04, 4.1201e-04, 7.4010e-03, 9.9147e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46770.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.8160, 20.2466, 19.8737, 17.9782, 27.2483]])
+Probabilities for the given text: tensor([[2.9416e-05, 9.0876e-04, 6.2592e-04, 9.4036e-05, 9.9834e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46666.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6673, 21.8097, 20.9707, 19.9846, 27.7107]])
+Probabilities for the given text: tensor([[1.1765e-04, 2.7247e-03, 1.1775e-03, 4.3919e-04, 9.9554e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46667.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8257, 22.9078, 22.4450, 21.9601, 30.3030]])
+Probabilities for the given text: tensor([[7.6468e-05, 6.1336e-04, 3.8611e-04, 2.3777e-04, 9.9869e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46648.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4220, 21.2400, 22.5510, 23.1120, 30.1271]])
+Probabilities for the given text: tensor([[1.6545e-04, 1.3793e-04, 5.1165e-04, 8.9666e-04, 9.9829e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46802.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8675, 20.4241, 19.6179, 20.1748, 26.7047]])
+Probabilities for the given text: tensor([[1.0675e-03, 1.8625e-03, 8.3176e-04, 1.4515e-03, 9.9479e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46646.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6665, 20.3317, 19.8608, 19.9843, 27.5328]])
+Probabilities for the given text: tensor([[1.0394e-03, 7.4372e-04, 4.6441e-04, 5.2543e-04, 9.9723e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46771.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.0237, 21.4204, 21.4184, 19.7408, 25.4393]])
+Probabilities for the given text: tensor([[7.8366e-05, 1.7293e-02, 1.7258e-02, 3.2242e-03, 9.6215e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46804.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2039, 21.6056, 20.8340, 20.9057, 27.8947]])
+Probabilities for the given text: tensor([[4.5515e-04, 1.8488e-03, 8.5469e-04, 9.1825e-04, 9.9592e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46647.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0519, 19.7542, 21.4668, 21.0193, 28.5963]])
+Probabilities for the given text: tensor([[1.9430e-04, 1.4428e-04, 7.9978e-04, 5.1123e-04, 9.9835e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46803.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4924, 21.9209, 21.3656, 22.0126, 28.1759]])
+Probabilities for the given text: tensor([[4.5782e-04, 1.9101e-03, 1.0962e-03, 2.0936e-03, 9.9444e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46769.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3886, 21.0804, 20.3719, 17.3269, 24.9731]])
+Probabilities for the given text: tensor([[4.9278e-04, 1.9769e-02, 9.7340e-03, 4.6328e-04, 9.6954e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57556.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5454, 21.0694, 21.5959, 23.7383, 29.8851]])
+Probabilities for the given text: tensor([[2.3817e-04, 1.4796e-04, 2.5050e-04, 2.1344e-03, 9.9723e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46849.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0207, 20.9968, 20.7253, 21.6410, 27.3020]])
+Probabilities for the given text: tensor([[0.0019, 0.0018, 0.0014, 0.0034, 0.9915]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46850.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6152, 22.7890, 20.0769, 20.9615, 27.7825]])
+Probabilities for the given text: tensor([[7.6446e-04, 6.7211e-03, 4.4623e-04, 1.0808e-03, 9.9099e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61351.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8279, 19.5297, 19.8671, 22.0609, 26.7300]])
+Probabilities for the given text: tensor([[3.6573e-04, 7.3788e-04, 1.0340e-03, 9.2740e-03, 9.8859e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46910.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.3186, 17.3857, 16.9463, 20.3067, 26.6545]])
+Probabilities for the given text: tensor([[3.2385e-05, 9.4136e-05, 6.0669e-05, 1.7472e-03, 9.9807e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61521.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1123, 26.4708, 25.5248, 26.4056, 34.0207]])
+Probabilities for the given text: tensor([[3.6706e-04, 5.2530e-04, 2.0397e-04, 4.9216e-04, 9.9841e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60708.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5044, 18.1238, 19.6259, 21.1434, 27.0812]])
+Probabilities for the given text: tensor([[1.8776e-04, 1.2832e-04, 5.7629e-04, 2.6284e-03, 9.9648e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60704.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0106, 21.7075, 20.7562, 21.4114, 28.3879]])
+Probabilities for the given text: tensor([[6.2325e-04, 1.2512e-03, 4.8328e-04, 9.3048e-04, 9.9671e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61682.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.2847, 20.6307, 19.1905, 18.8593, 27.1563]])
+Probabilities for the given text: tensor([[1.4000e-04, 1.4622e-03, 3.4636e-04, 2.4871e-04, 9.9780e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46872.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0042, 23.8600, 23.1816, 20.6583, 26.1554]])
+Probabilities for the given text: tensor([[0.0357, 0.0840, 0.0426, 0.0034, 0.8342]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_56980.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8701, 22.5689, 21.8012, 22.6244, 24.4120]])
+Probabilities for the given text: tensor([[0.0076, 0.1123, 0.0521, 0.1187, 0.7093]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61352.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6209, 19.3277, 19.0869, 20.6681, 26.4675]])
+Probabilities for the given text: tensor([[3.8921e-04, 7.8908e-04, 6.2027e-04, 3.0148e-03, 9.9519e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61567.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9860, 23.0655, 20.0085, 19.7980, 27.1033]])
+Probabilities for the given text: tensor([[7.9510e-04, 1.7292e-02, 8.1324e-04, 6.5889e-04, 9.8044e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60709.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6349, 21.3003, 20.2656, 20.6227, 28.8157]])
+Probabilities for the given text: tensor([[2.7963e-04, 5.4397e-04, 1.9328e-04, 2.7623e-04, 9.9871e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61520.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.7131, 25.2854, 24.0213, 24.3937, 33.0043]])
+Probabilities for the given text: tensor([[9.2154e-05, 4.4398e-04, 1.2542e-04, 1.8200e-04, 9.9916e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61524.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9945, 22.5350, 22.2790, 23.4550, 30.1261]])
+Probabilities for the given text: tensor([[2.9337e-04, 5.0367e-04, 3.8993e-04, 1.2639e-03, 9.9755e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46873.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4679, 21.5995, 24.1354, 21.0113, 27.3143]])
+Probabilities for the given text: tensor([[1.3745e-04, 3.1490e-03, 3.9763e-02, 1.7487e-03, 9.5520e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57534.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1892, 19.3795, 22.2796, 20.1126, 25.7257]])
+Probabilities for the given text: tensor([[0.0014, 0.0017, 0.0307, 0.0035, 0.9627]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57557.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2895, 20.5308, 19.3972, 21.6531, 27.7229]])
+Probabilities for the given text: tensor([[5.8887e-04, 7.4960e-04, 2.4127e-04, 2.3026e-03, 9.9612e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61522.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2572, 23.0680, 21.9273, 22.1616, 30.3593]])
+Probabilities for the given text: tensor([[3.0245e-04, 6.8042e-04, 2.1746e-04, 2.7486e-04, 9.9852e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46851.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9368, 21.4357, 19.4130, 19.3505, 25.7302]])
+Probabilities for the given text: tensor([[0.0011, 0.0134, 0.0018, 0.0017, 0.9821]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61568.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6977, 19.0775, 20.7404, 20.2737, 26.3887]])
+Probabilities for the given text: tensor([[4.5382e-04, 6.6350e-04, 3.4997e-03, 2.1944e-03, 9.9319e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61569.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.3076, 23.6147, 22.2841, 21.5766, 29.7904]])
+Probabilities for the given text: tensor([[1.5228e-03, 2.0701e-03, 5.4715e-04, 2.6970e-04, 9.9559e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61523.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.6324, 23.9171, 22.2499, 22.9810, 31.8164]])
+Probabilities for the given text: tensor([[7.5761e-04, 3.7052e-04, 6.9941e-05, 1.4529e-04, 9.9866e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57555.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4925, 18.5194, 18.3538, 21.5611, 27.7829]])
+Probabilities for the given text: tensor([[2.5032e-04, 9.4600e-05, 8.0159e-05, 1.9809e-03, 9.9759e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61519.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2439, 22.6964, 24.0783, 25.8358, 31.3695]])
+Probabilities for the given text: tensor([[1.0831e-04, 1.7029e-04, 6.7818e-04, 3.9321e-03, 9.9511e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46874.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7313, 22.7608, 22.7108, 21.6632, 26.3321]])
+Probabilities for the given text: tensor([[4.6961e-04, 2.6409e-02, 2.5119e-02, 8.8119e-03, 9.3919e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60682.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9667, 17.0271, 17.3854, 19.3217, 22.9516]])
+Probabilities for the given text: tensor([[0.0177, 0.0025, 0.0036, 0.0252, 0.9509]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_57529.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5213, 20.0821, 22.2269, 23.2069, 27.3026]])
+Probabilities for the given text: tensor([[4.0765e-04, 7.1427e-04, 6.0997e-03, 1.6254e-02, 9.7652e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60665.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2510, 22.0340, 20.8093, 23.1891, 28.8209]])
+Probabilities for the given text: tensor([[1.8874e-04, 1.1225e-03, 3.2986e-04, 3.5633e-03, 9.9480e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_55153.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9725, 22.6559, 19.5071, 20.7257, 27.3129]])
+Probabilities for the given text: tensor([[2.3595e-04, 9.3861e-03, 4.0271e-04, 1.3622e-03, 9.8861e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_60710.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4602, 20.9267, 18.6381, 18.4020, 28.4864]])
+Probabilities for the given text: tensor([[3.2647e-04, 5.2054e-04, 5.2785e-05, 4.1683e-05, 9.9906e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_46911.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6183, 20.7854, 18.8831, 20.7061, 26.9626]])
+Probabilities for the given text: tensor([[2.3666e-04, 2.0667e-03, 3.0843e-04, 1.9091e-03, 9.9548e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61711.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3184, 21.3269, 21.2744, 21.0716, 28.4316]])
+Probabilities for the given text: tensor([[1.0994e-04, 8.1936e-04, 7.7740e-04, 6.3474e-04, 9.9766e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61713.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9844, 20.8260, 19.9148, 20.2470, 27.3627]])
+Probabilities for the given text: tensor([[6.2250e-04, 1.4442e-03, 5.8066e-04, 8.0939e-04, 9.9654e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61684.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5198, 25.8433, 23.9477, 22.3993, 27.0704]])
+Probabilities for the given text: tensor([[3.9033e-04, 2.1761e-01, 3.2691e-02, 6.9494e-03, 7.4236e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61683.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4880, 23.6676, 22.8073, 21.0940, 28.5911]])
+Probabilities for the given text: tensor([[2.9925e-04, 7.1933e-03, 3.0431e-03, 5.4856e-04, 9.8892e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61712.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4016, 23.2059, 23.2720, 26.5841, 28.9914]])
+Probabilities for the given text: tensor([[0.0013, 0.0028, 0.0030, 0.0820, 0.9109]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Egypt_boat_61714.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2672, 20.0726, 18.7124, 20.7721, 28.7144]])
+Probabilities for the given text: tensor([[7.8858e-05, 1.7645e-04, 4.5281e-05, 3.5514e-04, 9.9934e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21596.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.7657, 19.4497, 19.6391, 18.5986, 26.0829]])
+Probabilities for the given text: tensor([[8.9553e-05, 1.3114e-03, 1.5847e-03, 5.5988e-04, 9.9645e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46772.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.6531, 20.4245, 19.8209, 17.9757, 25.2440]])
+Probabilities for the given text: tensor([[4.9821e-04, 7.9618e-03, 4.3540e-03, 6.8784e-04, 9.8650e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46777.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0529, 19.7870, 20.0733, 18.9646, 26.4161]])
+Probabilities for the given text: tensor([[2.3239e-04, 1.3162e-03, 1.7524e-03, 5.7827e-04, 9.9612e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21597.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8633, 23.6467, 23.7590, 22.6314, 28.3215]])
+Probabilities for the given text: tensor([[5.6337e-04, 9.1112e-03, 1.0195e-02, 3.3011e-03, 9.7683e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21593.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8212, 20.9383, 20.3338, 18.7324, 26.6207]])
+Probabilities for the given text: tensor([[1.1068e-03, 3.3825e-03, 1.8480e-03, 3.7258e-04, 9.9329e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21592.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9492, 17.9694, 18.7856, 16.9315, 21.2999]])
+Probabilities for the given text: tensor([[0.0301, 0.0307, 0.0695, 0.0109, 0.8588]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46776.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8629, 20.9716, 19.3445, 20.0717, 28.4667]])
+Probabilities for the given text: tensor([[1.8320e-04, 5.5519e-04, 1.0909e-04, 2.2574e-04, 9.9893e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21594.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8374, 21.1836, 21.0525, 20.0393, 27.9821]])
+Probabilities for the given text: tensor([[1.0651e-04, 1.1126e-03, 9.7585e-04, 3.5430e-04, 9.9745e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_21595.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4164, 22.3109, 23.8568, 22.6127, 26.5492]])
+Probabilities for the given text: tensor([[0.0020, 0.0131, 0.0613, 0.0177, 0.9059]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46786.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8874, 19.6036, 19.8317, 20.0584, 26.8187]])
+Probabilities for the given text: tensor([[3.5818e-04, 7.3306e-04, 9.2093e-04, 1.1553e-03, 9.9683e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46876.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.2602, 20.2014, 20.5497, 22.8689, 28.8590]])
+Probabilities for the given text: tensor([[2.4871e-05, 1.7330e-04, 2.4550e-04, 2.4960e-03, 9.9706e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46799.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8112, 23.1779, 23.9705, 22.5076, 29.0513]])
+Probabilities for the given text: tensor([[9.6051e-05, 2.7839e-03, 6.1503e-03, 1.4241e-03, 9.8955e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46823.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8684, 19.4116, 19.9934, 19.8540, 26.7649]])
+Probabilities for the given text: tensor([[1.3646e-04, 6.3860e-04, 1.1426e-03, 9.9396e-04, 9.9709e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46877.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2861, 20.3399, 19.1173, 19.4119, 27.2794]])
+Probabilities for the given text: tensor([[4.5627e-05, 9.6710e-04, 2.8478e-04, 3.8233e-04, 9.9832e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46897.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6232, 22.7233, 22.9168, 21.4682, 28.2107]])
+Probabilities for the given text: tensor([[0.0037, 0.0041, 0.0050, 0.0012, 0.9861]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46853.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3240, 20.5478, 20.9271, 19.4839, 28.9000]])
+Probabilities for the given text: tensor([[1.8843e-04, 2.3569e-04, 3.4438e-04, 8.1337e-05, 9.9915e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46870.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9205, 21.7539, 21.0798, 20.7465, 26.2450]])
+Probabilities for the given text: tensor([[0.0018, 0.0110, 0.0056, 0.0040, 0.9777]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46896.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2167, 19.6088, 20.4682, 19.7924, 24.4241]])
+Probabilities for the given text: tensor([[0.0053, 0.0078, 0.0184, 0.0093, 0.9593]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46821.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.7203, 16.2323, 18.5761, 16.9813, 24.0352]])
+Probabilities for the given text: tensor([[2.4345e-04, 4.0622e-04, 4.2328e-03, 8.5909e-04, 9.9426e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46890.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3764, 21.1821, 20.8553, 20.9388, 27.7715]])
+Probabilities for the given text: tensor([[1.6613e-03, 1.3679e-03, 9.8656e-04, 1.0725e-03, 9.9491e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46820.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3920, 18.0701, 21.2812, 19.4624, 24.8215]])
+Probabilities for the given text: tensor([[5.7313e-04, 1.1291e-03, 2.8010e-02, 4.5437e-03, 9.6574e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46871.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5420, 21.6756, 20.3937, 19.4765, 28.5741]])
+Probabilities for the given text: tensor([[3.2430e-04, 1.0076e-03, 2.7960e-04, 1.1174e-04, 9.9828e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46886.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5072, 19.6886, 19.4582, 18.5529, 26.1015]])
+Probabilities for the given text: tensor([[1.3615e-03, 1.6323e-03, 1.2964e-03, 5.2430e-04, 9.9519e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46868.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8754, 21.7835, 20.6407, 20.9181, 26.6573]])
+Probabilities for the given text: tensor([[0.0082, 0.0075, 0.0024, 0.0031, 0.9788]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46828.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0165, 20.6871, 20.6469, 19.9163, 27.8300]])
+Probabilities for the given text: tensor([[2.9726e-03, 7.8662e-04, 7.5559e-04, 3.6393e-04, 9.9512e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46895.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7363, 22.3739, 23.8795, 23.1079, 28.0553]])
+Probabilities for the given text: tensor([[2.3764e-04, 3.3220e-03, 1.4972e-02, 6.9207e-03, 9.7455e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46875.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6718, 19.9989, 18.1180, 18.5303, 21.5904]])
+Probabilities for the given text: tensor([[0.2375, 0.1212, 0.0185, 0.0279, 0.5950]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46819.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1833, 23.1591, 24.1955, 21.4441, 28.3773]])
+Probabilities for the given text: tensor([[7.3463e-04, 5.2984e-03, 1.4936e-02, 9.5353e-04, 9.7808e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46822.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0670, 17.5374, 20.2992, 19.1399, 25.0586]])
+Probabilities for the given text: tensor([[9.0801e-04, 5.3468e-04, 8.4631e-03, 2.6549e-03, 9.8744e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46787.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9598, 19.1050, 21.6077, 21.2625, 27.2272]])
+Probabilities for the given text: tensor([[9.3841e-05, 2.9494e-04, 3.6029e-03, 2.5511e-03, 9.9346e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46818.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1626, 22.0514, 21.8677, 19.3327, 28.3082]])
+Probabilities for the given text: tensor([[7.8488e-04, 1.9089e-03, 1.5886e-03, 1.2592e-04, 9.9559e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46854.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3790, 20.2011, 20.3025, 18.8959, 26.5427]])
+Probabilities for the given text: tensor([[2.8353e-04, 1.7536e-03, 1.9407e-03, 4.7545e-04, 9.9555e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46898.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5296, 22.6868, 20.6696, 20.4517, 29.1027]])
+Probabilities for the given text: tensor([[5.1280e-04, 1.6312e-03, 2.1701e-04, 1.7452e-04, 9.9746e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46904.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8233, 22.9374, 23.3877, 21.9399, 26.1469]])
+Probabilities for the given text: tensor([[0.0016, 0.0360, 0.0565, 0.0133, 0.8925]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46801.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0358, 18.2932, 18.5225, 20.4959, 26.1919]])
+Probabilities for the given text: tensor([[2.8569e-04, 3.6954e-04, 4.6480e-04, 3.3441e-03, 9.9554e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46858.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.4287, 19.0500, 18.2134, 16.9117, 25.4165]])
+Probabilities for the given text: tensor([[1.2457e-04, 1.7134e-03, 7.4220e-04, 2.0191e-04, 9.9722e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46859.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3818, 22.5891, 20.6347, 21.1682, 29.2046]])
+Probabilities for the given text: tensor([[1.4704e-04, 1.3368e-03, 1.8936e-04, 3.2282e-04, 9.9800e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46894.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2729, 18.1402, 19.2809, 17.3867, 24.5587]])
+Probabilities for the given text: tensor([[6.7959e-04, 1.6178e-03, 5.0623e-03, 7.6157e-04, 9.9188e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46869.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2318, 22.3218, 21.4727, 20.4615, 28.2448]])
+Probabilities for the given text: tensor([[2.4303e-03, 2.6594e-03, 1.1376e-03, 4.1386e-04, 9.9336e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46860.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8773, 18.3232, 19.5411, 19.5752, 25.4459]])
+Probabilities for the given text: tensor([[1.3930e-03, 8.0035e-04, 2.7052e-03, 2.7992e-03, 9.9230e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46885.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8615, 20.0668, 20.7896, 20.1584, 25.2248]])
+Probabilities for the given text: tensor([[0.0017, 0.0056, 0.0116, 0.0061, 0.9750]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46800.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9472, 24.9673, 26.3784, 24.4765, 29.7217]])
+Probabilities for the given text: tensor([[0.0011, 0.0082, 0.0336, 0.0050, 0.9521]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46884.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3291, 20.8751, 21.2487, 20.4750, 27.0798]])
+Probabilities for the given text: tensor([[0.0032, 0.0020, 0.0029, 0.0013, 0.9906]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55231.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1355, 20.1979, 17.9850, 20.1094, 26.7159]])
+Probabilities for the given text: tensor([[1.8716e-04, 1.4720e-03, 1.6101e-04, 1.3474e-03, 9.9683e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46906.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3555, 22.2644, 20.7315, 19.5468, 26.3220]])
+Probabilities for the given text: tensor([[9.2159e-04, 1.6900e-02, 3.6487e-03, 1.1160e-03, 9.7741e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50907.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1888, 21.7482, 21.8171, 22.9934, 29.0865]])
+Probabilities for the given text: tensor([[5.0107e-05, 6.4782e-04, 6.9402e-04, 2.2503e-03, 9.9636e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46908.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6013, 20.8619, 21.1099, 19.3774, 27.4421]])
+Probabilities for the given text: tensor([[1.4419e-04, 1.3825e-03, 1.7717e-03, 3.1332e-04, 9.9639e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55175.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.6262, 25.9159, 25.1200, 24.4821, 30.3383]])
+Probabilities for the given text: tensor([[0.0012, 0.0118, 0.0053, 0.0028, 0.9790]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55167.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0612, 20.1151, 20.7663, 20.1137, 28.2039]])
+Probabilities for the given text: tensor([[1.0685e-04, 3.0656e-04, 5.8793e-04, 3.0612e-04, 9.9869e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55173.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9402, 24.7965, 22.9073, 21.9512, 29.1679]])
+Probabilities for the given text: tensor([[1.9405e-03, 1.2419e-02, 1.8776e-03, 7.2178e-04, 9.8304e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55211.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.7720, 19.0039, 20.1115, 19.8598, 25.1267]])
+Probabilities for the given text: tensor([[6.3035e-04, 2.1608e-03, 6.5406e-03, 5.0853e-03, 9.8558e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55213.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4100, 22.1820, 21.9718, 19.9740, 28.0286]])
+Probabilities for the given text: tensor([[1.3261e-03, 2.8700e-03, 2.3260e-03, 3.1546e-04, 9.9316e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50904.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8379, 21.0206, 22.2026, 21.1925, 27.6981]])
+Probabilities for the given text: tensor([[0.0010, 0.0012, 0.0041, 0.0015, 0.9922]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46907.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8148, 22.9369, 21.8250, 20.2908, 31.2010]])
+Probabilities for the given text: tensor([[8.3836e-05, 2.5748e-04, 8.4692e-05, 1.8262e-05, 9.9956e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56529.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0048, 18.7526, 18.8197, 18.4887, 24.5298]])
+Probabilities for the given text: tensor([[0.0015, 0.0031, 0.0033, 0.0024, 0.9898]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55166.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3646, 19.2919, 20.0518, 18.9280, 27.1649]])
+Probabilities for the given text: tensor([[4.0883e-04, 3.8017e-04, 8.1280e-04, 2.6420e-04, 9.9813e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55174.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.2237, 24.1870, 23.1779, 21.6729, 31.3351]])
+Probabilities for the given text: tensor([[2.9964e-04, 7.8520e-04, 2.8624e-04, 6.3549e-05, 9.9857e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55210.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3649, 21.4634, 20.4894, 19.1958, 29.0788]])
+Probabilities for the given text: tensor([[4.4605e-04, 4.9221e-04, 1.8585e-04, 5.0974e-05, 9.9882e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55232.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.9923, 19.0896, 17.5192, 18.9458, 26.1012]])
+Probabilities for the given text: tensor([[4.0637e-05, 8.9964e-04, 1.8710e-04, 7.7914e-04, 9.9809e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46905.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2876, 21.2046, 19.1992, 18.0986, 26.5839]])
+Probabilities for the given text: tensor([[6.7395e-04, 4.5829e-03, 6.1689e-04, 2.0523e-04, 9.9392e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55230.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7053, 22.3512, 21.5922, 21.8944, 26.4306]])
+Probabilities for the given text: tensor([[0.0012, 0.0163, 0.0076, 0.0103, 0.9646]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50896.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8554, 22.1075, 21.5402, 20.7239, 25.5362]])
+Probabilities for the given text: tensor([[0.0232, 0.0299, 0.0170, 0.0075, 0.9224]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55212.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1885, 22.0764, 19.6476, 19.0591, 29.9663]])
+Probabilities for the given text: tensor([[1.5403e-04, 3.7430e-04, 3.2992e-05, 1.8315e-05, 9.9942e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55229.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0653, 20.6200, 20.8778, 25.5792, 26.2811]])
+Probabilities for the given text: tensor([[0.0036, 0.0023, 0.0030, 0.3284, 0.6627]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50897.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7921, 23.9926, 23.9309, 24.1193, 25.6899]])
+Probabilities for the given text: tensor([[0.0048, 0.1166, 0.1096, 0.1324, 0.6366]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55330.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9793, 21.8146, 20.4419, 23.0687, 30.4568]])
+Probabilities for the given text: tensor([[7.6488e-05, 1.7634e-04, 4.4688e-05, 6.1801e-04, 9.9908e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50905.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2394, 20.0785, 21.5441, 19.8168, 26.3696]])
+Probabilities for the given text: tensor([[0.0058, 0.0018, 0.0079, 0.0014, 0.9831]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_46909.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3289, 20.0558, 20.4613, 18.7555, 27.3837]])
+Probabilities for the given text: tensor([[3.1687e-04, 6.5550e-04, 9.8333e-04, 1.7859e-04, 9.9787e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_50906.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.7543, 18.4420, 19.9056, 20.4217, 26.2425]])
+Probabilities for the given text: tensor([[2.0478e-04, 4.0734e-04, 1.7602e-03, 2.9494e-03, 9.9468e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_55165.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4291, 22.5875, 22.9222, 23.6561, 30.8966]])
+Probabilities for the given text: tensor([[2.0988e-04, 2.4588e-04, 3.4364e-04, 7.1585e-04, 9.9848e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56976.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5759, 18.7427, 18.8235, 17.7061, 26.7871]])
+Probabilities for the given text: tensor([[2.7132e-04, 3.2055e-04, 3.4755e-04, 1.1369e-04, 9.9895e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57565.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8539, 18.9868, 19.9193, 18.1278, 25.1234]])
+Probabilities for the given text: tensor([[1.3679e-02, 2.1144e-03, 5.3726e-03, 8.9567e-04, 9.7794e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56530.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6032, 17.7405, 17.9065, 17.0051, 23.6890]])
+Probabilities for the given text: tensor([[8.3038e-04, 2.5895e-03, 3.0570e-03, 1.2411e-03, 9.9228e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57532.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.0369, 20.0293, 19.5661, 19.0997, 27.5373]])
+Probabilities for the given text: tensor([[2.7495e-05, 5.4809e-04, 3.4489e-04, 2.1633e-04, 9.9886e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57567.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6490, 20.4333, 19.7105, 18.0782, 22.2259]])
+Probabilities for the given text: tensor([[0.3078, 0.0913, 0.0443, 0.0087, 0.5480]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56979.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3292, 21.6184, 22.4680, 20.7397, 26.8083]])
+Probabilities for the given text: tensor([[0.0015, 0.0054, 0.0127, 0.0023, 0.9780]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59039.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0760, 23.3493, 22.2713, 21.7071, 23.7424]])
+Probabilities for the given text: tensor([[0.2015, 0.2648, 0.0901, 0.0513, 0.3923]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60661.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4997, 21.4472, 21.5899, 20.9351, 28.8787]])
+Probabilities for the given text: tensor([[2.2921e-04, 5.9120e-04, 6.8186e-04, 3.5427e-04, 9.9814e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60693.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9598, 21.3626, 20.7261, 19.5255, 27.6343]])
+Probabilities for the given text: tensor([[1.2572e-03, 1.8806e-03, 9.9515e-04, 2.9955e-04, 9.9557e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56531.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9712, 21.2122, 20.4181, 19.2292, 28.4052]])
+Probabilities for the given text: tensor([[5.8975e-04, 7.5048e-04, 3.3921e-04, 1.0330e-04, 9.9822e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60653.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5215, 18.7603, 20.5889, 20.9072, 27.4107]])
+Probabilities for the given text: tensor([[3.7358e-04, 1.7451e-04, 1.0863e-03, 1.4935e-03, 9.9687e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60674.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.4636, 19.5907, 18.6341, 17.9124, 24.6543]])
+Probabilities for the given text: tensor([[7.4554e-04, 6.2555e-03, 2.4035e-03, 1.1678e-03, 9.8943e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56962.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5278, 20.5987, 20.8055, 19.9434, 27.5483]])
+Probabilities for the given text: tensor([[2.4161e-03, 9.5414e-04, 1.1734e-03, 4.9551e-04, 9.9496e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60655.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.8322, 17.4086, 20.4407, 17.7503, 21.5907]])
+Probabilities for the given text: tensor([[0.0063, 0.0112, 0.2325, 0.0158, 0.7342]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60675.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9748, 21.9569, 20.8159, 19.7810, 28.5512]])
+Probabilities for the given text: tensor([[5.1111e-04, 1.3647e-03, 4.3605e-04, 1.5491e-04, 9.9753e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60673.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2269, 21.2951, 24.3268, 23.0699, 26.2144]])
+Probabilities for the given text: tensor([[7.6765e-04, 6.0730e-03, 1.2590e-01, 3.5825e-02, 8.3143e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57552.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4683, 20.2149, 20.4542, 20.3883, 25.9469]])
+Probabilities for the given text: tensor([[0.0015, 0.0032, 0.0041, 0.0038, 0.9874]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57554.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5453, 18.2403, 18.2693, 17.4566, 24.4325]])
+Probabilities for the given text: tensor([[2.7531e-03, 2.0294e-03, 2.0892e-03, 9.2685e-04, 9.9220e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57573.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3111, 20.4778, 20.0597, 20.0999, 25.6684]])
+Probabilities for the given text: tensor([[2.3159e-04, 5.4953e-03, 3.6175e-03, 3.7659e-03, 9.8689e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_56963.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.5152, 19.7541, 20.5982, 20.9140, 26.2244]])
+Probabilities for the given text: tensor([[1.6338e-04, 1.5330e-03, 3.5657e-03, 4.8897e-03, 9.8985e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60662.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7135, 21.7756, 21.3255, 20.2707, 28.8270]])
+Probabilities for the given text: tensor([[8.1212e-04, 8.6415e-04, 5.5092e-04, 1.9187e-04, 9.9758e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57531.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6698, 19.1179, 20.6733, 19.2400, 27.1898]])
+Probabilities for the given text: tensor([[2.6933e-05, 3.1152e-04, 1.4756e-03, 3.5198e-04, 9.9783e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60692.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7942, 20.2799, 21.7479, 19.3588, 25.9971]])
+Probabilities for the given text: tensor([[0.0054, 0.0032, 0.0139, 0.0013, 0.9762]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57553.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9074, 17.4118, 18.4618, 16.9369, 24.4300]])
+Probabilities for the given text: tensor([[1.4618e-03, 8.9056e-04, 2.5450e-03, 5.5387e-04, 9.9455e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60654.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6392, 18.6230, 18.9533, 19.2060, 24.9796]])
+Probabilities for the given text: tensor([[0.0047, 0.0017, 0.0024, 0.0031, 0.9881]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_57566.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7363, 21.3862, 18.4298, 18.1141, 26.7619]])
+Probabilities for the given text: tensor([[8.8356e-04, 4.6003e-03, 2.3925e-04, 1.7448e-04, 9.9410e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59040.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7332, 21.0295, 20.2857, 19.1352, 27.6184]])
+Probabilities for the given text: tensor([[3.7533e-04, 1.3721e-03, 6.5213e-04, 2.0639e-04, 9.9739e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60663.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8456, 19.7980, 18.7761, 19.2817, 28.0742]])
+Probabilities for the given text: tensor([[9.8131e-05, 2.5435e-04, 9.1540e-05, 1.5177e-04, 9.9940e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_59038.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9006, 24.6877, 24.3080, 24.0073, 29.6986]])
+Probabilities for the given text: tensor([[1.4885e-04, 6.5682e-03, 4.4931e-03, 3.3262e-03, 9.8546e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61518.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3510, 22.3664, 23.1485, 20.4214, 28.3120]])
+Probabilities for the given text: tensor([[3.4565e-04, 2.5939e-03, 5.6701e-03, 3.7088e-04, 9.9102e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60703.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3769, 18.3441, 18.5174, 16.4007, 24.2468]])
+Probabilities for the given text: tensor([[1.0309e-03, 2.7120e-03, 3.2252e-03, 3.8840e-04, 9.9264e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61471.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3255, 21.1102, 23.7853, 21.2361, 27.6496]])
+Probabilities for the given text: tensor([[6.4351e-04, 1.4104e-03, 2.0471e-02, 1.5996e-03, 9.7588e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61417.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5667, 21.5558, 23.7207, 23.1844, 25.1879]])
+Probabilities for the given text: tensor([[0.0010, 0.0190, 0.1655, 0.0968, 0.7178]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61715.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0924, 19.2959, 19.6033, 19.8984, 26.5159]])
+Probabilities for the given text: tensor([[2.1893e-04, 7.2941e-04, 9.9189e-04, 1.3324e-03, 9.9673e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60702.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3043, 18.9526, 19.1825, 17.6661, 24.1325]])
+Probabilities for the given text: tensor([[0.0029, 0.0055, 0.0070, 0.0015, 0.9831]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60713.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9566, 21.1090, 19.5829, 18.3672, 27.9643]])
+Probabilities for the given text: tensor([[3.3231e-04, 1.0520e-03, 2.2868e-04, 6.7812e-05, 9.9832e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61780.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5466, 18.6743, 20.8382, 19.8316, 26.8554]])
+Probabilities for the given text: tensor([[1.8104e-03, 2.7839e-04, 2.4233e-03, 8.8562e-04, 9.9460e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61786.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9657, 23.0816, 23.6855, 22.0402, 28.0809]])
+Probabilities for the given text: tensor([[0.0022, 0.0066, 0.0120, 0.0023, 0.9769]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61782.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.3147, 17.8404, 19.4561, 18.6431, 25.6448]])
+Probabilities for the given text: tensor([[8.8402e-05, 4.0652e-04, 2.0453e-03, 9.0715e-04, 9.9655e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61675.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4577, 19.0613, 19.9214, 18.7813, 26.9925]])
+Probabilities for the given text: tensor([[1.9617e-04, 3.5875e-04, 8.4781e-04, 2.7112e-04, 9.9833e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61781.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.1429, 18.0675, 20.6907, 18.7221, 26.2586]])
+Probabilities for the given text: tensor([[1.0941e-04, 2.7581e-04, 3.8007e-03, 5.3074e-04, 9.9528e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61354.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6079, 21.0617, 20.6131, 19.5716, 26.5615]])
+Probabilities for the given text: tensor([[9.4713e-04, 4.0532e-03, 2.5880e-03, 9.1330e-04, 9.9150e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61252.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9722, 23.2449, 23.9673, 25.0989, 27.9260]])
+Probabilities for the given text: tensor([[8.7735e-04, 8.5152e-03, 1.7537e-02, 5.4370e-02, 9.1870e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61262.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9476, 20.8939, 22.2179, 23.7035, 28.3976]])
+Probabilities for the given text: tensor([[2.1136e-04, 5.4455e-04, 2.0466e-03, 9.0410e-03, 9.8816e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60722.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6726, 19.4970, 19.8714, 23.2769, 25.8808]])
+Probabilities for the given text: tensor([[6.8632e-04, 1.5653e-03, 2.2759e-03, 6.8577e-02, 9.2690e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60712.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7463, 21.3833, 20.2977, 19.7150, 28.7805]])
+Probabilities for the given text: tensor([[1.1913e-04, 6.1233e-04, 2.0678e-04, 1.1546e-04, 9.9895e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61573.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4129, 23.5172, 23.1641, 21.4303, 27.7758]])
+Probabilities for the given text: tensor([[6.1796e-04, 1.3777e-02, 9.6783e-03, 1.7094e-03, 9.7422e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61716.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.2009, 21.4053, 22.4724, 21.8264, 26.8115]])
+Probabilities for the given text: tensor([[1.7780e-04, 4.3811e-03, 1.2736e-02, 6.6758e-03, 9.7603e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61416.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2729, 24.4277, 23.2767, 23.8039, 27.8057]])
+Probabilities for the given text: tensor([[0.0037, 0.0320, 0.0101, 0.0171, 0.9371]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61717.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7530, 23.5190, 23.7544, 24.6995, 28.8807]])
+Probabilities for the given text: tensor([[2.8773e-04, 4.5732e-03, 5.7873e-03, 1.4891e-02, 9.7446e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61574.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8319, 20.6683, 21.1174, 20.7496, 26.8457]])
+Probabilities for the given text: tensor([[3.2827e-04, 2.0595e-03, 3.2273e-03, 2.2340e-03, 9.9215e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_60711.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8877, 21.0512, 22.5382, 21.6525, 25.2907]])
+Probabilities for the given text: tensor([[0.0015, 0.0130, 0.0577, 0.0238, 0.9040]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61685.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6311, 23.1172, 23.2275, 21.0623, 28.3609]])
+Probabilities for the given text: tensor([[1.1795e-03, 5.2129e-03, 5.8208e-03, 6.6778e-04, 9.8712e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61353.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6596, 17.5650, 17.8128, 16.7446, 22.7790]])
+Probabilities for the given text: tensor([[0.0158, 0.0053, 0.0068, 0.0023, 0.9699]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61418.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3270, 21.3277, 19.8340, 19.8701, 25.1698]])
+Probabilities for the given text: tensor([[0.0010, 0.0208, 0.0047, 0.0048, 0.9687]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61355.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7355, 21.1108, 21.2865, 19.3386, 24.4748]])
+Probabilities for the given text: tensor([[0.0080, 0.0317, 0.0378, 0.0054, 0.9170]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61260.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8701, 21.8137, 20.7733, 18.9849, 27.6380]])
+Probabilities for the given text: tensor([[4.2119e-04, 2.9415e-03, 1.0393e-03, 1.7379e-04, 9.9542e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61788.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6810, 23.2585, 22.7751, 21.0855, 30.2991]])
+Probabilities for the given text: tensor([[1.8049e-04, 8.7406e-04, 5.3903e-04, 9.9507e-05, 9.9831e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61787.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4479, 18.9797, 20.3098, 17.6498, 26.5594]])
+Probabilities for the given text: tensor([[2.9921e-04, 5.0924e-04, 1.9256e-03, 1.3470e-04, 9.9713e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61789.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0609, 24.0908, 23.3653, 22.7325, 29.1963]])
+Probabilities for the given text: tensor([[2.8983e-04, 5.9977e-03, 2.9035e-03, 1.5421e-03, 9.8927e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/Nigeria_boat_61790.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5749, 22.5309, 22.5919, 21.0572, 29.0630]])
+Probabilities for the given text: tensor([[5.5749e-04, 1.4503e-03, 1.5414e-03, 3.3220e-04, 9.9612e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46878.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6230, 16.2963, 16.6763, 20.7043, 25.4699]])
+Probabilities for the given text: tensor([[1.4255e-04, 1.0282e-04, 1.5036e-04, 8.4428e-03, 9.9116e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58493.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4654, 21.9748, 24.5872, 21.7046, 24.9129]])
+Probabilities for the given text: tensor([[0.0009, 0.0292, 0.3974, 0.0222, 0.5504]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46861.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0048, 20.1776, 22.1950, 20.2291, 27.7293]])
+Probabilities for the given text: tensor([[5.9495e-05, 5.2254e-04, 3.9290e-03, 5.5017e-04, 9.9494e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46862.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.1953, 21.3909, 19.2801, 20.3146, 27.7080]])
+Probabilities for the given text: tensor([[2.7116e-05, 1.8004e-03, 2.1810e-04, 6.1368e-04, 9.9734e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58491.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9708, 21.8991, 23.4044, 22.7390, 25.4058]])
+Probabilities for the given text: tensor([[0.0095, 0.0241, 0.1084, 0.0557, 0.8023]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21532.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4262, 21.4329, 22.4720, 21.8186, 29.2399]])
+Probabilities for the given text: tensor([[4.0315e-04, 4.0583e-04, 1.1472e-03, 5.9685e-04, 9.9745e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46863.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8311, 22.0888, 20.1906, 19.0736, 25.0952]])
+Probabilities for the given text: tensor([[0.0049, 0.0465, 0.0070, 0.0023, 0.9394]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60690.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2515, 21.3033, 22.6176, 22.2535, 30.2642]])
+Probabilities for the given text: tensor([[4.4785e-05, 1.2820e-04, 4.7719e-04, 3.3157e-04, 9.9902e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46846.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.5057, 19.8295, 19.3778, 18.8878, 26.0315]])
+Probabilities for the given text: tensor([[1.9744e-04, 2.0167e-03, 1.2837e-03, 7.8647e-04, 9.9572e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21543.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.2053, 17.8986, 20.2314, 18.2368, 25.4958]])
+Probabilities for the given text: tensor([[9.1705e-05, 4.9861e-04, 5.1390e-03, 6.9927e-04, 9.9357e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60652.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6851, 19.0826, 17.2004, 18.7056, 25.7632]])
+Probabilities for the given text: tensor([[8.4075e-04, 1.2512e-03, 1.9049e-04, 8.5814e-04, 9.9686e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46879.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5663, 20.0945, 19.8107, 22.6938, 27.4970]])
+Probabilities for the given text: tensor([[1.3104e-04, 6.0406e-04, 4.5483e-04, 8.1276e-03, 9.9068e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21533.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1981, 19.2583, 17.9803, 19.4009, 28.0121]])
+Probabilities for the given text: tensor([[1.4856e-04, 1.5776e-04, 4.3954e-05, 1.8194e-04, 9.9947e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21531.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2036, 19.4544, 19.9452, 20.4864, 27.4977]])
+Probabilities for the given text: tensor([[2.4949e-04, 3.2059e-04, 5.2374e-04, 8.9978e-04, 9.9801e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46880.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.5453, 19.0115, 19.0763, 19.5097, 26.6289]])
+Probabilities for the given text: tensor([[4.1685e-05, 4.9093e-04, 5.2378e-04, 8.0796e-04, 9.9814e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_55168.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9778, 22.0104, 21.4895, 22.5850, 19.3261]])
+Probabilities for the given text: tensor([[0.4335, 0.1648, 0.0979, 0.2927, 0.0112]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46864.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2889, 21.2103, 19.2090, 20.4527, 23.7885]])
+Probabilities for the given text: tensor([[0.0682, 0.0631, 0.0085, 0.0296, 0.8307]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_58492.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3271, 21.0287, 20.3447, 17.9933, 26.9369]])
+Probabilities for the given text: tensor([[6.6783e-05, 2.7056e-03, 1.3652e-03, 1.3002e-04, 9.9573e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57549.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.4589, 17.0626, 15.2191, 17.7351, 24.9287]])
+Probabilities for the given text: tensor([[5.6906e-04, 3.8283e-04, 6.0592e-05, 7.5009e-04, 9.9824e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57551.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3356, 18.5714, 18.7582, 19.3637, 25.4900]])
+Probabilities for the given text: tensor([[2.8614e-04, 9.8466e-04, 1.1869e-03, 2.1746e-03, 9.9537e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21544.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.6312, 17.9625, 19.2183, 19.6824, 26.3660]])
+Probabilities for the given text: tensor([[2.1725e-05, 2.2357e-04, 7.8488e-04, 1.2485e-03, 9.9772e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46775.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5000, 21.1805, 18.1753, 20.5183, 26.5739]])
+Probabilities for the given text: tensor([[6.1757e-03, 4.4866e-03, 2.2221e-04, 2.3137e-03, 9.8680e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57564.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4067, 20.8110, 20.2298, 21.5133, 27.7442]])
+Probabilities for the given text: tensor([[2.3848e-04, 9.7128e-04, 5.4320e-04, 1.9605e-03, 9.9629e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46806.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7542, 18.2074, 20.2047, 24.0346, 25.7126]])
+Probabilities for the given text: tensor([[7.9729e-04, 4.6144e-04, 3.4006e-03, 1.5663e-01, 8.3871e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60664.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[14.3686, 18.3109, 16.1447, 15.4359, 24.4882]])
+Probabilities for the given text: tensor([[4.0182e-05, 2.0707e-03, 2.3735e-04, 1.1683e-04, 9.9753e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_21545.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8607, 22.8236, 21.8798, 20.8537, 29.2735]])
+Probabilities for the given text: tensor([[6.0164e-04, 1.5758e-03, 6.1327e-04, 2.1979e-04, 9.9699e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57563.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5592, 20.6678, 20.1197, 20.9106, 29.6036]])
+Probabilities for the given text: tensor([[4.3410e-05, 1.3154e-04, 7.6037e-05, 1.6768e-04, 9.9958e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_50888.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6346, 21.5599, 21.5413, 22.6037, 28.5823]])
+Probabilities for the given text: tensor([[1.2946e-04, 8.8780e-04, 8.7142e-04, 2.5214e-03, 9.9559e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_55193.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1042, 21.2298, 22.8717, 21.7870, 26.9300]])
+Probabilities for the given text: tensor([[3.8885e-04, 3.2577e-03, 1.6826e-02, 5.6870e-03, 9.7384e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_46805.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2435, 20.2370, 20.0367, 20.7796, 27.7707]])
+Probabilities for the given text: tensor([[1.9759e-04, 5.3363e-04, 4.3679e-04, 9.1808e-04, 9.9791e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_57550.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6003, 19.4010, 19.7601, 20.5703, 26.3099]])
+Probabilities for the given text: tensor([[4.4579e-04, 9.9274e-04, 1.4217e-03, 3.1965e-03, 9.9394e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61358.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6609, 18.7601, 16.9051, 17.8243, 24.8361]])
+Probabilities for the given text: tensor([[2.0687e-03, 2.2845e-03, 3.5742e-04, 8.9611e-04, 9.9439e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61576.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3817, 19.1283, 17.2611, 19.4053, 26.4321]])
+Probabilities for the given text: tensor([[8.6489e-04, 6.7127e-04, 1.0375e-04, 8.8552e-04, 9.9747e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61472.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.0258, 19.0078, 16.4330, 15.8542, 24.7821]])
+Probabilities for the given text: tensor([[1.5690e-04, 3.0953e-03, 2.3577e-04, 1.3216e-04, 9.9638e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61578.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7664, 20.7896, 18.5109, 21.1953, 27.5069]])
+Probabilities for the given text: tensor([[4.3330e-04, 1.2055e-03, 1.2346e-04, 1.8087e-03, 9.9643e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_60691.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8975, 18.4032, 17.2934, 17.7237, 19.4863]])
+Probabilities for the given text: tensor([[0.7166, 0.0592, 0.0195, 0.0300, 0.1747]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61690.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.5043, 22.2707, 20.8776, 22.0589, 28.7952]])
+Probabilities for the given text: tensor([[1.8439e-03, 1.4599e-03, 3.6250e-04, 1.1813e-03, 9.9515e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61577.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0482, 18.4508, 16.8722, 17.9975, 24.9823]])
+Probabilities for the given text: tensor([[9.7047e-04, 1.4515e-03, 2.9939e-04, 9.2252e-04, 9.9636e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61473.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.5010, 21.0157, 19.1417, 17.7983, 26.3197]])
+Probabilities for the given text: tensor([[5.4101e-05, 4.9419e-03, 7.5860e-04, 1.9797e-04, 9.9405e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61359.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6311, 18.3948, 17.3930, 16.8204, 25.3929]])
+Probabilities for the given text: tensor([[1.5636e-04, 9.1219e-04, 3.3497e-04, 1.8894e-04, 9.9841e-01]])
+Predicted class: tensor([4])
+Filename: /content/drive/MyDrive/Colab Notebooks/africa/boat/South_Africa_boat_61686.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7930, 20.1627, 19.6900, 18.5559, 27.6392]])
+Probabilities for the given text: tensor([[3.9068e-04, 5.6544e-04, 3.5244e-04, 1.1338e-04, 9.9858e-01]])
+Predicted class: tensor([4])

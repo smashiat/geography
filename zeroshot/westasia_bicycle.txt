@@ -1,0 +1,900 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49567.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.3869, 21.1559, 19.0794, 18.6610, 16.6863]])
+Probabilities for the given text: tensor([[9.9761e-01, 1.9627e-03, 2.4606e-04, 1.6193e-04, 2.2476e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49568.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.7753, 21.1905, 19.1909, 19.6289, 17.6863]])
+Probabilities for the given text: tensor([[9.9486e-01, 3.7352e-03, 5.0567e-04, 7.8365e-04, 1.1232e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49338.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5604, 22.4706, 19.8425, 19.7026, 18.9838]])
+Probabilities for the given text: tensor([[9.9737e-01, 2.2598e-03, 1.6319e-04, 1.4190e-04, 6.9149e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49188.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.6362, 20.1958, 17.5867, 18.4244, 16.2757]])
+Probabilities for the given text: tensor([[9.9973e-01, 2.1590e-04, 1.5891e-05, 3.6724e-05, 4.2831e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49570.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.2442, 18.6905, 16.9760, 15.4968, 14.1679]])
+Probabilities for the given text: tensor([[9.9825e-01, 1.4223e-03, 2.5610e-04, 5.8341e-05, 1.5448e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49569.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9908, 20.4734, 19.1040, 17.6771, 16.4372]])
+Probabilities for the given text: tensor([[9.9928e-01, 5.4311e-04, 1.3810e-04, 3.3149e-05, 9.5942e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49054.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5056, 21.6036, 20.1231, 20.0639, 18.7192]])
+Probabilities for the given text: tensor([[9.9850e-01, 1.0043e-03, 2.2849e-04, 2.1535e-04, 5.6126e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49246.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.0290, 21.9535, 18.7643, 18.7961, 18.4232]])
+Probabilities for the given text: tensor([[9.9309e-01, 6.2045e-03, 2.5565e-04, 2.6393e-04, 1.8177e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49067.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.2342, 22.7708, 20.2411, 20.2381, 18.9603]])
+Probabilities for the given text: tensor([[9.9816e-01, 1.5567e-03, 1.2404e-04, 1.2366e-04, 3.4461e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_59068.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.7299, 21.9840, 20.5133, 19.5797, 19.3052]])
+Probabilities for the given text: tensor([[9.9837e-01, 1.1738e-03, 2.6967e-04, 1.0602e-04, 8.0575e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_59069.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7280, 21.7924, 19.1190, 18.8949, 17.9753]])
+Probabilities for the given text: tensor([[9.9698e-01, 2.6355e-03, 1.8191e-04, 1.4538e-04, 5.7960e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_22609.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2800, 21.4756, 19.5879, 17.7892, 17.9800]])
+Probabilities for the given text: tensor([[9.9866e-01, 1.1074e-03, 1.6768e-04, 2.7755e-05, 3.3588e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_22608.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.8707, 20.5573, 18.9492, 16.6616, 17.0300]])
+Probabilities for the given text: tensor([[9.9774e-01, 1.8076e-03, 3.6203e-04, 3.6747e-05, 5.3116e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49189.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.8301, 21.6701, 20.3641, 19.8288, 18.1514]])
+Probabilities for the given text: tensor([[9.9887e-01, 7.7616e-04, 2.1026e-04, 1.2312e-04, 2.3005e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_59070.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.3952, 21.2362, 20.5092, 18.1907, 18.5677]])
+Probabilities for the given text: tensor([[9.9876e-01, 7.7690e-04, 3.7549e-04, 3.6956e-05, 5.3881e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_49190.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.3677, 20.9762, 20.1952, 17.8912, 16.8342]])
+Probabilities for the given text: tensor([[9.9906e-01, 6.1588e-04, 2.8204e-04, 2.8163e-05, 9.7867e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_61079.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.0464, 21.4042, 19.6419, 18.3856, 17.6486]])
+Probabilities for the given text: tensor([[9.9838e-01, 1.3021e-03, 2.2350e-04, 6.3634e-05, 3.0451e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_22607.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.7694, 24.0019, 20.8900, 21.4861, 20.4527]])
+Probabilities for the given text: tensor([[0.6512, 0.3023, 0.0135, 0.0244, 0.0087]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Saudi_Arabia_bicycle_61078.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1691, 20.5310, 19.0717, 19.8314, 18.0714]])
+Probabilities for the given text: tensor([[9.9763e-01, 1.3064e-03, 3.0361e-04, 6.4904e-04, 1.1165e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22601.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.9400, 23.6803, 21.4628, 20.9928, 20.1291]])
+Probabilities for the given text: tensor([[9.9770e-01, 1.9075e-03, 2.0768e-04, 1.2980e-04, 5.4723e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22580.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.2105, 19.5550, 19.9370, 18.4769, 16.5856]])
+Probabilities for the given text: tensor([[9.9011e-01, 3.4636e-03, 5.0749e-03, 1.1784e-03, 1.7781e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22591.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.4724, 22.4414, 20.5479, 18.5080, 17.8601]])
+Probabilities for the given text: tensor([[9.9717e-01, 2.3962e-03, 3.6074e-04, 4.6914e-05, 2.4543e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22630.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1152, 24.5854, 23.5603, 23.8705, 20.5954]])
+Probabilities for the given text: tensor([[0.7121, 0.1542, 0.0553, 0.0755, 0.0029]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22589.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.0286, 22.9234, 21.7877, 20.9776, 19.9681]])
+Probabilities for the given text: tensor([[9.9663e-01, 2.2238e-03, 7.1425e-04, 3.1771e-04, 1.1578e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22643.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.0921, 18.7371, 17.8019, 15.9180, 15.9589]])
+Probabilities for the given text: tensor([[9.9737e-01, 1.7336e-03, 6.8044e-04, 1.0342e-04, 1.0774e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22597.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.2672, 19.9171, 17.4932, 17.4445, 16.4525]])
+Probabilities for the given text: tensor([[9.9790e-01, 1.7429e-03, 1.5438e-04, 1.4705e-04, 5.4530e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22581.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1863, 20.9833, 18.4018, 19.6352, 18.1536]])
+Probabilities for the given text: tensor([[9.9719e-01, 2.0177e-03, 1.5266e-04, 5.2408e-04, 1.1911e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22590.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.8765, 22.5403, 20.5049, 19.7143, 18.3595]])
+Probabilities for the given text: tensor([[9.9787e-01, 1.7672e-03, 2.3087e-04, 1.0471e-04, 2.7015e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22594.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.3788, 19.8739, 17.6974, 16.2099, 15.4621]])
+Probabilities for the given text: tensor([[9.9534e-01, 4.0477e-03, 4.5916e-04, 1.0375e-04, 4.9113e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22592.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1597, 23.4712, 19.9253, 19.5173, 18.0071]])
+Probabilities for the given text: tensor([[9.7436e-01, 2.4368e-02, 7.0284e-04, 4.6741e-04, 1.0323e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22596.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.5547, 22.1469, 19.8580, 18.5214, 18.1413]])
+Probabilities for the given text: tensor([[9.8623e-01, 1.2014e-02, 1.2179e-03, 3.2000e-04, 2.1882e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22641.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.8856, 19.0494, 17.0419, 16.3818, 14.8442]])
+Probabilities for the given text: tensor([[9.9869e-01, 1.0728e-03, 1.4410e-04, 7.4470e-05, 1.6004e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22600.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2947, 22.8726, 19.7489, 18.3164, 18.8491]])
+Probabilities for the given text: tensor([[9.9528e-01, 4.3970e-03, 1.9345e-04, 4.6180e-05, 7.8664e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22599.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.3241, 21.3713, 19.3248, 17.3083, 16.8498]])
+Probabilities for the given text: tensor([[9.9700e-01, 2.5909e-03, 3.3472e-04, 4.4557e-05, 2.8170e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22631.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.2526, 24.2033, 21.7485, 21.7064, 19.9573]])
+Probabilities for the given text: tensor([[0.8678, 0.1118, 0.0096, 0.0092, 0.0016]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22595.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.0101, 20.0886, 18.2899, 17.1037, 16.3718]])
+Probabilities for the given text: tensor([[9.9669e-01, 2.6723e-03, 4.4230e-04, 1.3506e-04, 6.4968e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22598.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.4292, 22.8349, 21.6726, 19.7068, 19.4893]])
+Probabilities for the given text: tensor([[9.9810e-01, 1.3655e-03, 4.2708e-04, 5.9808e-05, 4.8119e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22593.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.0200, 20.8424, 18.7826, 18.3620, 17.1767]])
+Probabilities for the given text: tensor([[9.9744e-01, 2.0702e-03, 2.6389e-04, 1.7329e-04, 5.2968e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22582.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6423, 20.5151, 18.9497, 19.0094, 17.3275]])
+Probabilities for the given text: tensor([[9.9882e-01, 8.0196e-04, 1.6761e-04, 1.7793e-04, 3.3097e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22642.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6658, 19.7849, 17.0913, 15.9086, 15.0792]])
+Probabilities for the given text: tensor([[9.9887e-01, 1.0260e-03, 6.9400e-05, 2.1267e-05, 9.2788e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23076.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.4206, 24.2949, 21.8591, 20.4198, 20.4694]])
+Probabilities for the given text: tensor([[9.9754e-01, 2.1806e-03, 1.9085e-04, 4.5253e-05, 4.7552e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22669.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8902, 19.0818, 17.5993, 17.2518, 16.5182]])
+Probabilities for the given text: tensor([[9.9978e-01, 1.4944e-04, 3.3932e-05, 2.3972e-05, 1.1511e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22659.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.1921, 22.6449, 20.2662, 19.9621, 18.7811]])
+Probabilities for the given text: tensor([[9.9831e-01, 1.4317e-03, 1.3268e-04, 9.7893e-05, 3.0049e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22938.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.1716, 20.5362, 18.1864, 17.6837, 16.3013]])
+Probabilities for the given text: tensor([[9.9944e-01, 4.8274e-04, 4.6050e-05, 2.7855e-05, 6.9909e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22692.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9425, 21.2284, 20.3957, 19.0065, 18.7722]])
+Probabilities for the given text: tensor([[9.9803e-01, 1.2113e-03, 5.2677e-04, 1.3130e-04, 1.0388e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22651.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.5751, 22.2311, 19.3441, 17.7074, 18.0912]])
+Probabilities for the given text: tensor([[9.9486e-01, 4.7520e-03, 2.6490e-04, 5.1556e-05, 7.5680e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22735.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1673, 22.3922, 20.0707, 18.8106, 17.2729]])
+Probabilities for the given text: tensor([[9.7470e-01, 2.2356e-02, 2.1935e-03, 6.2215e-04, 1.3368e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22707.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.3149, 19.9003, 17.7623, 16.2616, 15.7519]])
+Probabilities for the given text: tensor([[9.9486e-01, 4.4284e-03, 5.2205e-04, 1.1640e-04, 6.9922e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22967.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9312, 22.8746, 20.8861, 18.7846, 19.7944]])
+Probabilities for the given text: tensor([[9.9720e-01, 2.3358e-03, 3.1976e-04, 3.9098e-05, 1.0732e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22820.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7354, 21.5092, 20.9432, 20.2681, 22.1186]])
+Probabilities for the given text: tensor([[9.9901e-01, 2.6728e-04, 1.5176e-04, 7.7257e-05, 4.9163e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22939.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.2999, 21.4381, 18.1079, 17.0520, 16.1686]])
+Probabilities for the given text: tensor([[9.9701e-01, 2.8376e-03, 1.0154e-04, 3.5326e-05, 1.4603e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22677.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.9464, 23.4471, 21.9391, 22.3091, 20.4577]])
+Probabilities for the given text: tensor([[9.9761e-01, 1.5008e-03, 3.3223e-04, 4.8096e-04, 7.5523e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22679.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.2555, 21.2449, 18.3965, 20.3956, 17.6496]])
+Probabilities for the given text: tensor([[9.7331e-01, 1.7638e-02, 1.0219e-03, 7.5445e-03, 4.8422e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22821.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.7867, 21.7266, 20.6965, 20.0352, 17.5845]])
+Probabilities for the given text: tensor([[9.9866e-01, 8.5750e-04, 3.0612e-04, 1.5801e-04, 1.3625e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22670.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.1683, 21.0952, 19.3111, 19.0438, 19.3134]])
+Probabilities for the given text: tensor([[9.9954e-01, 3.1166e-04, 5.2346e-05, 4.0067e-05, 5.2465e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23022.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.4588, 23.5391, 21.0977, 19.7314, 19.4689]])
+Probabilities for the given text: tensor([[9.7813e-01, 1.9413e-02, 1.6898e-03, 4.3097e-04, 3.3148e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22762.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.1034, 23.4774, 20.9462, 20.7690, 19.7980]])
+Probabilities for the given text: tensor([[9.9845e-01, 1.3234e-03, 1.0530e-04, 8.8199e-05, 3.3401e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22655.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.3985, 22.8056, 21.9467, 23.0481, 19.5915]])
+Probabilities for the given text: tensor([[9.9626e-01, 1.3650e-03, 5.7823e-04, 1.7396e-03, 5.4858e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22681.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.3125, 19.5812, 18.7842, 16.9219, 16.1435]])
+Probabilities for the given text: tensor([[9.9815e-01, 1.1907e-03, 5.3663e-04, 8.3350e-05, 3.8270e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23077.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.5379, 21.0469, 20.0991, 17.8066, 17.2215]])
+Probabilities for the given text: tensor([[9.9781e-01, 1.5137e-03, 5.8668e-04, 5.9267e-05, 3.3013e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22940.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6863, 20.0426, 17.6253, 17.4764, 15.7144]])
+Probabilities for the given text: tensor([[9.9944e-01, 4.7879e-04, 4.2688e-05, 3.6782e-05, 6.3155e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22887.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9949, 22.1771, 20.4307, 19.0140, 17.8654]])
+Probabilities for the given text: tensor([[9.9866e-01, 1.0927e-03, 1.9055e-04, 4.6212e-05, 1.4653e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22889.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6960, 21.3174, 20.0480, 19.2842, 18.4622]])
+Probabilities for the given text: tensor([[9.9751e-01, 1.6933e-03, 4.7583e-04, 2.2168e-04, 9.7440e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22708.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.8340, 21.7304, 20.2381, 18.4360, 16.8580]])
+Probabilities for the given text: tensor([[9.9235e-01, 6.0280e-03, 1.3554e-03, 2.2358e-04, 4.6144e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22941.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.3792, 22.7018, 21.5196, 20.1659, 18.5064]])
+Probabilities for the given text: tensor([[9.9523e-01, 3.4060e-03, 1.0443e-03, 2.6974e-04, 5.1311e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22768.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6909, 20.3101, 20.6806, 19.3771, 19.3797]])
+Probabilities for the given text: tensor([[9.9455e-01, 1.6846e-03, 2.4399e-03, 6.6268e-04, 6.6438e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23072.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.3451, 20.6552, 19.4336, 17.3356, 16.7944]])
+Probabilities for the given text: tensor([[9.9832e-01, 1.2412e-03, 3.6589e-04, 4.4894e-05, 2.6129e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22653.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.3292, 21.7565, 21.7823, 19.4307, 17.6980]])
+Probabilities for the given text: tensor([[9.4329e-01, 2.6488e-02, 2.7180e-02, 2.5881e-03, 4.5759e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22650.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.4607, 21.7285, 20.0779, 18.4260, 18.7307]])
+Probabilities for the given text: tensor([[9.9848e-01, 1.1902e-03, 2.2842e-04, 4.3785e-05, 5.9385e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22896.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[32.7600, 25.3191, 24.0584, 22.9152, 21.3682]])
+Probabilities for the given text: tensor([[9.9918e-01, 5.8629e-04, 1.6618e-04, 5.2977e-05, 1.1278e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22822.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.8332, 21.2475, 20.1912, 20.1209, 21.1559]])
+Probabilities for the given text: tensor([[9.9952e-01, 1.8668e-04, 6.4911e-05, 6.0507e-05, 1.7034e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22690.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2654, 23.0930, 21.4888, 20.6974, 17.7168]])
+Probabilities for the given text: tensor([[9.9270e-01, 5.6297e-03, 1.1319e-03, 5.1297e-04, 2.6039e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22682.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.9303, 19.0148, 17.4127, 15.2217, 15.0315]])
+Probabilities for the given text: tensor([[9.9877e-01, 9.9109e-04, 1.9968e-04, 2.2324e-05, 1.8458e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22888.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.0893, 20.0791, 19.9845, 17.9578, 17.7450]])
+Probabilities for the given text: tensor([[9.9808e-01, 9.0088e-04, 8.1958e-04, 1.0799e-04, 8.7289e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22898.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[31.0352, 25.3734, 22.6176, 22.2316, 20.3892]])
+Probabilities for the given text: tensor([[9.9614e-01, 3.4629e-03, 2.2010e-04, 1.4961e-04, 2.3704e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23097.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8289, 21.6138, 19.1389, 19.7244, 18.4125]])
+Probabilities for the given text: tensor([[9.9746e-01, 1.9939e-03, 1.6782e-04, 3.0140e-04, 8.1164e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22829.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7175, 20.7372, 19.5225, 17.8754, 17.3751]])
+Probabilities for the given text: tensor([[9.9871e-01, 9.2890e-04, 2.7569e-04, 5.3097e-05, 3.2196e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22733.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.7711, 22.2018, 20.8543, 21.6986, 18.4423]])
+Probabilities for the given text: tensor([[9.9736e-01, 1.3991e-03, 3.6360e-04, 8.4586e-04, 3.2591e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22652.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.0949, 19.4732, 17.0286, 15.8926, 15.4436]])
+Probabilities for the given text: tensor([[9.9592e-01, 3.6037e-03, 3.1264e-04, 1.0039e-04, 6.4076e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22660.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.8332, 23.2074, 21.7096, 21.1024, 19.6795]])
+Probabilities for the given text: tensor([[9.9818e-01, 1.3234e-03, 2.9593e-04, 1.6125e-04, 3.8861e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23075.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.1882, 22.2877, 20.9282, 19.0789, 18.8934]])
+Probabilities for the given text: tensor([[9.9637e-01, 2.7281e-03, 7.0053e-04, 1.1022e-04, 9.1564e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22825.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.2530, 20.8870, 20.5592, 19.5580, 22.7190]])
+Probabilities for the given text: tensor([[9.9809e-01, 2.3218e-04, 1.6729e-04, 6.1470e-05, 1.4503e-03]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22706.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.7025, 19.5104, 17.9765, 15.8032, 16.0405]])
+Probabilities for the given text: tensor([[9.9741e-01, 2.0401e-03, 4.4006e-04, 5.0078e-05, 6.3488e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22661.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.6018, 22.7818, 20.4301, 19.6821, 19.3543]])
+Probabilities for the given text: tensor([[9.9872e-01, 1.0904e-03, 1.0381e-04, 4.9135e-05, 3.5403e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22824.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.8502, 22.8296, 21.7507, 21.3931, 18.8821]])
+Probabilities for the given text: tensor([[9.9858e-01, 8.9201e-04, 3.0324e-04, 2.1208e-04, 1.7218e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22823.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8587, 19.6554, 19.5215, 18.0109, 20.2362]])
+Probabilities for the given text: tensor([[9.9895e-01, 2.7347e-04, 2.3921e-04, 5.2813e-05, 4.8882e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22668.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.7583, 22.3968, 21.2017, 21.4290, 19.9480]])
+Probabilities for the given text: tensor([[9.9695e-01, 1.7216e-03, 5.2106e-04, 6.5402e-04, 1.4873e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23021.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.2320, 27.0584, 25.5401, 24.9527, 22.6364]])
+Probabilities for the given text: tensor([[0.1063, 0.6606, 0.1447, 0.0804, 0.0079]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23023.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.8875, 26.9362, 24.0361, 22.8745, 22.3064]])
+Probabilities for the given text: tensor([[0.2446, 0.6981, 0.0384, 0.0120, 0.0068]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22897.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.9021, 24.0955, 22.9728, 22.9135, 21.4196]])
+Probabilities for the given text: tensor([[9.9491e-01, 2.9924e-03, 9.7367e-04, 9.1761e-04, 2.0600e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22691.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.5749, 21.9246, 20.5856, 19.2265, 18.3904]])
+Probabilities for the given text: tensor([[9.8718e-01, 9.4364e-03, 2.4734e-03, 6.3542e-04, 2.7539e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22654.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.3066, 20.9557, 21.1400, 21.2512, 18.4973]])
+Probabilities for the given text: tensor([[9.9370e-01, 1.7341e-03, 2.0850e-03, 2.3304e-03, 1.4839e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22680.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.5152, 19.9407, 18.0128, 17.8478, 16.5879]])
+Probabilities for the given text: tensor([[9.9818e-01, 1.3929e-03, 2.0260e-04, 1.7179e-04, 4.8731e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22734.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5121, 22.9914, 20.3526, 20.4497, 18.5967]])
+Probabilities for the given text: tensor([[9.9537e-01, 3.9847e-03, 2.8468e-04, 3.1373e-04, 4.9182e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23098.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.3816, 22.1726, 21.0124, 18.9643, 18.5747]])
+Probabilities for the given text: tensor([[9.9251e-01, 5.4261e-03, 1.7008e-03, 2.1935e-04, 1.4858e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22678.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6733, 20.1841, 19.2178, 18.2274, 18.8284]])
+Probabilities for the given text: tensor([[9.9901e-01, 5.5853e-04, 2.1252e-04, 7.8937e-05, 1.4397e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23073.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.0142, 22.1233, 19.3269, 18.9447, 18.5015]])
+Probabilities for the given text: tensor([[9.9689e-01, 2.7560e-03, 1.6819e-04, 1.1477e-04, 7.3677e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_22968.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.1013, 23.2292, 20.8675, 20.5856, 19.1799]])
+Probabilities for the given text: tensor([[9.9878e-01, 1.0350e-03, 9.7567e-05, 7.3594e-05, 1.8046e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49345.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5707, 22.1738, 20.2996, 19.7043, 18.4254]])
+Probabilities for the given text: tensor([[9.9790e-01, 1.6633e-03, 2.5528e-04, 1.4076e-04, 3.9177e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49463.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7074, 20.5964, 19.6805, 20.0538, 17.0686]])
+Probabilities for the given text: tensor([[9.9836e-01, 8.1472e-04, 3.2602e-04, 4.7356e-04, 2.3928e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49456.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.7528, 23.2646, 20.7730, 21.1163, 19.6762]])
+Probabilities for the given text: tensor([[0.5704, 0.3501, 0.0290, 0.0408, 0.0097]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49455.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5557, 19.7710, 18.6907, 17.8044, 16.4798]])
+Probabilities for the given text: tensor([[0.7971, 0.1338, 0.0454, 0.0187, 0.0050]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48786.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1017, 19.9053, 18.5797, 17.2994, 16.5394]])
+Probabilities for the given text: tensor([[9.9897e-01, 7.4854e-04, 1.9884e-04, 5.5270e-05, 2.5847e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49346.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.1468, 21.6394, 19.0454, 18.5346, 17.7803]])
+Probabilities for the given text: tensor([[9.9830e-01, 1.4899e-03, 1.1132e-04, 6.6792e-05, 3.1417e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49306.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.8007, 20.1985, 19.9307, 18.5626, 16.7498]])
+Probabilities for the given text: tensor([[9.9730e-01, 1.3536e-03, 1.0357e-03, 2.6368e-04, 4.3028e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49310.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.7854, 20.6668, 18.5919, 17.4135, 16.5485]])
+Probabilities for the given text: tensor([[9.9741e-01, 2.1960e-03, 2.7574e-04, 8.4861e-05, 3.5734e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49464.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8043, 21.0119, 19.6201, 18.9789, 19.0199]])
+Probabilities for the given text: tensor([[9.9830e-01, 1.1205e-03, 2.7857e-04, 1.4670e-04, 1.5285e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23120.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.6316, 23.7478, 21.3301, 20.0772, 21.5378]])
+Probabilities for the given text: tensor([[9.9660e-01, 2.7747e-03, 2.4732e-04, 7.0651e-05, 3.0440e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23116.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[31.8829, 25.7417, 24.1936, 23.9047, 21.4589]])
+Probabilities for the given text: tensor([[9.9703e-01, 2.1458e-03, 4.5633e-04, 3.4181e-04, 2.9621e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23117.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.0710, 22.5989, 21.1269, 22.6160, 18.8980]])
+Probabilities for the given text: tensor([[9.9054e-01, 4.1629e-03, 9.5521e-04, 4.2347e-03, 1.0283e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48850.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.0387, 23.1680, 21.4449, 21.0536, 19.6746]])
+Probabilities for the given text: tensor([[9.9626e-01, 2.8103e-03, 5.0168e-04, 3.3923e-04, 8.5429e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49335.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2838, 20.9122, 19.6364, 18.2716, 17.2593]])
+Probabilities for the given text: tensor([[9.9914e-01, 6.2834e-04, 1.7544e-04, 4.4810e-05, 1.6284e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49309.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.2788, 20.8629, 19.1645, 18.4260, 16.8131]])
+Probabilities for the given text: tensor([[9.9790e-01, 1.6318e-03, 2.9860e-04, 1.4267e-04, 2.8436e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23121.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2058, 22.2682, 20.5752, 19.7150, 19.7965]])
+Probabilities for the given text: tensor([[9.9646e-01, 2.6288e-03, 4.8362e-04, 2.0461e-04, 2.2199e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49439.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.7094, 21.7013, 19.8072, 19.8594, 18.0106]])
+Probabilities for the given text: tensor([[9.9879e-01, 9.0343e-04, 1.3592e-04, 1.4321e-04, 2.2544e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49438.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.0842, 19.8864, 17.9624, 18.5961, 15.9578]])
+Probabilities for the given text: tensor([[9.9892e-01, 7.4741e-04, 1.0914e-04, 2.0567e-04, 1.4702e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49454.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.8014, 22.7240, 19.8225, 19.2220, 19.3533]])
+Probabilities for the given text: tensor([[0.9510, 0.0438, 0.0024, 0.0013, 0.0015]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49440.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9472, 21.7683, 20.2630, 20.7626, 18.2814]])
+Probabilities for the given text: tensor([[9.9666e-01, 2.0659e-03, 4.5852e-04, 7.5567e-04, 6.3202e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49336.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.1106, 21.1340, 19.1525, 21.1289, 18.0477]])
+Probabilities for the given text: tensor([[9.9797e-01, 9.3156e-04, 1.2842e-04, 9.2680e-04, 4.2543e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48875.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.2788, 20.7055, 19.1746, 21.8237, 17.2914]])
+Probabilities for the given text: tensor([[9.9402e-01, 1.3889e-03, 3.0048e-04, 4.2491e-03, 4.5700e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49330.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.3178, 24.0704, 22.2244, 22.2378, 19.6465]])
+Probabilities for the given text: tensor([[9.9305e-01, 5.2250e-03, 8.2481e-04, 8.3596e-04, 6.2634e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49451.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.2192, 24.2789, 25.5321, 26.0779, 21.3506]])
+Probabilities for the given text: tensor([[0.0816, 0.0867, 0.3034, 0.5237, 0.0046]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49305.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.3663, 18.3807, 17.4992, 16.7041, 14.5891]])
+Probabilities for the given text: tensor([[9.9850e-01, 9.2372e-04, 3.8256e-04, 1.7273e-04, 2.0837e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49462.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1321, 19.7767, 17.8933, 18.4271, 15.9231]])
+Probabilities for the given text: tensor([[9.9752e-01, 1.7331e-03, 2.6355e-04, 4.4944e-04, 3.6745e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48851.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.2980, 23.4841, 20.7697, 19.6355, 19.2100]])
+Probabilities for the given text: tensor([[9.9672e-01, 2.9763e-03, 1.9715e-04, 6.3423e-05, 4.1443e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23118.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.6857, 24.1972, 23.1903, 23.1523, 20.2119]])
+Probabilities for the given text: tensor([[9.9737e-01, 1.5168e-03, 5.5414e-04, 5.3348e-04, 2.8193e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49337.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9065, 21.3784, 20.3023, 17.8766, 16.4004]])
+Probabilities for the given text: tensor([[9.9799e-01, 1.4589e-03, 4.9733e-04, 4.3974e-05, 1.0048e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49311.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9640, 21.6173, 20.0015, 21.4831, 17.9164]])
+Probabilities for the given text: tensor([[9.9865e-01, 6.4383e-04, 1.2796e-04, 5.6297e-04, 1.5904e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48787.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.7147, 19.6587, 18.0849, 16.7047, 16.3534]])
+Probabilities for the given text: tensor([[9.9888e-01, 8.6128e-04, 1.7851e-04, 4.4899e-05, 3.1597e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48852.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.3912, 22.2332, 19.8465, 18.8373, 17.4566]])
+Probabilities for the given text: tensor([[9.9912e-01, 7.7795e-04, 7.1519e-05, 2.6070e-05, 6.5537e-06]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48876.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7475, 21.1751, 19.9669, 18.6514, 17.8579]])
+Probabilities for the given text: tensor([[9.9803e-01, 1.3956e-03, 4.1691e-04, 1.1188e-04, 5.0598e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49452.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6606, 22.7742, 22.1930, 22.2844, 19.3911]])
+Probabilities for the given text: tensor([[9.5670e-01, 1.9630e-02, 1.0977e-02, 1.2028e-02, 6.6627e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_48785.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.9970, 20.8672, 19.3933, 17.8749, 18.1452]])
+Probabilities for the given text: tensor([[9.9708e-01, 2.1707e-03, 4.9713e-04, 1.0891e-04, 1.4270e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49307.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.4689, 21.7937, 20.8947, 18.9451, 18.6279]])
+Probabilities for the given text: tensor([[9.9486e-01, 3.4123e-03, 1.3888e-03, 1.9767e-04, 1.4394e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_23099.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.0893, 21.2948, 20.0932, 19.3692, 16.9628]])
+Probabilities for the given text: tensor([[9.8807e-01, 8.1761e-03, 2.4586e-03, 1.1920e-03, 1.0744e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49562.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.3210, 22.5964, 21.1912, 20.7296, 19.0655]])
+Probabilities for the given text: tensor([[0.7970, 0.1421, 0.0349, 0.0220, 0.0042]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49540.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5216, 21.8978, 20.0519, 19.0662, 17.6589]])
+Probabilities for the given text: tensor([[9.9837e-01, 1.3262e-03, 2.0939e-04, 7.8133e-05, 1.9128e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49557.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9891, 22.4312, 20.2782, 18.9374, 17.7984]])
+Probabilities for the given text: tensor([[9.9836e-01, 1.4165e-03, 1.6452e-04, 4.3042e-05, 1.3779e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49573.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.9076, 20.3124, 18.2525, 16.8886, 15.7413]])
+Probabilities for the given text: tensor([[9.8832e-01, 9.9820e-03, 1.2724e-03, 3.2530e-04, 1.0328e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58576.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9647, 23.9733, 23.4254, 21.0252, 18.6859]])
+Probabilities for the given text: tensor([[9.8901e-01, 6.7215e-03, 3.8862e-03, 3.5248e-04, 3.3977e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49521.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.4661, 22.7042, 20.9181, 21.4521, 20.1422]])
+Probabilities for the given text: tensor([[9.9823e-01, 1.1550e-03, 1.9359e-04, 3.3023e-04, 8.9109e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49480.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.6596, 22.5740, 20.9891, 20.9410, 18.3430]])
+Probabilities for the given text: tensor([[9.9679e-01, 2.2679e-03, 4.6488e-04, 4.4305e-04, 3.2973e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49571.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.6339, 22.8893, 20.9214, 21.0850, 20.3023]])
+Probabilities for the given text: tensor([[9.9838e-01, 1.1753e-03, 1.6425e-04, 1.9344e-04, 8.8437e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49553.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[31.3887, 25.1002, 22.5901, 21.8926, 20.5919]])
+Probabilities for the given text: tensor([[9.9790e-01, 1.8536e-03, 1.5062e-04, 7.4986e-05, 2.0422e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49564.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.0714, 22.0439, 20.6229, 20.7197, 21.2851]])
+Probabilities for the given text: tensor([[9.9526e-01, 2.4000e-03, 5.7958e-04, 6.3848e-04, 1.1238e-03]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49552.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[31.1288, 25.1352, 23.1465, 22.6527, 20.9283]])
+Probabilities for the given text: tensor([[9.9693e-01, 2.4869e-03, 3.4038e-04, 2.0775e-04, 3.7034e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49574.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.1827, 21.0623, 19.7487, 21.6179, 18.7753]])
+Probabilities for the given text: tensor([[9.9749e-01, 8.0638e-04, 2.1680e-04, 1.4056e-03, 8.1908e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49522.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1629, 20.5330, 18.2473, 16.1933, 16.7450]])
+Probabilities for the given text: tensor([[9.9593e-01, 3.5743e-03, 3.6353e-04, 4.6612e-05, 8.0927e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49561.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.1262, 23.1206, 21.8163, 22.3740, 19.2697]])
+Probabilities for the given text: tensor([[9.9840e-01, 9.0534e-04, 2.4567e-04, 4.2911e-04, 1.9248e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49558.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7564, 23.0949, 21.4490, 21.4013, 20.0160]])
+Probabilities for the given text: tensor([[9.9818e-01, 1.2768e-03, 2.4624e-04, 2.3475e-04, 5.8750e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49537.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.0215, 20.0843, 18.8938, 18.9704, 16.2522]])
+Probabilities for the given text: tensor([[9.9840e-01, 9.6943e-04, 2.9476e-04, 3.1823e-04, 2.1002e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58575.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7728, 21.7062, 19.3107, 18.4028, 18.1214]])
+Probabilities for the given text: tensor([[9.9733e-01, 2.3128e-03, 2.1076e-04, 8.5014e-05, 6.4160e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49560.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9598, 22.3677, 21.5251, 20.4410, 18.8927]])
+Probabilities for the given text: tensor([[9.9405e-01, 3.7050e-03, 1.5954e-03, 5.3958e-04, 1.1472e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49478.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6533, 19.9589, 18.8886, 18.8832, 17.1431]])
+Probabilities for the given text: tensor([[9.9785e-01, 1.2352e-03, 4.2354e-04, 4.2126e-04, 7.3937e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49504.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2554, 22.6028, 19.5004, 18.5785, 18.7364]])
+Probabilities for the given text: tensor([[9.9621e-01, 3.4951e-03, 1.5708e-04, 6.2482e-05, 7.3169e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58573.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5664, 21.8777, 20.3206, 19.2585, 17.8568]])
+Probabilities for the given text: tensor([[9.9838e-01, 1.2428e-03, 2.6193e-04, 9.0558e-05, 2.2294e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49566.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.3015, 18.4672, 17.0232, 19.5521, 16.6702]])
+Probabilities for the given text: tensor([[9.8740e-01, 2.8886e-03, 6.8165e-04, 8.5483e-03, 4.7893e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49572.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.2995, 22.8574, 20.7025, 19.4968, 18.4044]])
+Probabilities for the given text: tensor([[9.9815e-01, 1.5902e-03, 1.8433e-04, 5.5202e-05, 1.8515e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49481.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7561, 23.2396, 21.7958, 20.9024, 19.2559]])
+Probabilities for the given text: tensor([[9.9801e-01, 1.4758e-03, 3.4833e-04, 1.4257e-04, 2.7477e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49502.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1660, 19.5791, 17.4693, 20.7274, 15.9221]])
+Probabilities for the given text: tensor([[9.9782e-01, 5.0591e-04, 6.1353e-05, 1.5952e-03, 1.3059e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49479.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7929, 23.0934, 20.8732, 19.5267, 19.2422]])
+Probabilities for the given text: tensor([[9.9858e-01, 1.2297e-03, 1.3353e-04, 3.4740e-05, 2.6137e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49539.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.5091, 21.3435, 19.2870, 18.7264, 17.8164]])
+Probabilities for the given text: tensor([[9.9742e-01, 2.0950e-03, 2.6796e-04, 1.5297e-04, 6.1572e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49563.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2391, 21.5339, 19.7559, 20.2514, 17.6962]])
+Probabilities for the given text: tensor([[9.9821e-01, 1.2223e-03, 2.0654e-04, 3.3898e-04, 2.6332e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49501.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6340, 20.9875, 18.6949, 18.7137, 18.3100]])
+Probabilities for the given text: tensor([[9.9835e-01, 1.2964e-03, 1.3094e-04, 1.3343e-04, 8.9106e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49523.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.3872, 21.5536, 20.2032, 17.6836, 17.4871]])
+Probabilities for the given text: tensor([[9.9861e-01, 1.0755e-03, 2.7871e-04, 2.2433e-05, 1.8432e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58574.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6259, 22.7758, 20.5133, 21.3824, 20.3490]])
+Probabilities for the given text: tensor([[0.9703, 0.0206, 0.0021, 0.0051, 0.0018]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49559.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8342, 21.1459, 21.3657, 21.0873, 18.9464]])
+Probabilities for the given text: tensor([[9.9591e-01, 1.2403e-03, 1.5453e-03, 1.1697e-03, 1.3750e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49503.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.0769, 20.6535, 19.4953, 19.3136, 17.2966]])
+Probabilities for the given text: tensor([[9.9904e-01, 5.9649e-04, 1.8733e-04, 1.5620e-04, 2.0784e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49551.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.7354, 24.5193, 25.1021, 25.0661, 22.6195]])
+Probabilities for the given text: tensor([[9.9076e-01, 1.9787e-03, 3.5438e-03, 3.4186e-03, 2.9599e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49565.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.3004, 23.4028, 22.2597, 21.1641, 21.6760]])
+Probabilities for the given text: tensor([[9.8817e-01, 7.3765e-03, 2.3518e-03, 7.8626e-04, 1.3119e-03]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_49538.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.6628, 24.9977, 23.4318, 22.4998, 20.6979]])
+Probabilities for the given text: tensor([[9.8786e-01, 9.3042e-03, 1.9436e-03, 7.6535e-04, 1.2628e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58577.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.2521, 20.5408, 20.1584, 17.7012, 15.9305]])
+Probabilities for the given text: tensor([[9.9424e-01, 3.2893e-03, 2.2440e-03, 1.9226e-04, 3.2724e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61075.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7536, 23.2752, 23.2588, 20.4840, 19.7225]])
+Probabilities for the given text: tensor([[9.9682e-01, 1.5314e-03, 1.5065e-03, 9.3953e-05, 4.3873e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58585.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8880, 22.0081, 20.6325, 19.9890, 17.4373]])
+Probabilities for the given text: tensor([[9.9611e-01, 2.7844e-03, 7.0354e-04, 3.6969e-04, 2.8818e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61074.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6073, 20.6724, 19.6371, 18.0293, 16.7067]])
+Probabilities for the given text: tensor([[9.9860e-01, 9.7184e-04, 3.4512e-04, 6.9142e-05, 1.8422e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61072.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.8675, 21.6322, 19.6397, 19.0464, 18.0079]])
+Probabilities for the given text: tensor([[9.9345e-01, 5.2904e-03, 7.2141e-04, 3.9858e-04, 1.4109e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58916.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.1700, 19.6000, 18.5316, 17.9535, 18.5530]])
+Probabilities for the given text: tensor([[9.9736e-01, 1.3981e-03, 4.8034e-04, 2.6943e-04, 4.9069e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58911.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6774, 21.7990, 20.5867, 19.6998, 18.7498]])
+Probabilities for the given text: tensor([[9.9591e-01, 2.7879e-03, 8.2942e-04, 3.4168e-04, 1.3213e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58587.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.4053, 22.8852, 20.9059, 21.5652, 19.7689]])
+Probabilities for the given text: tensor([[9.9423e-01, 3.9822e-03, 5.5021e-04, 1.0637e-03, 1.7650e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61071.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.0713, 24.8909, 22.5858, 20.9076, 20.1263]])
+Probabilities for the given text: tensor([[0.5152, 0.4302, 0.0429, 0.0080, 0.0037]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59074.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.4575, 22.4964, 21.8257, 23.0725, 20.1258]])
+Probabilities for the given text: tensor([[9.9136e-01, 2.5547e-03, 1.3063e-03, 4.5451e-03, 2.3868e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59076.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9059, 21.5350, 20.4649, 20.8049, 18.1351]])
+Probabilities for the given text: tensor([[9.9683e-01, 1.7053e-03, 5.8487e-04, 8.2170e-04, 5.6916e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58914.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.6782, 18.9859, 18.4080, 15.6673, 14.9790]])
+Probabilities for the given text: tensor([[9.9458e-01, 3.3534e-03, 1.8815e-03, 1.2140e-04, 6.0997e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58579.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.1025, 20.3473, 18.0807, 17.4056, 16.4934]])
+Probabilities for the given text: tensor([[9.8997e-01, 8.5205e-03, 8.8326e-04, 4.4968e-04, 1.8062e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58909.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.1861, 21.1874, 19.8943, 18.2910, 17.4897]])
+Probabilities for the given text: tensor([[9.9665e-01, 2.4737e-03, 6.7884e-04, 1.3660e-04, 6.1304e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58901.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.7312, 23.5094, 21.8972, 21.3829, 19.6716]])
+Probabilities for the given text: tensor([[9.9735e-01, 1.9803e-03, 3.9497e-04, 2.3616e-04, 4.2657e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58578.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[31.7710, 26.5770, 25.3278, 25.3669, 22.2534]])
+Probabilities for the given text: tensor([[9.9121e-01, 5.5010e-03, 1.5772e-03, 1.6401e-03, 7.2899e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58586.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7250, 19.8289, 18.7030, 17.6297, 16.7391]])
+Probabilities for the given text: tensor([[9.9945e-01, 3.7198e-04, 1.2065e-04, 4.1250e-05, 1.6929e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58905.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.1898, 20.9066, 18.9263, 18.9492, 18.1161]])
+Probabilities for the given text: tensor([[9.8184e-01, 1.3549e-02, 1.8700e-03, 1.9133e-03, 8.3173e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58900.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.9530, 21.6846, 19.8279, 18.1351, 17.4615]])
+Probabilities for the given text: tensor([[9.9773e-01, 1.8910e-03, 2.9534e-04, 5.4345e-05, 2.7709e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58904.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.4005, 19.7595, 18.6697, 17.7252, 16.1029]])
+Probabilities for the given text: tensor([[9.9805e-01, 1.3033e-03, 4.3825e-04, 1.7043e-04, 3.3650e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61073.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.4132, 20.3715, 18.6648, 17.2880, 17.3021]])
+Probabilities for the given text: tensor([[9.9698e-01, 2.3704e-03, 4.3014e-04, 1.0856e-04, 1.1010e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58583.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.9693, 19.8497, 17.7904, 16.8012, 16.2121]])
+Probabilities for the given text: tensor([[9.9736e-01, 2.1935e-03, 2.7977e-04, 1.0404e-04, 5.7724e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58912.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.4258, 21.9703, 20.5769, 20.9235, 19.1455]])
+Probabilities for the given text: tensor([[9.9904e-01, 5.7773e-04, 1.4341e-04, 2.0281e-04, 3.4269e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58917.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.8396, 23.8717, 21.6563, 20.8760, 19.6227]])
+Probabilities for the given text: tensor([[9.9701e-01, 2.5520e-03, 2.7843e-04, 1.2760e-04, 3.6439e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58584.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.8196, 19.8263, 17.8365, 17.5860, 15.6835]])
+Probabilities for the given text: tensor([[9.9885e-01, 9.1695e-04, 1.2537e-04, 9.7583e-05, 1.4559e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58910.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.4113, 21.4480, 19.9753, 17.9906, 18.4982]])
+Probabilities for the given text: tensor([[9.9876e-01, 9.4483e-04, 2.1666e-04, 2.9773e-05, 4.9464e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59075.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.5962, 22.5706, 22.1787, 22.0156, 19.2166]])
+Probabilities for the given text: tensor([[9.9797e-01, 8.8707e-04, 5.9941e-04, 5.0923e-04, 3.0996e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58582.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.3274, 19.5555, 16.6335, 16.8587, 15.3774]])
+Probabilities for the given text: tensor([[9.9870e-01, 1.1440e-03, 6.1579e-05, 7.7130e-05, 1.7535e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59072.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.1001, 20.1655, 19.5036, 17.9174, 15.4787]])
+Probabilities for the given text: tensor([[9.8841e-01, 7.1104e-03, 3.6680e-03, 7.5084e-04, 6.5531e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59071.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.7564, 20.1860, 18.4100, 18.8124, 16.6315]])
+Probabilities for the given text: tensor([[9.9797e-01, 1.3984e-03, 2.3675e-04, 3.5406e-04, 3.9985e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58581.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.6975, 20.1320, 18.0840, 17.3057, 16.6706]])
+Probabilities for the given text: tensor([[9.9829e-01, 1.4056e-03, 1.8133e-04, 8.3259e-05, 4.4119e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58580.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8778, 21.2632, 19.0453, 18.5658, 18.2247]])
+Probabilities for the given text: tensor([[9.9836e-01, 1.3385e-03, 1.4567e-04, 9.0186e-05, 6.4118e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58915.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.7131, 20.3691, 18.6038, 17.9664, 17.4661]])
+Probabilities for the given text: tensor([[9.8319e-01, 1.2766e-02, 2.1847e-03, 1.1550e-03, 7.0035e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_59073.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8539, 21.4330, 20.1451, 21.1421, 17.4783]])
+Probabilities for the given text: tensor([[9.9669e-01, 1.6218e-03, 4.4734e-04, 1.2124e-03, 3.1080e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58913.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.8623, 21.3654, 20.0973, 19.9703, 18.5151]])
+Probabilities for the given text: tensor([[9.9761e-01, 1.5046e-03, 4.2335e-04, 3.7286e-04, 8.7003e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58902.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[30.6280, 24.3779, 22.9933, 22.3115, 21.0475]])
+Probabilities for the given text: tensor([[9.9728e-01, 1.9251e-03, 4.8207e-04, 2.4380e-04, 6.8878e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_58903.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.5457, 20.7931, 19.9640, 21.9577, 18.1970]])
+Probabilities for the given text: tensor([[9.8525e-01, 3.1277e-03, 1.3651e-03, 1.0023e-02, 2.3322e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61076.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.5613, 23.3842, 22.4899, 21.5045, 21.4901]])
+Probabilities for the given text: tensor([[9.9646e-01, 2.0690e-03, 8.4605e-04, 3.1580e-04, 3.1129e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Turkey_bicycle_61080.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.3686, 24.1054, 20.7877, 21.1488, 20.1181]])
+Probabilities for the given text: tensor([[0.5404, 0.4153, 0.0150, 0.0216, 0.0077]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_58906.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.1562, 23.4006, 20.6000, 21.4110, 19.8064]])
+Probabilities for the given text: tensor([[0.8253, 0.1426, 0.0087, 0.0195, 0.0039]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49256.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.5432, 20.9380, 19.2228, 19.7777, 17.0015]])
+Probabilities for the given text: tensor([[9.9796e-01, 1.3505e-03, 2.4299e-04, 4.2321e-04, 2.6356e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49554.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.5346, 20.0534, 18.8745, 17.3016, 16.3321]])
+Probabilities for the given text: tensor([[9.8445e-01, 1.1144e-02, 3.4282e-03, 7.1116e-04, 2.6971e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_48794.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.8197, 23.3578, 20.2030, 19.1096, 19.3843]])
+Probabilities for the given text: tensor([[0.8004, 0.1855, 0.0079, 0.0027, 0.0035]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_61077.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.3579, 22.4008, 21.6072, 20.5114, 20.5435]])
+Probabilities for the given text: tensor([[9.9833e-01, 9.5031e-04, 4.2976e-04, 1.4364e-04, 1.4834e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49200.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.7701, 22.8801, 20.9834, 19.8616, 17.5591]])
+Probabilities for the given text: tensor([[9.3729e-01, 5.2088e-02, 7.8169e-03, 2.5458e-03, 2.5462e-04]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49201.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0795, 19.6180, 17.7625, 16.7290, 15.6556]])
+Probabilities for the given text: tensor([[0.9050, 0.0772, 0.0121, 0.0043, 0.0015]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49168.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.5913, 22.0153, 20.8934, 20.2389, 19.0841]])
+Probabilities for the given text: tensor([[9.9785e-01, 1.3904e-03, 4.5280e-04, 2.3531e-04, 7.4154e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49556.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.7238, 20.6830, 18.3006, 18.9428, 16.5269]])
+Probabilities for the given text: tensor([[9.9888e-01, 8.7450e-04, 8.0739e-05, 1.5346e-04, 1.3701e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49169.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[29.2949, 23.2336, 22.4668, 20.7657, 18.6327]])
+Probabilities for the given text: tensor([[9.9638e-01, 2.3229e-03, 1.0791e-03, 1.9691e-04, 2.3330e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49555.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[27.6648, 19.6326, 18.4932, 16.9686, 16.2811]])
+Probabilities for the given text: tensor([[9.9954e-01, 3.2466e-04, 1.0390e-04, 2.2619e-05, 1.1373e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/United_Arab_Emirates_bicycle_49199.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.2735, 22.3197, 20.6340, 20.2765, 17.8618]])
+Probabilities for the given text: tensor([[9.9657e-01, 2.5870e-03, 4.7941e-04, 3.3532e-04, 2.9975e-05]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Yemen_bicycle_22640.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[26.7082, 24.2148, 22.0685, 20.4093, 20.9076]])
+Probabilities for the given text: tensor([[0.9115, 0.0753, 0.0088, 0.0017, 0.0028]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Yemen_bicycle_22639.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.8562, 20.9874, 20.2080, 16.6988, 16.7734]])
+Probabilities for the given text: tensor([[0.8133, 0.1255, 0.0576, 0.0017, 0.0019]])
+Predicted class: tensor([0])
+Filename: /content/drive/MyDrive/Colab Notebooks/westasia/bicycle/Yemen_bicycle_22638.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[28.9282, 22.9356, 20.7402, 18.7274, 19.1269]])
+Probabilities for the given text: tensor([[9.9714e-01, 2.4900e-03, 2.7717e-04, 3.7035e-05, 5.5221e-05]])
+Predicted class: tensor([0])

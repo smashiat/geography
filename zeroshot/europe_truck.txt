@@ -1,0 +1,900 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17383.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.9040, 28.9673, 25.8170, 24.8863, 23.1589]])
+Probabilities for the given text: tensor([[0.0059, 0.9354, 0.0401, 0.0158, 0.0028]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17384.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7255, 25.3083, 27.2357, 25.9305, 21.8407]])
+Probabilities for the given text: tensor([[0.0028, 0.1021, 0.7016, 0.1902, 0.0032]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17392.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9424, 24.8775, 25.4016, 24.5210, 20.5721]])
+Probabilities for the given text: tensor([[0.0021, 0.2933, 0.4953, 0.2053, 0.0040]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41958.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3507, 20.2303, 24.7997, 21.1639, 19.5782]])
+Probabilities for the given text: tensor([[0.0015, 0.0099, 0.9581, 0.0253, 0.0052]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17604.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1444, 23.2253, 26.6872, 22.1804, 19.5527]])
+Probabilities for the given text: tensor([[1.3789e-03, 3.0030e-02, 9.5727e-01, 1.0562e-02, 7.6305e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42170.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6113, 18.9355, 24.4001, 19.3743, 19.5147]])
+Probabilities for the given text: tensor([[4.0668e-04, 4.1557e-03, 9.8158e-01, 6.4454e-03, 7.4170e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17628.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.1672, 23.4166, 27.8398, 23.8812, 20.9223]])
+Probabilities for the given text: tensor([[3.3209e-03, 1.1584e-02, 9.6570e-01, 1.8435e-02, 9.5630e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17539.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.7237, 20.8968, 28.1257, 22.6326, 20.2624]])
+Probabilities for the given text: tensor([[3.0214e-05, 7.2156e-04, 9.9477e-01, 4.0934e-03, 3.8261e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41957.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8492, 22.2842, 27.6798, 22.9632, 19.8780]])
+Probabilities for the given text: tensor([[5.3039e-05, 4.4742e-03, 9.8625e-01, 8.8222e-03, 4.0335e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17466.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3821, 21.8116, 23.1294, 23.0266, 18.9550]])
+Probabilities for the given text: tensor([[0.0015, 0.1223, 0.4569, 0.4123, 0.0070]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17605.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.6938, 20.4039, 23.4776, 19.2221, 17.8097]])
+Probabilities for the given text: tensor([[0.0011, 0.0434, 0.9389, 0.0133, 0.0032]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17415.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7931, 23.3962, 25.7887, 22.7554, 19.7791]])
+Probabilities for the given text: tensor([[0.0059, 0.0796, 0.8705, 0.0419, 0.0021]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17538.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9365, 21.9574, 27.5347, 22.9618, 19.3788]])
+Probabilities for the given text: tensor([[1.8179e-04, 3.7285e-03, 9.8563e-01, 1.0179e-02, 2.8292e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42163.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9729, 23.1224, 27.8698, 25.9265, 20.1950]])
+Probabilities for the given text: tensor([[8.7644e-04, 7.5203e-03, 8.6702e-01, 1.2418e-01, 4.0263e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17465.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1584, 23.3095, 27.8848, 24.9059, 20.4267]])
+Probabilities for the given text: tensor([[1.1279e-03, 9.6934e-03, 9.4080e-01, 4.7841e-02, 5.4263e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41959.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3380, 21.1394, 26.3205, 21.4986, 17.9115]])
+Probabilities for the given text: tensor([[9.1443e-04, 5.5397e-03, 9.8539e-01, 7.9343e-03, 2.1960e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41928.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0549, 25.4493, 30.6873, 26.3299, 24.2521]])
+Probabilities for the given text: tensor([[4.7492e-04, 5.2056e-03, 9.8019e-01, 1.2559e-02, 1.5723e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41921.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0562, 24.9185, 28.5603, 23.5382, 20.4678]])
+Probabilities for the given text: tensor([[5.3286e-04, 2.5351e-02, 9.6744e-01, 6.3759e-03, 2.9587e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41929.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.8308, 26.8398, 32.0777, 28.7503, 25.1682]])
+Probabilities for the given text: tensor([[2.5141e-04, 5.0952e-03, 9.5927e-01, 3.4425e-02, 9.5760e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17629.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7800, 23.4458, 27.9465, 23.0278, 20.6370]])
+Probabilities for the given text: tensor([[7.5701e-04, 1.0886e-02, 9.8054e-01, 7.1662e-03, 6.5613e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42159.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.0056, 20.8371, 25.9717, 21.2128, 20.3249]])
+Probabilities for the given text: tensor([[1.2539e-04, 5.7847e-03, 9.8220e-01, 8.4221e-03, 3.4659e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17519.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5132, 25.0761, 27.3601, 24.6651, 21.2826]])
+Probabilities for the given text: tensor([[0.0025, 0.0867, 0.8514, 0.0575, 0.0020]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17606.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4823, 22.9057, 25.3913, 23.7180, 18.6165]])
+Probabilities for the given text: tensor([[0.0058, 0.0651, 0.7816, 0.1467, 0.0009]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41927.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.5465, 24.9206, 30.0950, 26.3868, 24.5736]])
+Probabilities for the given text: tensor([[5.0924e-04, 5.4695e-03, 9.6646e-01, 2.3699e-02, 3.8659e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_41922.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1075, 22.3333, 25.5396, 23.5846, 17.9207]])
+Probabilities for the given text: tensor([[9.9544e-03, 3.3911e-02, 8.3720e-01, 1.1852e-01, 4.1112e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17564.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.5027, 19.7314, 26.1344, 20.7694, 18.5491]])
+Probabilities for the given text: tensor([[2.3973e-05, 1.6452e-03, 9.9318e-01, 4.6455e-03, 5.0440e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17562.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3799, 20.6892, 25.5629, 22.5709, 18.4624]])
+Probabilities for the given text: tensor([[2.6381e-04, 7.2189e-03, 9.4435e-01, 4.7393e-02, 7.7877e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17540.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3182, 20.6957, 26.3823, 20.9343, 19.2406]])
+Probabilities for the given text: tensor([[1.1476e-04, 3.3622e-03, 9.9147e-01, 4.2683e-03, 7.8466e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42172.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1714, 22.7983, 28.0413, 24.6506, 20.2913]])
+Probabilities for the given text: tensor([[9.9827e-04, 5.0792e-03, 9.6113e-01, 3.2378e-02, 4.1401e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17563.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.3398, 18.8161, 25.1364, 19.4508, 19.1728]])
+Probabilities for the given text: tensor([[5.5213e-05, 1.7855e-03, 9.9224e-01, 3.3684e-03, 2.5508e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42158.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.5599, 27.9776, 26.6892, 26.3342, 21.9073]])
+Probabilities for the given text: tensor([[0.0030, 0.6776, 0.1868, 0.1310, 0.0016]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17630.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2132, 21.5570, 24.4747, 22.0217, 18.9424]])
+Probabilities for the given text: tensor([[0.0045, 0.0470, 0.8701, 0.0749, 0.0034]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_17520.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8815, 24.1885, 26.5755, 21.3826, 21.4410]])
+Probabilities for the given text: tensor([[4.1270e-04, 8.3256e-02, 9.0596e-01, 5.0334e-03, 5.3360e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42171.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9948, 20.4745, 25.2690, 20.6180, 19.1245]])
+Probabilities for the given text: tensor([[0.0018, 0.0081, 0.9786, 0.0093, 0.0021]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42221.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.5518, 20.0838, 25.1024, 21.4671, 18.0723]])
+Probabilities for the given text: tensor([[6.8821e-05, 6.3963e-03, 9.6717e-01, 2.5508e-02, 8.5574e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42347.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.6802, 21.0841, 27.0521, 22.1779, 19.1564]])
+Probabilities for the given text: tensor([[8.4188e-05, 2.5324e-03, 9.8945e-01, 7.5612e-03, 3.6841e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42183.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9879, 23.2578, 27.8620, 23.7016, 20.0793]])
+Probabilities for the given text: tensor([[1.0070e-03, 9.7464e-03, 9.7365e-01, 1.5191e-02, 4.0590e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42343.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7614, 20.3428, 26.1238, 23.9584, 19.4301]])
+Probabilities for the given text: tensor([[0.0015, 0.0028, 0.8923, 0.1024, 0.0011]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42379.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.7238, 20.5547, 25.8977, 20.5767, 17.3396]])
+Probabilities for the given text: tensor([[2.7907e-04, 4.7334e-03, 9.8996e-01, 4.8386e-03, 1.9005e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42328.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8572, 21.3488, 26.5743, 21.6366, 18.8125]])
+Probabilities for the given text: tensor([[1.6163e-04, 5.3078e-03, 9.8703e-01, 7.0775e-03, 4.2017e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42326.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7564, 20.6641, 25.5613, 21.3217, 18.2800]])
+Probabilities for the given text: tensor([[1.0826e-03, 7.2942e-03, 9.7687e-01, 1.4080e-02, 6.7233e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42190.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.5565, 24.2368, 28.2637, 24.8402, 21.9178]])
+Probabilities for the given text: tensor([[0.0085, 0.0168, 0.9423, 0.0307, 0.0017]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42301.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.3172, 19.2132, 25.5799, 20.6887, 18.7846]])
+Probabilities for the given text: tensor([[9.3914e-05, 1.7001e-03, 9.8966e-01, 7.4347e-03, 1.1074e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42318.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4022, 22.3317, 24.6778, 22.7984, 19.8467]])
+Probabilities for the given text: tensor([[0.0756, 0.0704, 0.7358, 0.1123, 0.0059]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42348.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1147, 21.9613, 27.4191, 22.8054, 19.2229]])
+Probabilities for the given text: tensor([[2.4385e-04, 4.2014e-03, 9.8551e-01, 9.7720e-03, 2.7170e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42182.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.2251, 18.7216, 24.6516, 19.9237, 18.2656]])
+Probabilities for the given text: tensor([[2.1610e-04, 2.6233e-03, 9.8677e-01, 8.7283e-03, 1.6628e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42202.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6087, 23.2057, 26.6100, 22.3126, 18.8809]])
+Probabilities for the given text: tensor([[3.1982e-04, 3.1721e-02, 9.5455e-01, 1.2986e-02, 4.1985e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42317.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8458, 22.5596, 26.4634, 25.3173, 20.6620]])
+Probabilities for the given text: tensor([[0.0073, 0.0149, 0.7402, 0.2353, 0.0022]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42303.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.1680, 19.4952, 22.4673, 17.2040, 16.1519]])
+Probabilities for the given text: tensor([[6.3845e-04, 4.8347e-02, 9.4442e-01, 4.8902e-03, 1.7077e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42349.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0550, 21.7442, 26.8316, 22.4365, 19.0189]])
+Probabilities for the given text: tensor([[1.5141e-04, 6.0586e-03, 9.8129e-01, 1.2107e-02, 3.9699e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42194.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7981, 24.4396, 24.9316, 25.3210, 24.6294]])
+Probabilities for the given text: tensor([[0.0042, 0.1591, 0.2602, 0.3841, 0.1924]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42189.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2097, 22.3778, 26.5256, 23.4997, 18.9485]])
+Probabilities for the given text: tensor([[1.6944e-03, 1.4813e-02, 9.3753e-01, 4.5485e-02, 4.8007e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42181.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9941, 20.1286, 25.6180, 22.5437, 17.8364]])
+Probabilities for the given text: tensor([[4.6479e-04, 3.9287e-03, 9.5124e-01, 4.3965e-02, 3.9697e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42342.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.5699, 19.4367, 26.2111, 20.8930, 18.2103]])
+Probabilities for the given text: tensor([[6.4584e-05, 1.1354e-03, 9.9360e-01, 4.8709e-03, 3.3307e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42339.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3800, 23.6330, 25.1592, 23.6291, 19.0442]])
+Probabilities for the given text: tensor([[0.0414, 0.1451, 0.6675, 0.1445, 0.0015]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42195.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6909, 26.3118, 29.1059, 23.9419, 22.9044]])
+Probabilities for the given text: tensor([[0.0015, 0.0571, 0.9341, 0.0053, 0.0019]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42302.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0459, 21.2100, 27.3043, 21.1404, 18.9495]])
+Probabilities for the given text: tensor([[9.4858e-05, 2.2450e-03, 9.9533e-01, 2.0942e-03, 2.3416e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42380.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6860, 21.5742, 26.1616, 23.9379, 19.5832]])
+Probabilities for the given text: tensor([[0.0037, 0.0091, 0.8897, 0.0963, 0.0012]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42203.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3599, 23.7195, 27.7044, 23.2394, 21.5824]])
+Probabilities for the given text: tensor([[0.0017, 0.0180, 0.9671, 0.0111, 0.0021]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42344.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.2473, 19.8842, 26.5411, 22.4229, 18.8844]])
+Probabilities for the given text: tensor([[2.4559e-04, 1.2621e-03, 9.8205e-01, 1.5982e-02, 4.6437e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42204.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6211, 24.9615, 29.4677, 23.8373, 21.1877]])
+Probabilities for the given text: tensor([[1.0464e-03, 1.0867e-02, 9.8431e-01, 3.5308e-03, 2.4956e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42381.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8965, 22.8477, 29.1958, 24.2387, 19.7606]])
+Probabilities for the given text: tensor([[6.6961e-04, 1.7335e-03, 9.9055e-01, 6.9665e-03, 7.9105e-05]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42327.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.7786, 19.9774, 25.7924, 21.2141, 18.2764]])
+Probabilities for the given text: tensor([[1.2005e-04, 2.9416e-03, 9.8627e-01, 1.0132e-02, 5.3686e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42222.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2467, 23.9269, 28.3178, 24.3781, 21.0962]])
+Probabilities for the given text: tensor([[2.2309e-03, 1.1972e-02, 9.6629e-01, 1.8798e-02, 7.0603e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42193.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2545, 25.1408, 26.2190, 27.9907, 22.2706]])
+Probabilities for the given text: tensor([[0.0010, 0.0469, 0.1380, 0.8114, 0.0027]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42319.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.5482, 22.5809, 27.8834, 25.3090, 19.5283]])
+Probabilities for the given text: tensor([[1.1968e-02, 4.5494e-03, 9.1365e-01, 6.9620e-02, 2.1488e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42338.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2411, 24.5675, 26.8511, 24.6147, 20.1404]])
+Probabilities for the given text: tensor([[0.0082, 0.0835, 0.8197, 0.0876, 0.0010]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42503.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4192, 21.7050, 26.4243, 24.5911, 20.4580]])
+Probabilities for the given text: tensor([[0.0021, 0.0076, 0.8519, 0.1362, 0.0022]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42576.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2730, 26.0755, 29.0272, 25.6296, 21.0007]])
+Probabilities for the given text: tensor([[1.0725e-03, 4.8061e-02, 9.1979e-01, 3.0771e-02, 3.0048e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42488.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2281, 21.9865, 27.6575, 24.3313, 20.2339]])
+Probabilities for the given text: tensor([[2.0992e-04, 3.3114e-03, 9.6136e-01, 3.4541e-02, 5.7393e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42568.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0046, 26.8281, 26.4056, 25.2158, 20.8779]])
+Probabilities for the given text: tensor([[0.0116, 0.5321, 0.3488, 0.1061, 0.0014]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42435.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.7342, 21.5287, 26.3097, 20.7750, 19.2476]])
+Probabilities for the given text: tensor([[1.8617e-04, 8.2764e-03, 9.8680e-01, 3.8952e-03, 8.4563e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42554.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.2787, 25.0177, 28.4213, 25.0387, 20.9516]])
+Probabilities for the given text: tensor([[5.4418e-03, 3.0973e-02, 9.3142e-01, 3.1630e-02, 5.3103e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51233.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1205, 23.6570, 27.1222, 23.6820, 19.2219]])
+Probabilities for the given text: tensor([[2.3209e-03, 2.9325e-02, 9.3794e-01, 3.0067e-02, 3.4763e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42519.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.6887, 26.3626, 28.3925, 26.0831, 21.7029]])
+Probabilities for the given text: tensor([[0.0073, 0.1058, 0.8058, 0.0800, 0.0010]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42518.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5814, 24.7823, 29.6336, 24.6494, 21.4603]])
+Probabilities for the given text: tensor([[1.1540e-04, 7.7018e-03, 9.8516e-01, 6.7432e-03, 2.7790e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42486.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3766, 26.6304, 25.0095, 24.7728, 20.6414]])
+Probabilities for the given text: tensor([[0.0014, 0.7363, 0.1456, 0.1149, 0.0018]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51234.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0874, 23.8968, 28.7686, 23.6863, 19.6329]])
+Probabilities for the given text: tensor([[1.2355e-03, 7.5452e-03, 9.8500e-01, 6.1130e-03, 1.0614e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42528.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.8414, 25.6378, 29.7277, 24.6993, 21.8438]])
+Probabilities for the given text: tensor([[9.9702e-04, 1.6337e-02, 9.7591e-01, 6.3916e-03, 3.6766e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_51232.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0690, 24.2867, 28.1798, 25.4496, 22.2830]])
+Probabilities for the given text: tensor([[0.0055, 0.0186, 0.9138, 0.0596, 0.0025]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42487.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9392, 24.7989, 25.6907, 28.1770, 21.3669]])
+Probabilities for the given text: tensor([[6.4236e-04, 3.0482e-02, 7.4362e-02, 8.9353e-01, 9.8525e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42461.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1060, 21.3016, 26.1647, 25.2394, 19.0699]])
+Probabilities for the given text: tensor([[1.6609e-03, 5.4902e-03, 7.1058e-01, 2.8168e-01, 5.8934e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42529.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2203, 24.7528, 30.4370, 24.9362, 21.5108]])
+Probabilities for the given text: tensor([[9.8603e-05, 3.3734e-03, 9.9234e-01, 4.0522e-03, 1.3184e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42544.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4344, 22.6290, 28.2375, 23.8917, 20.8982]])
+Probabilities for the given text: tensor([[1.4769e-04, 3.6036e-03, 9.8287e-01, 1.2739e-02, 6.3838e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42508.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8469, 21.8646, 27.4129, 22.1332, 19.7779]])
+Probabilities for the given text: tensor([[5.1264e-04, 3.8554e-03, 9.9011e-01, 5.0435e-03, 4.7846e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42527.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4144, 24.6134, 29.4423, 23.8009, 22.3645]])
+Probabilities for the given text: tensor([[3.2212e-04, 7.8945e-03, 9.8745e-01, 3.5033e-03, 8.3303e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42428.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9994, 23.1097, 24.3778, 24.7834, 18.3015]])
+Probabilities for the given text: tensor([[0.0121, 0.0998, 0.3549, 0.5324, 0.0008]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42505.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2962, 21.1477, 26.6232, 21.1628, 18.2051]])
+Probabilities for the given text: tensor([[8.8220e-05, 4.1519e-03, 9.9133e-01, 4.2150e-03, 2.1893e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42462.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.8323, 23.7662, 27.0323, 23.1670, 19.9053]])
+Probabilities for the given text: tensor([[1.3950e-02, 3.5496e-02, 9.3031e-01, 1.9495e-02, 7.4716e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42553.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9403, 22.9318, 27.4198, 24.1610, 20.4636]])
+Probabilities for the given text: tensor([[1.4586e-03, 1.0685e-02, 9.5042e-01, 3.6530e-02, 9.0546e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42460.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2966, 22.9927, 28.8695, 22.5970, 20.1084]])
+Probabilities for the given text: tensor([[6.9253e-05, 2.7902e-03, 9.9511e-01, 1.8784e-03, 1.5595e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42545.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.4210, 20.9037, 26.9607, 21.2237, 18.1540]])
+Probabilities for the given text: tensor([[2.6315e-05, 2.3280e-03, 9.9429e-01, 3.2060e-03, 1.4887e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42507.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9703, 22.3774, 25.2400, 23.2993, 18.7195]])
+Probabilities for the given text: tensor([[0.0043, 0.0473, 0.8283, 0.1189, 0.0012]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42506.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9806, 20.3494, 25.8860, 22.3191, 19.6729]])
+Probabilities for the given text: tensor([[0.0010, 0.0038, 0.9660, 0.0273, 0.0019]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42570.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0001, 23.7791, 23.4804, 22.7227, 20.4410]])
+Probabilities for the given text: tensor([[0.0106, 0.4656, 0.3454, 0.1619, 0.0165]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42514.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5404, 23.1988, 27.7823, 23.3900, 20.7570]])
+Probabilities for the given text: tensor([[2.5726e-04, 9.9819e-03, 9.7681e-01, 1.2085e-02, 8.6845e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42504.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9206, 22.5290, 27.8326, 23.9988, 20.0380]])
+Probabilities for the given text: tensor([[1.3119e-04, 4.8419e-03, 9.7357e-01, 2.1054e-02, 4.0105e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42555.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8722, 23.1037, 26.5949, 22.0170, 21.8216]])
+Probabilities for the given text: tensor([[4.2171e-04, 2.9021e-02, 9.5271e-01, 9.7899e-03, 8.0526e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42520.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8532, 26.1999, 29.5830, 24.0010, 25.6360]])
+Probabilities for the given text: tensor([[1.5294e-04, 3.2105e-02, 9.4591e-01, 3.5612e-03, 1.8268e-02]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42546.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1947, 21.6768, 27.7460, 22.1700, 19.9179]])
+Probabilities for the given text: tensor([[7.0643e-05, 2.2979e-03, 9.9347e-01, 3.7631e-03, 3.9577e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Italy_truck_42569.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0555, 26.9424, 24.6900, 25.1679, 21.4862]])
+Probabilities for the given text: tensor([[0.0158, 0.7695, 0.0809, 0.1305, 0.0033]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42605.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.4381, 25.8811, 29.2308, 29.2547, 23.6231]])
+Probabilities for the given text: tensor([[0.0015, 0.0170, 0.4840, 0.4957, 0.0018]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42606.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0014, 22.8556, 27.5340, 25.3093, 20.0752]])
+Probabilities for the given text: tensor([[9.5270e-03, 8.2343e-03, 8.8595e-01, 9.5778e-02, 5.1064e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42005.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9403, 22.4137, 27.9775, 22.4390, 19.8470]])
+Probabilities for the given text: tensor([[1.1795e-04, 3.8031e-03, 9.9189e-01, 3.9005e-03, 2.9205e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17522.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4464, 24.0779, 27.7406, 24.1072, 20.8552]])
+Probabilities for the given text: tensor([[6.4477e-04, 2.4355e-02, 9.4895e-01, 2.5079e-02, 9.7047e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17523.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2835, 23.7446, 27.2498, 26.3421, 21.1085]])
+Probabilities for the given text: tensor([[0.0048, 0.0208, 0.6932, 0.2797, 0.0015]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42117.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4741, 23.7945, 27.4909, 23.5504, 22.2395]])
+Probabilities for the given text: tensor([[8.5370e-04, 2.3623e-02, 9.5203e-01, 1.8507e-02, 4.9891e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42140.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.6040, 18.9921, 24.9310, 19.7292, 16.6992]])
+Probabilities for the given text: tensor([[8.8242e-05, 2.6127e-03, 9.9157e-01, 5.4603e-03, 2.6384e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42050.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9675, 22.8973, 27.3089, 21.3844, 19.8005]])
+Probabilities for the given text: tensor([[2.3478e-04, 1.1949e-02, 9.8464e-01, 2.6321e-03, 5.4004e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_41983.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9929, 23.2206, 28.5482, 25.8755, 21.6501]])
+Probabilities for the given text: tensor([[4.8659e-04, 4.5147e-03, 9.2985e-01, 6.4214e-02, 9.3885e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17524.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.4176, 24.9225, 28.2865, 25.1395, 21.3594]])
+Probabilities for the given text: tensor([[7.0721e-03, 3.1849e-02, 9.2061e-01, 3.9569e-02, 9.0300e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42007.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8346, 22.2009, 26.7762, 24.8642, 18.4726]])
+Probabilities for the given text: tensor([[8.3383e-04, 8.8874e-03, 8.6260e-01, 1.2747e-01, 2.1358e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42276.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1751, 20.9676, 26.7447, 22.1842, 17.9215]])
+Probabilities for the given text: tensor([[1.8719e-04, 3.0553e-03, 9.8630e-01, 1.0313e-02, 1.4525e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42115.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6945, 23.0065, 27.8814, 22.5937, 19.4150]])
+Probabilities for the given text: tensor([[1.0105e-04, 7.5380e-03, 9.8716e-01, 4.9883e-03, 2.0771e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42051.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1156, 23.5763, 27.8811, 23.2290, 20.7118]])
+Probabilities for the given text: tensor([[4.1411e-04, 1.3185e-02, 9.7633e-01, 9.3163e-03, 7.5169e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42118.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3046, 23.2825, 26.1857, 22.8731, 19.9311]])
+Probabilities for the given text: tensor([[3.4547e-04, 5.0154e-02, 9.1444e-01, 3.3305e-02, 1.7571e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_41984.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4182, 22.3807, 28.1987, 23.7492, 21.6349]])
+Probabilities for the given text: tensor([[4.1100e-04, 2.9252e-03, 9.8378e-01, 1.1494e-02, 1.3876e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_17586.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7278, 21.1117, 27.1843, 22.1651, 20.1051]])
+Probabilities for the given text: tensor([[2.1042e-04, 2.2823e-03, 9.9013e-01, 6.5446e-03, 8.3410e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42006.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6444, 22.4076, 25.2216, 22.7244, 19.2770]])
+Probabilities for the given text: tensor([[0.0033, 0.0522, 0.8706, 0.0717, 0.0023]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42116.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3953, 25.0485, 23.4497, 19.4889, 19.3600]])
+Probabilities for the given text: tensor([[3.9221e-04, 8.2655e-01, 1.6708e-01, 3.1824e-03, 2.7977e-03]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42138.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.1940, 17.6389, 24.2833, 19.2633, 18.8977]])
+Probabilities for the given text: tensor([[8.2308e-04, 1.2842e-03, 9.8685e-01, 6.5177e-03, 4.5221e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42139.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.3890, 21.1455, 25.7949, 21.2475, 19.7361]])
+Probabilities for the given text: tensor([[2.1858e-04, 9.3555e-03, 9.7778e-01, 1.0360e-02, 2.2853e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42430.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2178, 23.2094, 27.7051, 23.6528, 19.9505]])
+Probabilities for the given text: tensor([[5.4407e-04, 1.0837e-02, 9.7132e-01, 1.6883e-02, 4.1648e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42277.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.1501, 20.9498, 26.0794, 21.2561, 18.6948]])
+Probabilities for the given text: tensor([[1.3053e-04, 5.8332e-03, 9.8550e-01, 7.9236e-03, 6.1173e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42278.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2358, 21.4764, 28.0288, 23.3063, 19.8327]])
+Probabilities for the given text: tensor([[1.5018e-04, 1.4115e-03, 9.8937e-01, 8.7978e-03, 2.7278e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42354.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0387, 25.2633, 28.4623, 25.0845, 20.6602]])
+Probabilities for the given text: tensor([[1.5069e-03, 3.7889e-02, 9.2854e-01, 3.1686e-02, 3.7966e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42431.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7812, 23.7552, 29.3504, 24.7681, 20.6311]])
+Probabilities for the given text: tensor([[5.0866e-04, 3.6622e-03, 9.8558e-01, 1.0084e-02, 1.6105e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42355.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9040, 23.3115, 26.7508, 22.8159, 20.0128]])
+Probabilities for the given text: tensor([[3.7123e-04, 3.0464e-02, 9.4948e-01, 1.8560e-02, 1.1251e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Romania_truck_42353.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.7535, 24.3838, 28.4200, 25.2133, 20.4451]])
+Probabilities for the given text: tensor([[3.2581e-03, 1.6633e-02, 9.4166e-01, 3.8128e-02, 3.2393e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17439.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5384, 23.3923, 28.8725, 23.1454, 20.2168]])
+Probabilities for the given text: tensor([[8.7693e-05, 4.1369e-03, 9.9237e-01, 3.2319e-03, 1.7282e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17501.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.3441, 19.5869, 26.5140, 21.7379, 19.9018]])
+Probabilities for the given text: tensor([[3.7895e-05, 9.7036e-04, 9.8932e-01, 8.3383e-03, 1.3294e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17500.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.4018, 21.3658, 27.0563, 22.2938, 20.3868]])
+Probabilities for the given text: tensor([[6.3296e-05, 3.3337e-03, 9.8692e-01, 8.4320e-03, 1.2524e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17528.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7054, 23.8730, 29.3302, 25.2260, 22.3208]])
+Probabilities for the given text: tensor([[4.7756e-04, 4.1727e-03, 9.7832e-01, 1.6145e-02, 8.8370e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17464.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7825, 23.4708, 28.6703, 26.2291, 21.3893]])
+Probabilities for the given text: tensor([[1.2626e-04, 5.0480e-03, 9.1457e-01, 7.9621e-02, 6.2967e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17409.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.5938, 18.7162, 23.5628, 19.5188, 17.0949]])
+Probabilities for the given text: tensor([[9.1511e-04, 7.6419e-03, 9.7288e-01, 1.7052e-02, 1.5104e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17462.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.3052, 22.9399, 27.0223, 24.8740, 21.0061]])
+Probabilities for the given text: tensor([[0.0209, 0.0145, 0.8618, 0.1006, 0.0021]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17502.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5007, 22.7419, 27.9758, 23.1995, 21.3708]])
+Probabilities for the given text: tensor([[7.5594e-05, 5.2528e-03, 9.8504e-01, 8.3013e-03, 1.3334e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17548.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5632, 20.3455, 25.6400, 23.2333, 18.8328]])
+Probabilities for the given text: tensor([[0.0021, 0.0046, 0.9103, 0.0820, 0.0010]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17463.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.5324, 24.9113, 29.6778, 24.0173, 22.7118]])
+Probabilities for the given text: tensor([[7.7784e-04, 8.3946e-03, 9.8646e-01, 3.4337e-03, 9.3061e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17437.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5651, 22.5783, 25.6295, 22.1660, 20.9563]])
+Probabilities for the given text: tensor([[7.8526e-04, 4.3443e-02, 9.1843e-01, 2.8766e-02, 8.5807e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17408.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2396, 24.7424, 24.5287, 23.7225, 20.9552]])
+Probabilities for the given text: tensor([[0.0050, 0.4542, 0.3667, 0.1638, 0.0103]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17438.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[25.5702, 25.1723, 27.3989, 25.3266, 20.1566]])
+Probabilities for the given text: tensor([[1.1513e-01, 7.7334e-02, 7.1679e-01, 9.0237e-02, 5.1295e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42220.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4110, 23.8894, 26.5098, 23.3368, 19.6032]])
+Probabilities for the given text: tensor([[2.7234e-04, 6.5212e-02, 8.9609e-01, 3.7525e-02, 8.9717e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42156.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8325, 21.7409, 27.0871, 23.2098, 20.2446]])
+Probabilities for the given text: tensor([[0.0019, 0.0046, 0.9723, 0.0201, 0.0010]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41965.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2055, 22.6555, 26.1205, 24.3101, 18.4270]])
+Probabilities for the given text: tensor([[2.2527e-03, 2.6106e-02, 8.3470e-01, 1.3656e-01, 3.8045e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17571.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.1619, 20.0513, 25.8727, 21.5644, 19.4508]])
+Probabilities for the given text: tensor([[5.9548e-05, 2.9109e-03, 9.8222e-01, 1.3217e-02, 1.5966e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17550.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4058, 23.9432, 28.0438, 24.7973, 19.0047]])
+Probabilities for the given text: tensor([[1.2392e-03, 1.5672e-02, 9.4616e-01, 3.6815e-02, 1.1229e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42201.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0471, 22.8174, 28.4054, 23.2623, 20.2511]])
+Probabilities for the given text: tensor([[6.3065e-04, 3.7037e-03, 9.8960e-01, 5.7790e-03, 2.8452e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42205.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1787, 22.7978, 26.1306, 23.4730, 21.1108]])
+Probabilities for the given text: tensor([[8.5944e-04, 3.2058e-02, 8.9817e-01, 6.2981e-02, 5.9335e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42224.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7904, 23.8171, 28.6447, 23.5216, 20.8915]])
+Probabilities for the given text: tensor([[3.8242e-04, 7.8890e-03, 9.8543e-01, 5.8708e-03, 4.2311e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42184.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9804, 23.3569, 26.2330, 25.0535, 21.2074]])
+Probabilities for the given text: tensor([[0.0103, 0.0407, 0.7222, 0.2220, 0.0047]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42217.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2459, 21.9217, 26.2653, 21.9561, 18.5075]])
+Probabilities for the given text: tensor([[1.1786e-04, 1.2648e-02, 9.7373e-01, 1.3092e-02, 4.1618e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42206.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6168, 21.6509, 28.4552, 22.5941, 18.5622]])
+Probabilities for the given text: tensor([[5.3148e-05, 1.1045e-03, 9.9596e-01, 2.8364e-03, 5.0324e-05]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41964.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2906, 21.6030, 25.8549, 22.3888, 17.8968]])
+Probabilities for the given text: tensor([[1.3461e-03, 1.3594e-02, 9.5490e-01, 2.9829e-02, 3.3403e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42216.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0912, 22.3785, 29.0011, 23.5773, 21.6301]])
+Probabilities for the given text: tensor([[4.9364e-05, 1.3215e-03, 9.9362e-01, 4.3822e-03, 6.2519e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17611.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5380, 23.7721, 28.1457, 23.8914, 22.1452]])
+Probabilities for the given text: tensor([[4.8228e-04, 1.2241e-02, 9.7108e-01, 1.3794e-02, 2.4059e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42185.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1957, 20.8429, 26.1024, 22.7951, 17.9999]])
+Probabilities for the given text: tensor([[3.5323e-04, 4.9859e-03, 9.5925e-01, 3.5120e-02, 2.9042e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17612.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3168, 22.0193, 28.5040, 25.0981, 20.8667]])
+Probabilities for the given text: tensor([[7.2997e-04, 1.4736e-03, 9.6531e-01, 3.2023e-02, 4.6536e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17636.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6217, 22.9995, 27.0034, 24.2488, 20.8742]])
+Probabilities for the given text: tensor([[0.0016, 0.0168, 0.9210, 0.0586, 0.0020]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17561.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2922, 19.7092, 25.2127, 20.6787, 18.0555]])
+Probabilities for the given text: tensor([[3.5751e-04, 4.0085e-03, 9.8430e-01, 1.0569e-02, 7.6702e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42168.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6272, 21.3082, 25.7706, 22.2689, 17.4507]])
+Probabilities for the given text: tensor([[5.5721e-03, 1.1010e-02, 9.5441e-01, 2.8773e-02, 2.3253e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17613.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1993, 23.4325, 27.4137, 23.8942, 21.2130]])
+Probabilities for the given text: tensor([[7.0016e-04, 1.7757e-02, 9.5144e-01, 2.8176e-02, 1.9295e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17572.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1908, 21.5487, 27.4742, 24.3308, 20.9608]])
+Probabilities for the given text: tensor([[2.4121e-04, 2.5493e-03, 9.5461e-01, 4.1181e-02, 1.4161e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42199.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7655, 20.2302, 26.9367, 22.6602, 18.0561]])
+Probabilities for the given text: tensor([[2.7837e-04, 1.2043e-03, 9.8470e-01, 1.3679e-02, 1.3693e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42223.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7176, 22.3166, 25.6024, 23.7030, 18.3649]])
+Probabilities for the given text: tensor([[8.6072e-04, 3.1471e-02, 8.4118e-01, 1.2589e-01, 6.0492e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17549.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6396, 20.1405, 24.5002, 21.7783, 18.0648]])
+Probabilities for the given text: tensor([[0.0026, 0.0118, 0.9234, 0.0607, 0.0015]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42004.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4893, 24.5901, 28.8155, 24.2307, 20.7976]])
+Probabilities for the given text: tensor([[2.3609e-04, 1.4258e-02, 9.7523e-01, 9.9531e-03, 3.2136e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42207.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7599, 21.1822, 25.3645, 21.6068, 17.5756]])
+Probabilities for the given text: tensor([[1.3016e-03, 1.4670e-02, 9.6120e-01, 2.2430e-02, 3.9820e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42169.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.8239, 19.3782, 24.3080, 19.6922, 16.5933]])
+Probabilities for the given text: tensor([[5.5198e-04, 7.0996e-03, 9.8219e-01, 9.7188e-03, 4.3828e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42155.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.0097, 23.9770, 27.9527, 26.6100, 20.4155]])
+Probabilities for the given text: tensor([[5.5402e-03, 1.4575e-02, 7.7666e-01, 2.0282e-01, 4.1386e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17634.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9142, 23.2761, 28.6427, 23.3986, 20.1439]])
+Probabilities for the given text: tensor([[1.6026e-04, 4.6224e-03, 9.8979e-01, 5.2248e-03, 2.0164e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42200.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4881, 20.4993, 24.8151, 22.8151, 17.0133]])
+Probabilities for the given text: tensor([[4.2104e-03, 1.1574e-02, 8.6659e-01, 1.1727e-01, 3.5442e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17573.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[15.8312, 19.0587, 24.6144, 20.0404, 17.4978]])
+Probabilities for the given text: tensor([[1.5099e-04, 3.8074e-03, 9.8508e-01, 1.0162e-02, 7.9942e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_17635.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3035, 25.2557, 30.2535, 25.8045, 23.6316]])
+Probabilities for the given text: tensor([[3.4572e-04, 6.6193e-03, 9.8027e-01, 1.1460e-02, 1.3047e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_41963.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7194, 21.1567, 24.3976, 23.4680, 17.5193]])
+Probabilities for the given text: tensor([[0.0064, 0.0271, 0.6924, 0.2733, 0.0007]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42619.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4741, 21.3746, 26.7396, 22.7446, 18.6336]])
+Probabilities for the given text: tensor([[5.0238e-03, 4.5477e-03, 9.7224e-01, 1.7896e-02, 2.9337e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42587.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8159, 20.2212, 25.0603, 22.3203, 17.9747]])
+Probabilities for the given text: tensor([[4.8927e-03, 7.3374e-03, 9.2712e-01, 5.9870e-02, 7.7611e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42617.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7163, 22.2669, 27.3769, 24.4960, 21.8010]])
+Probabilities for the given text: tensor([[4.4169e-04, 5.6602e-03, 9.3775e-01, 5.2594e-02, 3.5523e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42618.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7636, 23.0784, 24.0775, 22.2443, 20.4631]])
+Probabilities for the given text: tensor([[0.0598, 0.2226, 0.6046, 0.0967, 0.0163]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42321.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3203, 21.3745, 27.5260, 22.2759, 21.7314]])
+Probabilities for the given text: tensor([[2.7020e-04, 2.1078e-03, 9.8942e-01, 5.1914e-03, 3.0117e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42346.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0836, 24.7553, 28.3191, 26.7459, 22.4689]])
+Probabilities for the given text: tensor([[0.0016, 0.0228, 0.8061, 0.1672, 0.0023]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42225.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.1513, 24.4352, 28.8740, 26.7869, 21.8596]])
+Probabilities for the given text: tensor([[2.8690e-03, 1.0359e-02, 8.7717e-01, 1.0881e-01, 7.8840e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42345.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3424, 22.9857, 26.1888, 22.0649, 20.1486]])
+Probabilities for the given text: tensor([[0.0074, 0.0381, 0.9372, 0.0152, 0.0022]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42366.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.7586, 22.4266, 27.8073, 23.7355, 19.5375]])
+Probabilities for the given text: tensor([[6.2410e-03, 4.4778e-03, 9.7245e-01, 1.6577e-02, 2.4908e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42365.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3331, 21.3079, 26.1102, 21.8717, 20.2093]])
+Probabilities for the given text: tensor([[0.0030, 0.0080, 0.9723, 0.0140, 0.0027]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42322.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2693, 22.8937, 27.7186, 22.2489, 22.0080]])
+Probabilities for the given text: tensor([[2.1073e-04, 7.9025e-03, 9.8448e-01, 4.1471e-03, 3.2592e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42320.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8581, 21.7526, 27.3873, 22.9306, 20.2099]])
+Probabilities for the given text: tensor([[1.9447e-04, 3.5149e-03, 9.8412e-01, 1.1416e-02, 7.5152e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42427.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4081, 23.6741, 24.4284, 22.4477, 19.0483]])
+Probabilities for the given text: tensor([[0.0041, 0.2904, 0.6175, 0.0852, 0.0028]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42162.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0844, 21.4946, 24.3763, 20.0190, 21.4053]])
+Probabilities for the given text: tensor([[0.0045, 0.0498, 0.8888, 0.0114, 0.0456]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42161.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.4279, 24.9737, 28.9578, 29.1518, 22.8709]])
+Probabilities for the given text: tensor([[0.0048, 0.0083, 0.4453, 0.5406, 0.0010]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/Spain_truck_42160.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8349, 20.6543, 26.2487, 21.2387, 17.3985]])
+Probabilities for the given text: tensor([[2.1944e-04, 3.6792e-03, 9.8936e-01, 6.6003e-03, 1.4183e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17382.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2069, 23.8466, 24.4435, 23.6532, 20.0808]])
+Probabilities for the given text: tensor([[0.0503, 0.2592, 0.4709, 0.2136, 0.0060]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17632.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.6133, 18.0911, 23.9052, 19.9648, 16.1332]])
+Probabilities for the given text: tensor([[1.8067e-03, 2.9132e-03, 9.7590e-01, 1.8971e-02, 4.1123e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42196.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.3465, 23.5324, 25.2072, 18.8064, 20.1497]])
+Probabilities for the given text: tensor([[1.1866e-04, 1.5672e-01, 8.3645e-01, 1.3887e-03, 5.3214e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17474.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3031, 19.3664, 24.5735, 25.7585, 17.4364]])
+Probabilities for the given text: tensor([[1.2008e-03, 1.2791e-03, 2.3353e-01, 7.6381e-01, 1.8566e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17537.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9397, 22.7873, 24.2946, 22.9833, 18.9066]])
+Probabilities for the given text: tensor([[0.0031, 0.1477, 0.6665, 0.1796, 0.0030]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17366.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.2767, 20.8796, 25.2990, 22.6968, 19.3639]])
+Probabilities for the given text: tensor([[8.1838e-04, 1.1050e-02, 9.1770e-01, 6.8006e-02, 2.4273e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42015.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4214, 22.1225, 24.9174, 22.5260, 19.1873]])
+Probabilities for the given text: tensor([[0.0035, 0.0527, 0.8621, 0.0789, 0.0028]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17560.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.0009, 19.9365, 26.0870, 21.7690, 17.6612]])
+Probabilities for the given text: tensor([[1.1147e-04, 2.0993e-03, 9.8445e-01, 1.3119e-02, 2.1572e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17475.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5783, 21.4988, 26.4019, 25.7170, 18.7543]])
+Probabilities for the given text: tensor([[5.2875e-03, 4.8835e-03, 6.5787e-01, 3.3165e-01, 3.1391e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41990.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3353, 24.0702, 27.1746, 23.3584, 20.9972]])
+Probabilities for the given text: tensor([[3.6839e-04, 4.1945e-02, 9.3516e-01, 2.0584e-02, 1.9413e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42016.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4044, 20.5821, 26.5143, 22.2767, 18.5002]])
+Probabilities for the given text: tensor([[2.9533e-04, 2.6064e-03, 9.8258e-01, 1.4190e-02, 3.2499e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17473.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8251, 20.5552, 22.9497, 23.2366, 17.2586]])
+Probabilities for the given text: tensor([[0.0066, 0.0373, 0.4093, 0.5453, 0.0014]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17535.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.4679, 22.9038, 25.9225, 21.9554, 20.3852]])
+Probabilities for the given text: tensor([[1.9862e-04, 4.5587e-02, 9.3288e-01, 1.7659e-02, 3.6728e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42014.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1871, 18.8925, 23.6204, 22.5160, 18.7665]])
+Probabilities for the given text: tensor([[0.0234, 0.0064, 0.7245, 0.2401, 0.0056]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17559.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7261, 20.1976, 25.2169, 22.3666, 17.9939]])
+Probabilities for the given text: tensor([[1.4224e-03, 6.1959e-03, 9.3749e-01, 5.4212e-02, 6.8400e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17367.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9770, 21.2476, 26.0395, 22.0437, 17.4698]])
+Probabilities for the given text: tensor([[8.3352e-04, 8.0729e-03, 9.7301e-01, 1.7896e-02, 1.8465e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41989.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1998, 20.7572, 25.3463, 21.7628, 18.6153]])
+Probabilities for the given text: tensor([[7.5744e-04, 9.7724e-03, 9.6161e-01, 2.6713e-02, 1.1476e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17579.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0031, 23.1523, 25.8807, 25.4979, 20.6519]])
+Probabilities for the given text: tensor([[0.0043, 0.0371, 0.5681, 0.3874, 0.0030]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42197.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8576, 26.3247, 24.3902, 21.7761, 22.9443]])
+Probabilities for the given text: tensor([[0.0013, 0.8399, 0.1214, 0.0089, 0.0286]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17631.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.7738, 20.1972, 26.0890, 20.3283, 17.0367]])
+Probabilities for the given text: tensor([[8.9491e-05, 2.7451e-03, 9.9392e-01, 3.1297e-03, 1.1640e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17633.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.5168, 19.8782, 22.2867, 22.6146, 17.2052]])
+Probabilities for the given text: tensor([[0.0034, 0.0361, 0.4012, 0.5568, 0.0025]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_41988.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9393, 20.7560, 26.0526, 22.1545, 18.9484]])
+Probabilities for the given text: tensor([[2.9184e-04, 4.8801e-03, 9.7427e-01, 1.9759e-02, 8.0055e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17580.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2679, 20.2062, 25.9805, 21.0285, 17.9392]])
+Probabilities for the given text: tensor([[1.6276e-04, 3.0736e-03, 9.8945e-01, 6.9944e-03, 3.1848e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17558.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0734, 18.3758, 24.3366, 20.2543, 15.8436]])
+Probabilities for the given text: tensor([[5.0535e-03, 2.5156e-03, 9.7577e-01, 1.6461e-02, 1.9994e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17536.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[14.0032, 18.2634, 24.2544, 19.6221, 17.2904]])
+Probabilities for the given text: tensor([[3.4854e-05, 2.4684e-03, 9.8696e-01, 9.6048e-03, 9.3290e-04]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42198.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.2506, 19.7501, 24.3289, 22.7213, 20.3637]])
+Probabilities for the given text: tensor([[6.8528e-04, 8.3441e-03, 8.1272e-01, 1.6284e-01, 1.5413e-02]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17581.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7437, 22.6164, 25.1517, 24.9950, 18.8864]])
+Probabilities for the given text: tensor([[0.0063, 0.0407, 0.5133, 0.4388, 0.0010]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42510.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0898, 23.3216, 25.4481, 23.4113, 19.6479]])
+Probabilities for the given text: tensor([[0.0101, 0.0942, 0.7902, 0.1031, 0.0024]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17365.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.1860, 21.5716, 25.7835, 23.2617, 19.4588]])
+Probabilities for the given text: tensor([[4.5718e-04, 1.3503e-02, 9.1122e-01, 7.3183e-02, 1.6324e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42579.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.9548, 20.6301, 26.0167, 21.3413, 19.5198]])
+Probabilities for the given text: tensor([[1.1424e-04, 4.5079e-03, 9.8471e-01, 9.1797e-03, 1.4852e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42578.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.4847, 21.8316, 25.9862, 21.9054, 21.5240]])
+Probabilities for the given text: tensor([[1.9454e-04, 1.5026e-02, 9.5755e-01, 1.6177e-02, 1.1048e-02]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42509.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4902, 23.9050, 23.9676, 23.2565, 21.6931]])
+Probabilities for the given text: tensor([[0.0321, 0.3589, 0.3821, 0.1876, 0.0393]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_42580.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0968, 24.4921, 27.5269, 23.0526, 21.1180]])
+Probabilities for the given text: tensor([[5.5861e-04, 4.5287e-02, 9.4187e-01, 1.0736e-02, 1.5510e-03]])
+Predicted class: tensor([2])
+Filename: /content/drive/MyDrive/Colab Notebooks/europe/truck/United_Kingdom_truck_17359.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0835, 25.3225, 28.7348, 24.6113, 21.9837]])
+Probabilities for the given text: tensor([[4.5243e-04, 3.1373e-02, 9.5166e-01, 1.5406e-02, 1.1131e-03]])
+Predicted class: tensor([2])

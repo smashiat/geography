@@ -1,0 +1,904 @@
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47696.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2874, 22.6813, 21.4741, 28.2362, 21.4188]])
+Probabilities for the given text: tensor([[9.5306e-04, 3.8414e-03, 1.1487e-03, 9.9297e-01, 1.0869e-03]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47737.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3279, 25.4687, 24.8199, 28.3044, 23.2874]])
+Probabilities for the given text: tensor([[0.0023, 0.0534, 0.0279, 0.9103, 0.0060]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47735.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[16.5729, 20.3503, 20.0205, 25.5194, 16.9403]])
+Probabilities for the given text: tensor([[1.2889e-04, 5.6327e-03, 4.0504e-03, 9.9000e-01, 1.8611e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47695.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8688, 23.8003, 23.6528, 26.2187, 20.1201]])
+Probabilities for the given text: tensor([[0.0015, 0.0761, 0.0657, 0.8548, 0.0019]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47736.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0834, 22.2059, 21.3166, 26.9498, 19.5292]])
+Probabilities for the given text: tensor([[1.3922e-04, 8.5923e-03, 3.5311e-03, 9.8715e-01, 5.9109e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47807.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0956, 24.2242, 23.0216, 27.7772, 19.2047]])
+Probabilities for the given text: tensor([[1.2071e-03, 2.7571e-02, 8.2829e-03, 9.6276e-01, 1.8219e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47738.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2597, 22.5191, 22.7264, 29.2678, 19.3319]])
+Probabilities for the given text: tensor([[1.2208e-04, 1.1692e-03, 1.4385e-03, 9.9722e-01, 4.8273e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47719.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5329, 21.6888, 21.7493, 28.6122, 19.2261]])
+Probabilities for the given text: tensor([[1.1375e-04, 9.8235e-04, 1.0436e-03, 9.9778e-01, 8.3701e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47805.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3739, 22.4707, 23.3240, 29.2398, 20.0201]])
+Probabilities for the given text: tensor([[3.8197e-04, 1.1439e-03, 2.6849e-03, 9.9569e-01, 9.8645e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47838.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.6691, 21.8906, 22.3067, 28.3139, 18.9781]])
+Probabilities for the given text: tensor([[9.4811e-03, 1.6013e-03, 2.4276e-03, 9.8640e-01, 8.7016e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_55976.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7098, 20.1653, 21.3096, 27.1089, 17.8009]])
+Probabilities for the given text: tensor([[2.2411e-04, 9.6070e-04, 3.0166e-03, 9.9571e-01, 9.0310e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47865.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3722, 20.9767, 20.3678, 27.1740, 16.3023]])
+Probabilities for the given text: tensor([[4.0756e-04, 2.0277e-03, 1.1029e-03, 9.9644e-01, 1.8920e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47806.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5202, 23.0138, 23.0793, 29.9449, 20.1161]])
+Probabilities for the given text: tensor([[2.1888e-04, 9.7470e-04, 1.0406e-03, 9.9771e-01, 5.3751e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47814.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7904, 22.5446, 20.8083, 28.9926, 19.6376]])
+Probabilities for the given text: tensor([[1.0062e-04, 1.5805e-03, 2.7842e-04, 9.9795e-01, 8.6352e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47718.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2256, 21.8099, 22.1920, 29.4682, 19.2049]])
+Probabilities for the given text: tensor([[3.5578e-05, 4.7152e-04, 6.9098e-04, 9.9877e-01, 3.4849e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22088.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4213, 21.8922, 21.9664, 28.2428, 18.7705]])
+Probabilities for the given text: tensor([[1.4696e-04, 1.7389e-03, 1.8728e-03, 9.9616e-01, 7.6657e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22087.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.3971, 20.1128, 18.7853, 26.5179, 17.0899]])
+Probabilities for the given text: tensor([[2.9653e-04, 1.6490e-03, 4.3719e-04, 9.9754e-01, 8.0234e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47800.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1471, 21.2666, 21.0653, 27.8284, 18.7709]])
+Probabilities for the given text: tensor([[4.5992e-04, 1.4090e-03, 1.1520e-03, 9.9686e-01, 1.1615e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_22086.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9250, 21.7216, 21.0454, 28.4639, 19.1091]])
+Probabilities for the given text: tensor([[7.1860e-05, 1.1776e-03, 5.9887e-04, 9.9807e-01, 8.6382e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_55975.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6390, 22.1936, 21.3782, 27.8389, 19.0746]])
+Probabilities for the given text: tensor([[2.7316e-04, 3.5144e-03, 1.5551e-03, 9.9450e-01, 1.5535e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47740.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0578, 21.8851, 22.1146, 28.4790, 18.0646]])
+Probabilities for the given text: tensor([[2.1941e-04, 1.3642e-03, 1.7161e-03, 9.9667e-01, 2.9898e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_21993.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9093, 21.9155, 22.2132, 29.6203, 19.2598]])
+Probabilities for the given text: tensor([[1.6455e-04, 4.5010e-04, 6.0618e-04, 9.9875e-01, 3.1617e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_21994.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5308, 24.4404, 24.5840, 27.3081, 19.8226]])
+Probabilities for the given text: tensor([[2.7504e-03, 5.0465e-02, 5.8260e-02, 8.8803e-01, 4.9835e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47839.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2180, 21.1644, 21.5292, 27.7133, 18.2680]])
+Probabilities for the given text: tensor([[5.5338e-04, 1.4257e-03, 2.0535e-03, 9.9589e-01, 7.8733e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47739.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2622, 23.6192, 23.7547, 29.6270, 20.1999]])
+Probabilities for the given text: tensor([[2.3163e-04, 2.4459e-03, 2.8008e-03, 9.9444e-01, 8.0064e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/China_bus_47720.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9872, 21.5605, 21.5767, 28.3921, 17.9221]])
+Probabilities for the given text: tensor([[8.2137e-05, 1.0767e-03, 1.0943e-03, 9.9772e-01, 2.8311e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22015.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2644, 19.8391, 19.3670, 26.6106, 15.6598]])
+Probabilities for the given text: tensor([[1.7471e-03, 1.1418e-03, 7.1220e-04, 9.9638e-01, 1.7482e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47710.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.9608, 26.9176, 27.5791, 31.0166, 23.1317]])
+Probabilities for the given text: tensor([[2.2294e-03, 1.5777e-02, 3.0572e-02, 9.5106e-01, 3.5795e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22028.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5692, 21.9300, 22.9009, 28.8699, 18.1790]])
+Probabilities for the given text: tensor([[2.4739e-04, 9.6469e-04, 2.5470e-03, 9.9622e-01, 2.2664e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47709.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7633, 20.8088, 22.0091, 27.5797, 19.8926]])
+Probabilities for the given text: tensor([[1.0885e-03, 1.1393e-03, 3.7834e-03, 9.9353e-01, 4.5572e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22068.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6973, 23.1947, 23.0328, 29.1153, 21.0209]])
+Probabilities for the given text: tensor([[5.9681e-04, 2.6677e-03, 2.2690e-03, 9.9416e-01, 3.0346e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47685.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3814, 22.1292, 21.9299, 28.7869, 19.0926]])
+Probabilities for the given text: tensor([[2.2304e-04, 1.2807e-03, 1.0493e-03, 9.9739e-01, 6.1472e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22027.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9394, 24.6534, 24.5751, 31.1807, 21.8667]])
+Probabilities for the given text: tensor([[2.6273e-04, 1.4583e-03, 1.3486e-03, 9.9684e-01, 8.9869e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22067.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4816, 22.7656, 24.5737, 30.2963, 21.0363]])
+Probabilities for the given text: tensor([[5.4423e-05, 5.3422e-04, 3.2583e-03, 9.9606e-01, 9.4782e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22026.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8955, 22.9547, 23.8603, 29.8983, 19.7970]])
+Probabilities for the given text: tensor([[3.3328e-04, 9.6124e-04, 2.3776e-03, 9.9629e-01, 4.0875e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_22066.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5439, 23.8096, 24.2005, 31.4017, 23.3920]])
+Probabilities for the given text: tensor([[5.2251e-05, 5.0360e-04, 7.4446e-04, 9.9837e-01, 3.3167e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47684.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.7790, 25.1391, 24.9360, 31.0031, 22.0243]])
+Probabilities for the given text: tensor([[2.6665e-04, 2.8243e-03, 2.3052e-03, 9.9448e-01, 1.2536e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47961.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3752, 23.4706, 23.8754, 29.5562, 21.8892]])
+Probabilities for the given text: tensor([[7.5570e-04, 2.2600e-03, 3.3875e-03, 9.9313e-01, 4.6484e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47746.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7418, 21.4807, 22.1702, 28.2898, 19.9228]])
+Probabilities for the given text: tensor([[1.4259e-03, 1.0983e-03, 2.1884e-03, 9.9506e-01, 2.3126e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47886.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8975, 21.5478, 22.1123, 29.2539, 18.7833]])
+Probabilities for the given text: tensor([[2.3455e-04, 4.4942e-04, 7.9031e-04, 9.9850e-01, 2.8316e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47712.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4177, 24.3310, 23.8374, 30.6892, 20.8827]])
+Probabilities for the given text: tensor([[2.5492e-04, 1.7271e-03, 1.0543e-03, 9.9691e-01, 5.4925e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47963.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9366, 20.7214, 21.1227, 26.2913, 17.7098]])
+Probabilities for the given text: tensor([[1.2563e-02, 3.7266e-03, 5.5671e-03, 9.7796e-01, 1.8340e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47962.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.1080, 24.2167, 24.0844, 30.0867, 20.5420]])
+Probabilities for the given text: tensor([[3.4075e-04, 2.8068e-03, 2.4591e-03, 9.9432e-01, 7.1173e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47960.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3113, 23.4347, 23.2385, 29.9949, 20.9703]])
+Probabilities for the given text: tensor([[1.6887e-04, 1.4116e-03, 1.1601e-03, 9.9714e-01, 1.2007e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47958.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9041, 24.8956, 24.7367, 28.9796, 22.0343]])
+Probabilities for the given text: tensor([[2.2219e-03, 1.6278e-02, 1.3887e-02, 9.6668e-01, 9.3107e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47957.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.6445, 26.0364, 25.5894, 29.4273, 22.4532]])
+Probabilities for the given text: tensor([[2.9080e-03, 3.1796e-02, 2.0334e-02, 9.4408e-01, 8.8345e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47747.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7151, 20.5429, 21.0726, 27.2280, 18.4778]])
+Probabilities for the given text: tensor([[5.4374e-04, 1.2443e-03, 2.1133e-03, 9.9594e-01, 1.5778e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47757.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9904, 21.2937, 21.0217, 28.9223, 18.7468]])
+Probabilities for the given text: tensor([[1.3197e-04, 4.8585e-04, 3.7015e-04, 9.9897e-01, 3.8053e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47887.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8390, 21.5016, 22.0926, 27.8326, 18.6483]])
+Probabilities for the given text: tensor([[3.3578e-04, 1.7705e-03, 3.1973e-03, 9.9459e-01, 1.0208e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47973.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8704, 22.5759, 22.6802, 28.9266, 19.7191]])
+Probabilities for the given text: tensor([[3.1584e-04, 1.7384e-03, 1.9296e-03, 9.9592e-01, 9.9877e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47972.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6706, 21.6504, 21.8460, 27.2143, 19.1291]])
+Probabilities for the given text: tensor([[5.2454e-04, 3.7981e-03, 4.6186e-03, 9.9075e-01, 3.0521e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47968.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0499, 22.8878, 23.3823, 29.4832, 20.4141]])
+Probabilities for the given text: tensor([[2.1666e-04, 1.3613e-03, 2.2322e-03, 9.9608e-01, 1.1472e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47756.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0300, 21.3196, 21.2645, 29.0927, 18.4669]])
+Probabilities for the given text: tensor([[1.1580e-04, 4.2052e-04, 3.9795e-04, 9.9904e-01, 2.4257e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47965.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5697, 22.9635, 23.1544, 29.8053, 20.6842]])
+Probabilities for the given text: tensor([[2.6433e-04, 1.0653e-03, 1.2893e-03, 9.9727e-01, 1.0903e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47964.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.1743, 24.2334, 24.7212, 29.9737, 21.7729]])
+Probabilities for the given text: tensor([[4.0629e-04, 3.1847e-03, 5.1870e-03, 9.9095e-01, 2.7196e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47885.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0234, 20.3781, 22.9142, 28.3796, 17.7745]])
+Probabilities for the given text: tensor([[2.3381e-04, 3.3335e-04, 4.2102e-03, 9.9520e-01, 2.4670e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47745.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6675, 22.7727, 22.1503, 27.9615, 18.3416]])
+Probabilities for the given text: tensor([[4.9538e-03, 5.5031e-03, 2.9535e-03, 9.8652e-01, 6.5495e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47967.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3944, 23.5335, 24.1797, 30.2091, 20.2643]])
+Probabilities for the given text: tensor([[1.4796e-04, 1.2565e-03, 2.3976e-03, 9.9615e-01, 4.7793e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47711.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.1888, 26.2410, 25.7645, 32.3259, 23.3718]])
+Probabilities for the given text: tensor([[2.9130e-04, 2.2677e-03, 1.4081e-03, 9.9590e-01, 1.2868e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47883.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3916, 23.5398, 24.3846, 30.3914, 21.0991]])
+Probabilities for the given text: tensor([[3.3421e-04, 1.0537e-03, 2.4523e-03, 9.9607e-01, 9.1768e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47959.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3619, 23.3822, 23.3320, 29.2449, 21.3585]])
+Probabilities for the given text: tensor([[1.0180e-03, 2.8240e-03, 2.6856e-03, 9.9310e-01, 3.7325e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47966.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.1599, 24.0872, 23.8141, 31.5154, 21.1661]])
+Probabilities for the given text: tensor([[8.6392e-05, 5.9357e-04, 4.5173e-04, 9.9884e-01, 3.1980e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48031.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.6281, 22.0659, 21.7915, 29.0293, 18.7500]])
+Probabilities for the given text: tensor([[3.0344e-05, 9.4427e-04, 7.1764e-04, 9.9827e-01, 3.4279e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47983.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1771, 21.6630, 22.2337, 29.3687, 19.3588]])
+Probabilities for the given text: tensor([[1.0175e-04, 4.4964e-04, 7.9560e-04, 9.9861e-01, 4.4893e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48007.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2723, 21.8783, 22.2003, 27.6110, 19.2937]])
+Probabilities for the given text: tensor([[1.7496e-03, 3.2072e-03, 4.4253e-03, 9.9038e-01, 2.4190e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48008.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3621, 23.3895, 23.1996, 29.7587, 20.0492]])
+Probabilities for the given text: tensor([[2.2486e-04, 1.7075e-03, 1.4123e-03, 9.9659e-01, 6.0497e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47974.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3672, 23.1298, 23.6225, 30.1422, 20.5999]])
+Probabilities for the given text: tensor([[4.1891e-04, 8.9807e-04, 1.4699e-03, 9.9714e-01, 7.1552e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48028.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4363, 21.8291, 23.3144, 27.5451, 20.4607]])
+Probabilities for the given text: tensor([[8.0223e-04, 3.2299e-03, 1.4264e-02, 9.8088e-01, 8.2211e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48030.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1083, 22.5601, 23.0853, 29.2713, 20.6614]])
+Probabilities for the given text: tensor([[1.0447e-04, 1.2128e-03, 2.0507e-03, 9.9645e-01, 1.8163e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48034.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8196, 21.8178, 22.5191, 29.1633, 18.6366]])
+Probabilities for the given text: tensor([[8.7339e-05, 6.4419e-04, 1.2989e-03, 9.9794e-01, 2.6756e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47982.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9415, 21.5268, 22.9928, 28.7169, 20.1687]])
+Probabilities for the given text: tensor([[4.1799e-04, 7.5051e-04, 3.2511e-03, 9.9539e-01, 1.9299e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47993.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4415, 23.0741, 23.5697, 29.5713, 19.6862]])
+Probabilities for the given text: tensor([[1.0795e-04, 1.5015e-03, 2.4648e-03, 9.9588e-01, 5.0720e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47981.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0419, 21.8037, 21.8172, 29.1162, 18.6224]])
+Probabilities for the given text: tensor([[4.2092e-05, 6.6620e-04, 6.7529e-04, 9.9859e-01, 2.7669e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47986.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5806, 20.6067, 20.2411, 28.2649, 18.1854]])
+Probabilities for the given text: tensor([[6.2197e-05, 4.7173e-04, 3.2729e-04, 9.9910e-01, 4.1895e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48033.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8130, 22.6986, 22.5928, 29.1445, 19.6190]])
+Probabilities for the given text: tensor([[2.4001e-04, 1.5817e-03, 1.4229e-03, 9.9668e-01, 7.2720e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48027.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1049, 23.3142, 23.6440, 28.9906, 21.3057]])
+Probabilities for the given text: tensor([[3.7273e-04, 3.3954e-03, 4.7221e-03, 9.9105e-01, 4.5560e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47992.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4004, 22.4699, 22.5093, 28.3857, 19.6835]])
+Probabilities for the given text: tensor([[3.3840e-04, 2.6804e-03, 2.7881e-03, 9.9403e-01, 1.6524e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48032.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8652, 22.4776, 22.2888, 28.8685, 18.9682]])
+Probabilities for the given text: tensor([[3.3324e-04, 1.6711e-03, 1.3835e-03, 9.9656e-01, 4.9990e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48006.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2891, 23.3898, 22.3525, 29.6734, 19.8325]])
+Probabilities for the given text: tensor([[2.2779e-04, 1.8615e-03, 6.5972e-04, 9.9720e-01, 5.3082e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47985.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8065, 20.5732, 20.6598, 26.8635, 18.8718]])
+Probabilities for the given text: tensor([[1.1607e-04, 1.8462e-03, 2.0131e-03, 9.9569e-01, 3.3679e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47976.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5052, 22.4644, 22.9005, 28.6722, 19.9513]])
+Probabilities for the given text: tensor([[2.8229e-04, 2.0024e-03, 3.0971e-03, 9.9446e-01, 1.6224e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47977.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6184, 24.4023, 25.7485, 29.6371, 21.6640]])
+Probabilities for the given text: tensor([[8.7143e-04, 5.1877e-03, 1.9934e-02, 9.7367e-01, 3.3553e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47987.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3309, 21.0440, 22.3648, 27.7154, 19.1108]])
+Probabilities for the given text: tensor([[2.2692e-04, 1.2586e-03, 4.7151e-03, 9.9362e-01, 1.8211e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_47975.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9480, 25.8480, 24.3628, 29.2389, 21.4653]])
+Probabilities for the given text: tensor([[6.5394e-04, 3.2309e-02, 7.3160e-03, 9.5932e-01, 4.0359e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48124.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9156, 22.1536, 22.9481, 28.2762, 20.1800]])
+Probabilities for the given text: tensor([[6.3080e-04, 2.1754e-03, 4.8148e-03, 9.9208e-01, 3.0228e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48125.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.0519, 21.6560, 22.6808, 28.3279, 19.3211]])
+Probabilities for the given text: tensor([[2.5324e-04, 1.2595e-03, 3.5095e-03, 9.9486e-01, 1.2193e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48053.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7356, 21.0607, 21.7924, 28.2997, 17.9721]])
+Probabilities for the given text: tensor([[7.0044e-05, 7.1639e-04, 1.4891e-03, 9.9769e-01, 3.2641e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48127.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8457, 21.2175, 20.6421, 27.3298, 18.3907]])
+Probabilities for the given text: tensor([[5.5963e-04, 2.2062e-03, 1.2410e-03, 9.9586e-01, 1.3062e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48123.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1049, 21.4711, 22.1079, 28.2179, 18.5221]])
+Probabilities for the given text: tensor([[2.9851e-04, 1.1703e-03, 2.2123e-03, 9.9626e-01, 6.1316e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48043.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6796, 23.7292, 23.9330, 30.3767, 21.8432]])
+Probabilities for the given text: tensor([[4.5254e-04, 1.2928e-03, 1.5850e-03, 9.9647e-01, 1.9608e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48126.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6556, 22.9665, 22.8987, 29.2646, 20.8204]])
+Probabilities for the given text: tensor([[1.8175e-04, 1.8326e-03, 1.7124e-03, 9.9606e-01, 2.1430e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48088.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5943, 20.9730, 20.6339, 27.5715, 17.1811]])
+Probabilities for the given text: tensor([[3.4226e-04, 1.3588e-03, 9.6796e-04, 9.9730e-01, 3.0644e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48036.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2662, 23.0761, 23.3737, 28.3551, 20.4367]])
+Probabilities for the given text: tensor([[8.2344e-04, 5.0310e-03, 6.7747e-03, 9.8701e-01, 3.5924e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48089.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5466, 22.4734, 22.1419, 28.9256, 20.0044]])
+Probabilities for the given text: tensor([[6.2209e-04, 1.5716e-03, 1.1282e-03, 9.9655e-01, 1.3307e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48035.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4809, 23.6572, 23.1947, 28.5135, 20.7584]])
+Probabilities for the given text: tensor([[8.7043e-04, 7.6716e-03, 4.8309e-03, 9.8620e-01, 4.2264e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48132.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5950, 22.8073, 23.2703, 29.7322, 21.0682]])
+Probabilities for the given text: tensor([[2.9158e-04, 9.8006e-04, 1.5571e-03, 9.9700e-01, 1.7219e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48051.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0803, 22.5189, 23.0728, 28.3697, 20.2036]])
+Probabilities for the given text: tensor([[6.7671e-04, 2.8524e-03, 4.9628e-03, 9.9123e-01, 2.8163e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48052.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9420, 23.6289, 24.0602, 30.3529, 20.8975]])
+Probabilities for the given text: tensor([[2.2169e-04, 1.1978e-03, 1.8436e-03, 9.9666e-01, 7.8004e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48116.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2431, 21.5454, 21.4267, 28.0323, 20.3636]])
+Probabilities for the given text: tensor([[1.5184e-04, 1.5180e-03, 1.3480e-03, 9.9652e-01, 4.6559e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48114.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8311, 19.5949, 20.1358, 27.1542, 16.6675]])
+Probabilities for the given text: tensor([[6.5869e-04, 5.2013e-04, 8.9334e-04, 9.9790e-01, 2.7846e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48131.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2033, 25.9399, 25.5322, 29.1930, 22.6357]])
+Probabilities for the given text: tensor([[3.1792e-04, 3.6258e-02, 2.4118e-02, 9.3797e-01, 1.3317e-03]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48040.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1526, 22.3550, 22.7587, 29.3286, 19.5770]])
+Probabilities for the given text: tensor([[2.8056e-04, 9.3380e-04, 1.3982e-03, 9.9733e-01, 5.8047e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48122.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5595, 23.0107, 23.2051, 29.1526, 21.4024]])
+Probabilities for the given text: tensor([[5.0108e-04, 2.1387e-03, 2.5977e-03, 9.9433e-01, 4.2825e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48121.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8071, 22.3566, 23.0362, 28.4881, 21.2287]])
+Probabilities for the given text: tensor([[1.2441e-03, 2.1553e-03, 4.2527e-03, 9.9165e-01, 6.9769e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48041.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7758, 24.0813, 23.2474, 29.7279, 20.3474]])
+Probabilities for the given text: tensor([[3.4999e-04, 3.5104e-03, 1.5247e-03, 9.9453e-01, 8.3896e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48054.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4135, 22.4165, 23.8774, 29.7084, 19.5091]])
+Probabilities for the given text: tensor([[6.7604e-04, 6.7807e-04, 2.9224e-03, 9.9569e-01, 3.7036e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48120.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9340, 23.2007, 23.1545, 28.6258, 20.9948]])
+Probabilities for the given text: tensor([[1.2284e-03, 4.3596e-03, 4.1626e-03, 9.8977e-01, 4.8020e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48115.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9084, 21.6732, 22.5833, 29.1113, 19.6333]])
+Probabilities for the given text: tensor([[1.0052e-04, 5.8706e-04, 1.4586e-03, 9.9778e-01, 7.6348e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48042.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4660, 22.3017, 21.4460, 29.6204, 19.0444]])
+Probabilities for the given text: tensor([[1.0564e-04, 6.6228e-04, 2.8146e-04, 9.9893e-01, 2.5493e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48149.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.1292, 24.2174, 25.0271, 30.2335, 22.4194]])
+Probabilities for the given text: tensor([[2.9964e-04, 2.4182e-03, 5.4345e-03, 9.9145e-01, 4.0051e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48162.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.3430, 23.7786, 23.9477, 29.2937, 22.0690]])
+Probabilities for the given text: tensor([[9.4798e-04, 3.9838e-03, 4.7175e-03, 9.8963e-01, 7.2078e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48166.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8911, 20.6742, 21.4539, 27.6965, 18.6304]])
+Probabilities for the given text: tensor([[1.4946e-04, 8.8903e-04, 1.9387e-03, 9.9691e-01, 1.1516e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48140.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.4733, 22.6771, 23.3317, 29.0555, 20.6686]])
+Probabilities for the given text: tensor([[5.0656e-04, 1.6881e-03, 3.2488e-03, 9.9433e-01, 2.2653e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48168.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5631, 23.3524, 24.1081, 28.5431, 20.5286]])
+Probabilities for the given text: tensor([[9.1331e-04, 5.4662e-03, 1.1638e-02, 9.8166e-01, 3.2458e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51063.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5879, 21.4802, 22.5254, 28.7149, 20.7251]])
+Probabilities for the given text: tensor([[2.9444e-04, 7.1868e-04, 2.0439e-03, 9.9661e-01, 3.3775e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48170.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1789, 22.7379, 23.3765, 28.9139, 19.8266]])
+Probabilities for the given text: tensor([[4.3437e-04, 2.0651e-03, 3.9109e-03, 9.9348e-01, 1.1235e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48136.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5953, 20.1220, 20.1025, 27.7710, 17.5644]])
+Probabilities for the given text: tensor([[1.0342e-04, 4.7602e-04, 4.6682e-04, 9.9892e-01, 3.6887e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51072.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9135, 22.2940, 22.5858, 27.1222, 18.7260]])
+Probabilities for the given text: tensor([[1.4380e-02, 7.7393e-03, 1.0362e-02, 9.6730e-01, 2.1835e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48145.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1261, 21.8459, 22.1023, 28.6475, 19.2362]])
+Probabilities for the given text: tensor([[7.3073e-05, 1.1090e-03, 1.4332e-03, 9.9730e-01, 8.1577e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48169.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3148, 22.4275, 22.8694, 29.2489, 20.8915]])
+Probabilities for the given text: tensor([[3.5713e-04, 1.0866e-03, 1.6904e-03, 9.9663e-01, 2.3387e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48165.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.8986, 20.5376, 21.6883, 27.7851, 18.1506]])
+Probabilities for the given text: tensor([[1.3782e-04, 7.0974e-04, 2.2430e-03, 9.9684e-01, 6.5228e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48164.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.2851, 21.5550, 20.4102, 27.6340, 17.5781]])
+Probabilities for the given text: tensor([[6.4093e-04, 2.2820e-03, 7.2638e-04, 9.9631e-01, 4.2773e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48137.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6356, 22.0569, 21.5594, 29.3462, 19.4863]])
+Probabilities for the given text: tensor([[4.4736e-04, 6.8176e-04, 4.1454e-04, 9.9840e-01, 5.2144e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48160.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.5545, 23.6243, 23.5124, 29.2923, 19.6113]])
+Probabilities for the given text: tensor([[3.1905e-03, 3.4212e-03, 3.0590e-03, 9.9027e-01, 6.1850e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48143.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9358, 24.4600, 24.1086, 29.2530, 22.7489]])
+Probabilities for the given text: tensor([[2.4047e-04, 8.1584e-03, 5.7410e-03, 9.8439e-01, 1.4739e-03]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48144.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.0261, 22.3470, 21.6558, 28.4724, 18.7403]])
+Probabilities for the given text: tensor([[7.8708e-05, 2.1792e-03, 1.0917e-03, 9.9659e-01, 5.9146e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48161.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4373, 21.9172, 21.6506, 29.1697, 19.6718]])
+Probabilities for the given text: tensor([[1.6103e-04, 7.0736e-04, 5.4184e-04, 9.9851e-01, 7.4902e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48138.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8726, 21.7580, 21.5345, 27.9362, 19.0482]])
+Probabilities for the given text: tensor([[3.1348e-04, 2.0656e-03, 1.6518e-03, 9.9583e-01, 1.3746e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48148.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.5585, 19.7933, 20.8612, 27.1784, 18.2626]])
+Probabilities for the given text: tensor([[6.6220e-05, 6.1882e-04, 1.8003e-03, 9.9738e-01, 1.3390e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48139.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.3393, 21.2390, 21.0261, 28.4525, 19.2476]])
+Probabilities for the given text: tensor([[1.1003e-04, 7.3548e-04, 5.9444e-04, 9.9846e-01, 1.0039e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48163.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.5571, 24.1021, 23.7319, 30.3752, 21.1551]])
+Probabilities for the given text: tensor([[4.0089e-04, 1.8793e-03, 1.2978e-03, 9.9632e-01, 9.8661e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_48167.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.0999, 19.8352, 20.6196, 26.8546, 17.8439]])
+Probabilities for the given text: tensor([[1.5722e-04, 8.9158e-04, 1.9534e-03, 9.9688e-01, 1.2171e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51112.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4606, 21.7875, 21.5118, 28.2879, 19.1518]])
+Probabilities for the given text: tensor([[3.9746e-04, 1.4981e-03, 1.1371e-03, 9.9686e-01, 1.0736e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55763.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1706, 22.0717, 21.4902, 28.0702, 18.7469]])
+Probabilities for the given text: tensor([[1.3589e-04, 2.4722e-03, 1.3822e-03, 9.9592e-01, 8.8957e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51113.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.9568, 22.1336, 22.6419, 28.3057, 18.9176]])
+Probabilities for the given text: tensor([[4.7045e-03, 2.0653e-03, 3.4337e-03, 9.8971e-01, 8.2853e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55777.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0043, 23.1002, 22.6301, 29.3561, 19.7571]])
+Probabilities for the given text: tensor([[2.3516e-04, 1.9126e-03, 1.1952e-03, 9.9659e-01, 6.7569e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51107.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9362, 20.7864, 20.6908, 27.8257, 19.3939]])
+Probabilities for the given text: tensor([[1.3755e-04, 8.7493e-04, 7.9523e-04, 9.9797e-01, 2.1739e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51106.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4383, 21.6555, 21.1741, 27.6394, 18.7570]])
+Probabilities for the given text: tensor([[7.4211e-04, 2.5065e-03, 1.5489e-03, 9.9506e-01, 1.3813e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51087.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8742, 21.3842, 20.6113, 28.4216, 18.0532]])
+Probabilities for the given text: tensor([[1.9376e-04, 8.7709e-04, 4.0492e-04, 9.9849e-01, 3.1362e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55758.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7122, 22.1458, 22.7440, 29.2652, 19.1761]])
+Probabilities for the given text: tensor([[1.9248e-04, 8.0727e-04, 1.4683e-03, 9.9749e-01, 4.1427e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55770.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7880, 21.1273, 20.6350, 26.7639, 19.5112]])
+Probabilities for the given text: tensor([[3.4133e-04, 3.5409e-03, 2.1641e-03, 9.9325e-01, 7.0344e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55780.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9663, 22.4504, 22.4383, 29.1771, 19.0577]])
+Probabilities for the given text: tensor([[2.7099e-04, 1.1953e-03, 1.1810e-03, 9.9731e-01, 4.0182e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55779.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6102, 20.5333, 20.3870, 28.2078, 17.3269]])
+Probabilities for the given text: tensor([[1.8435e-04, 4.6405e-04, 4.0087e-04, 9.9893e-01, 1.8794e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51085.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.4169, 25.5254, 24.0897, 31.0165, 22.6010]])
+Probabilities for the given text: tensor([[4.9772e-04, 4.0995e-03, 9.7538e-04, 9.9421e-01, 2.2013e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51097.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.4856, 21.3053, 21.8777, 27.1308, 17.4133]])
+Probabilities for the given text: tensor([[4.7420e-04, 2.9257e-03, 5.1857e-03, 9.9135e-01, 5.9695e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55771.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5270, 21.7998, 20.7549, 27.4835, 19.2344]])
+Probabilities for the given text: tensor([[1.2827e-04, 3.3840e-03, 1.1903e-03, 9.9504e-01, 2.6020e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51084.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6310, 23.3665, 22.9435, 28.9137, 20.5225]])
+Probabilities for the given text: tensor([[6.8224e-04, 3.8698e-03, 2.5349e-03, 9.9269e-01, 2.2518e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51114.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5068, 20.6993, 21.4125, 27.4668, 16.6258]])
+Probabilities for the given text: tensor([[2.5642e-03, 1.1436e-03, 2.3334e-03, 9.9394e-01, 1.9461e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51082.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5550, 23.4284, 23.5766, 29.1709, 20.3805]])
+Probabilities for the given text: tensor([[4.8882e-04, 3.1824e-03, 3.6911e-03, 9.9249e-01, 1.5104e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55778.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9737, 22.6439, 24.2019, 27.9347, 18.8174]])
+Probabilities for the given text: tensor([[2.4983e-03, 4.8835e-03, 2.3193e-02, 9.6932e-01, 1.0639e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51086.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8608, 24.1240, 24.7452, 30.2511, 21.3370]])
+Probabilities for the given text: tensor([[2.2557e-04, 2.1684e-03, 4.0360e-03, 9.9344e-01, 1.3360e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51083.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1474, 23.8384, 23.6937, 29.6270, 20.9682]])
+Probabilities for the given text: tensor([[2.0640e-04, 3.0436e-03, 2.6336e-03, 9.9394e-01, 1.7253e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55772.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.9626, 21.8957, 20.9752, 28.4111, 19.3880]])
+Probabilities for the given text: tensor([[2.8928e-05, 1.4771e-03, 5.8840e-04, 9.9779e-01, 1.2033e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51129.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5848, 22.8968, 23.2387, 29.6410, 19.8513]])
+Probabilities for the given text: tensor([[3.1611e-04, 1.1740e-03, 1.6525e-03, 9.9680e-01, 5.5849e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_51081.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.7539, 25.0504, 25.3455, 31.1761, 22.6662]])
+Probabilities for the given text: tensor([[2.1872e-04, 2.1739e-03, 2.9200e-03, 9.9449e-01, 2.0034e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55861.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.6111, 23.9112, 24.3548, 29.3795, 21.7691]])
+Probabilities for the given text: tensor([[1.1354e-03, 4.1665e-03, 6.4926e-03, 9.8772e-01, 4.8916e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55819.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8782, 22.4695, 22.9106, 28.9595, 19.3476]])
+Probabilities for the given text: tensor([[1.1331e-04, 1.5124e-03, 2.3509e-03, 9.9596e-01, 6.6658e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55910.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[17.8202, 20.6668, 21.3736, 27.9714, 17.6410]])
+Probabilities for the given text: tensor([[3.8947e-05, 6.7100e-04, 1.3604e-03, 9.9790e-01, 3.2558e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55873.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6848, 21.9140, 23.4304, 28.6644, 19.6739]])
+Probabilities for the given text: tensor([[3.4003e-04, 1.1624e-03, 5.2953e-03, 9.9308e-01, 1.2373e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55870.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5508, 21.9773, 21.0618, 29.6252, 20.6435]])
+Probabilities for the given text: tensor([[1.1445e-04, 4.7663e-04, 1.9080e-04, 9.9909e-01, 1.2558e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55872.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7028, 19.8408, 20.4886, 27.2416, 17.5287]])
+Probabilities for the given text: tensor([[1.9533e-04, 6.0951e-04, 1.1650e-03, 9.9797e-01, 6.0374e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55874.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7723, 22.0328, 22.2455, 30.3841, 21.1263]])
+Probabilities for the given text: tensor([[1.8180e-04, 2.3590e-04, 2.9181e-04, 9.9920e-01, 9.5282e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55961.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1853, 23.8581, 23.3809, 29.0738, 19.4890]])
+Probabilities for the given text: tensor([[3.7160e-04, 5.3809e-03, 3.3391e-03, 9.9084e-01, 6.8137e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55781.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1211, 23.0565, 22.5440, 29.1852, 20.2383]])
+Probabilities for the given text: tensor([[3.1341e-04, 2.1709e-03, 1.3003e-03, 9.9609e-01, 1.2963e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55816.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.0056, 24.1151, 23.6969, 23.8496, 20.8673]])
+Probabilities for the given text: tensor([[0.2667, 0.2976, 0.1959, 0.2282, 0.0116]])
+Predicted class: tensor([1])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55782.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1677, 24.6582, 24.9157, 28.9203, 21.5558]])
+Probabilities for the given text: tensor([[4.1572e-04, 1.3637e-02, 1.7642e-02, 9.6769e-01, 6.1284e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55875.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.1211, 24.7120, 25.2011, 32.1501, 22.8456]])
+Probabilities for the given text: tensor([[1.1967e-04, 5.8733e-04, 9.5790e-04, 9.9824e-01, 9.0850e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55926.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.6830, 22.7098, 22.7787, 29.1617, 20.7079]])
+Probabilities for the given text: tensor([[5.6272e-04, 1.5712e-03, 1.6834e-03, 9.9597e-01, 2.1225e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55876.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3626, 22.5813, 22.9603, 29.5866, 19.8344]])
+Probabilities for the given text: tensor([[2.6746e-04, 9.0472e-04, 1.3216e-03, 9.9745e-01, 5.8016e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55798.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5237, 20.3424, 20.7922, 27.5460, 18.2932]])
+Probabilities for the given text: tensor([[3.2731e-04, 7.4215e-04, 1.1638e-03, 9.9767e-01, 9.5622e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55820.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.9025, 21.4967, 20.9996, 27.8982, 18.6639]])
+Probabilities for the given text: tensor([[3.3584e-04, 1.6538e-03, 1.0061e-03, 9.9691e-01, 9.7328e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55877.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4661, 21.3840, 21.5328, 27.5692, 18.1072]])
+Probabilities for the given text: tensor([[8.1813e-04, 2.0486e-03, 2.3774e-03, 9.9468e-01, 7.7338e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55925.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.5172, 21.2329, 20.7191, 27.7999, 18.6202]])
+Probabilities for the given text: tensor([[9.2794e-05, 1.4026e-03, 8.3903e-04, 9.9756e-01, 1.0286e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55880.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.3325, 24.5413, 25.1194, 30.8368, 21.9900]])
+Probabilities for the given text: tensor([[5.4750e-04, 1.8338e-03, 3.2689e-03, 9.9421e-01, 1.4300e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55797.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[24.5388, 24.6464, 25.1317, 31.0094, 22.1466]])
+Probabilities for the given text: tensor([[1.5389e-03, 1.7137e-03, 2.7840e-03, 9.9382e-01, 1.4069e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55871.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7308, 21.5122, 21.1721, 29.1099, 19.2491]])
+Probabilities for the given text: tensor([[3.1048e-05, 5.0112e-04, 3.5667e-04, 9.9906e-01, 5.2132e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55960.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.8229, 23.5442, 22.6808, 30.7497, 20.3349]])
+Probabilities for the given text: tensor([[3.6043e-04, 7.4139e-04, 3.1267e-04, 9.9856e-01, 2.9943e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55909.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.6016, 20.5613, 20.4206, 27.3479, 19.1728]])
+Probabilities for the given text: tensor([[4.3110e-04, 1.1256e-03, 9.7786e-04, 9.9718e-01, 2.8078e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55860.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.6529, 24.3372, 26.2286, 30.1952, 21.9984]])
+Probabilities for the given text: tensor([[1.4081e-03, 2.7911e-03, 1.8502e-02, 9.7703e-01, 2.6919e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/Japan_bus_55881.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.7271, 22.2225, 22.3756, 28.4289, 20.6033]])
+Probabilities for the given text: tensor([[4.4965e-04, 2.0061e-03, 2.3379e-03, 9.9481e-01, 3.9730e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47733.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.9780, 20.0780, 19.3749, 26.6116, 16.9109]])
+Probabilities for the given text: tensor([[4.8260e-04, 1.4498e-03, 7.1773e-04, 9.9729e-01, 6.1074e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47849.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9106, 23.8461, 23.3018, 30.0481, 19.5662]])
+Probabilities for the given text: tensor([[2.9134e-04, 2.0183e-03, 1.1711e-03, 9.9649e-01, 2.7942e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47732.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4263, 23.0179, 22.7878, 29.6129, 19.1754]])
+Probabilities for the given text: tensor([[1.0214e-04, 1.3637e-03, 1.0834e-03, 9.9742e-01, 2.9237e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22070.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.8183, 23.5248, 23.7241, 31.4244, 22.8325]])
+Probabilities for the given text: tensor([[6.7246e-05, 3.7051e-04, 4.5222e-04, 9.9892e-01, 1.8540e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_21995.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.1538, 21.3976, 21.6519, 28.1209, 18.5728]])
+Probabilities for the given text: tensor([[3.4559e-04, 1.1987e-03, 1.5458e-03, 9.9684e-01, 7.1109e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47857.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3224, 22.4419, 22.3922, 29.3087, 18.8691]])
+Probabilities for the given text: tensor([[1.2484e-04, 1.0395e-03, 9.8913e-04, 9.9782e-01, 2.9184e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47840.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8509, 21.1721, 22.3031, 29.2408, 18.2328]])
+Probabilities for the given text: tensor([[8.3444e-05, 3.1275e-04, 9.6915e-04, 9.9862e-01, 1.6546e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47978.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2717, 21.1058, 22.5534, 28.4050, 17.3066]])
+Probabilities for the given text: tensor([[1.0761e-04, 6.7356e-04, 2.8648e-03, 9.9634e-01, 1.5081e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47842.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.1190, 21.1501, 21.0623, 28.1519, 17.7560]])
+Probabilities for the given text: tensor([[8.8004e-04, 9.0784e-04, 8.3149e-04, 9.9735e-01, 3.0477e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22122.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3204, 22.7672, 21.5155, 28.3506, 18.3297]])
+Probabilities for the given text: tensor([[3.2380e-04, 3.7403e-03, 1.0698e-03, 9.9482e-01, 4.4233e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47858.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2280, 20.7124, 21.8631, 27.9260, 17.9248]])
+Probabilities for the given text: tensor([[1.6638e-04, 7.3409e-04, 2.3200e-03, 9.9673e-01, 4.5195e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47780.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1481, 21.4226, 21.7126, 27.3168, 18.7342]])
+Probabilities for the given text: tensor([[2.8145e-04, 2.7365e-03, 3.6569e-03, 9.9314e-01, 1.8605e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47779.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.1015, 21.0687, 20.7230, 27.9230, 18.2594]])
+Probabilities for the given text: tensor([[1.4723e-04, 1.0528e-03, 7.4507e-04, 9.9799e-01, 6.3427e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22123.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.2544, 24.0068, 21.9771, 29.2095, 19.3100]])
+Probabilities for the given text: tensor([[3.4857e-04, 5.4653e-03, 7.1802e-04, 9.9342e-01, 4.9870e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22071.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8747, 22.9860, 23.4561, 30.1630, 19.8833]])
+Probabilities for the given text: tensor([[3.3958e-05, 7.6235e-04, 1.2199e-03, 9.9795e-01, 3.4251e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47851.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.4091, 19.7860, 20.0911, 27.2115, 17.2337]])
+Probabilities for the given text: tensor([[1.5014e-04, 5.9491e-04, 8.0718e-04, 9.9840e-01, 4.6345e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22013.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7835, 23.5988, 22.9955, 28.4967, 18.2795]])
+Probabilities for the given text: tensor([[1.6250e-04, 7.3754e-03, 4.0346e-03, 9.8839e-01, 3.6111e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47850.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.5375, 22.2746, 22.4462, 27.6805, 18.4194]])
+Probabilities for the given text: tensor([[2.1228e-03, 4.4362e-03, 5.2667e-03, 9.8808e-01, 9.3917e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22023.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[23.5348, 25.2703, 24.7835, 31.4422, 21.8765]])
+Probabilities for the given text: tensor([[3.6661e-04, 2.0793e-03, 1.2779e-03, 9.9621e-01, 6.9824e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47859.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6579, 22.1032, 24.0562, 28.5608, 19.1474]])
+Probabilities for the given text: tensor([[3.6490e-04, 1.5483e-03, 1.0916e-02, 9.8709e-01, 8.0573e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22024.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.9159, 26.7959, 24.6444, 27.7802, 19.9634]])
+Probabilities for the given text: tensor([[1.9987e-03, 2.6311e-01, 3.0601e-02, 7.0401e-01, 2.8366e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47731.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7987, 22.2346, 21.4082, 28.7483, 19.2297]])
+Probabilities for the given text: tensor([[9.5597e-04, 1.4782e-03, 6.4692e-04, 9.9685e-01, 7.3237e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47824.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4059, 24.1842, 22.1633, 26.7807, 17.9038]])
+Probabilities for the given text: tensor([[1.5687e-03, 6.8615e-02, 9.0941e-03, 9.2059e-01, 1.2850e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47815.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.4686, 23.8730, 25.3721, 30.2908, 20.0861]])
+Probabilities for the given text: tensor([[3.9702e-04, 1.6171e-03, 7.2404e-03, 9.9071e-01, 3.6652e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22012.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.7556, 24.4445, 23.7857, 30.6987, 20.5413]])
+Probabilities for the given text: tensor([[1.3023e-04, 1.9165e-03, 9.9175e-04, 9.9692e-01, 3.8670e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22121.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0171, 23.3105, 22.7023, 28.3292, 18.3464]])
+Probabilities for the given text: tensor([[6.6023e-04, 6.5420e-03, 3.5610e-03, 9.8919e-01, 4.5688e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22120.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.4198, 23.3720, 23.4882, 28.9552, 19.3478]])
+Probabilities for the given text: tensor([[1.9477e-04, 3.7297e-03, 4.1893e-03, 9.9182e-01, 6.6677e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22069.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.3630, 24.9591, 25.2830, 30.5631, 22.2377]])
+Probabilities for the given text: tensor([[1.0012e-04, 3.6498e-03, 5.0463e-03, 9.9096e-01, 2.4011e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_22014.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.7304, 23.8914, 22.9910, 27.1030, 20.1087]])
+Probabilities for the given text: tensor([[5.9365e-04, 3.8075e-02, 1.5474e-02, 9.4499e-01, 8.6663e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47841.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5713, 21.6418, 22.3162, 27.8567, 17.9274]])
+Probabilities for the given text: tensor([[2.5060e-04, 1.9871e-03, 3.9000e-03, 9.9381e-01, 4.8424e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51110.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.2023, 22.2362, 22.2433, 29.6634, 19.0159]])
+Probabilities for the given text: tensor([[5.7401e-04, 5.9380e-04, 5.9805e-04, 9.9821e-01, 2.3719e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51109.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.8538, 21.7078, 22.6691, 28.7384, 19.6864]])
+Probabilities for the given text: tensor([[1.3803e-04, 8.8137e-04, 2.3048e-03, 9.9656e-01, 1.1675e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48057.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.9820, 22.5505, 23.1188, 28.6789, 18.9181]])
+Probabilities for the given text: tensor([[4.5132e-04, 2.1660e-03, 3.8236e-03, 9.9350e-01, 5.7294e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_51111.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8525, 22.7523, 22.3933, 29.2036, 19.5825]])
+Probabilities for the given text: tensor([[2.3543e-04, 1.5738e-03, 1.0991e-03, 9.9703e-01, 6.6116e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48065.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.6498, 21.6142, 21.0355, 27.8672, 17.5188]])
+Probabilities for the given text: tensor([[7.3091e-04, 1.9174e-03, 1.0749e-03, 9.9624e-01, 3.1923e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48064.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.3514, 22.2285, 21.6965, 29.1297, 18.9303]])
+Probabilities for the given text: tensor([[1.5377e-04, 1.0049e-03, 5.9026e-04, 9.9821e-01, 3.7128e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55787.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.5955, 22.4330, 21.7121, 28.4979, 19.6176]])
+Probabilities for the given text: tensor([[3.6839e-04, 2.3138e-03, 1.1253e-03, 9.9605e-01, 1.3854e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47980.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2263, 21.6937, 21.9886, 28.2539, 18.1158]])
+Probabilities for the given text: tensor([[1.1963e-04, 1.4106e-03, 1.8944e-03, 9.9654e-01, 3.9404e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55788.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7269, 20.2850, 20.9581, 27.0034, 18.4641]])
+Probabilities for the given text: tensor([[2.5338e-04, 1.2036e-03, 2.3594e-03, 9.9599e-01, 1.9484e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47988.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0936, 21.7346, 22.4430, 28.5617, 20.1033]])
+Probabilities for the given text: tensor([[5.6867e-04, 1.0796e-03, 2.1924e-03, 9.9595e-01, 2.1124e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48092.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[21.0738, 19.0254, 18.7574, 24.9555, 16.6899]])
+Probabilities for the given text: tensor([[2.0103e-02, 2.5919e-03, 1.9827e-03, 9.7507e-01, 2.5081e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_55789.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[18.7249, 20.8120, 20.1441, 28.0511, 16.4048]])
+Probabilities for the given text: tensor([[8.8946e-05, 7.1710e-04, 3.6772e-04, 9.9882e-01, 8.7405e-06]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48066.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.2483, 21.4789, 21.5544, 28.6035, 18.0068]])
+Probabilities for the given text: tensor([[8.6359e-05, 8.0360e-04, 8.6662e-04, 9.9822e-01, 2.4953e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_47979.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[19.5354, 21.9831, 22.0180, 28.2045, 18.5868]])
+Probabilities for the given text: tensor([[1.7109e-04, 1.9779e-03, 2.0482e-03, 9.9574e-01, 6.6259e-05]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48090.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[22.0088, 23.6641, 24.1200, 30.5268, 22.0315]])
+Probabilities for the given text: tensor([[1.9922e-04, 1.0428e-03, 1.6451e-03, 9.9691e-01, 2.0379e-04]])
+Predicted class: tensor([3])
+Filename: /content/drive/MyDrive/Colab Notebooks/eastasia/bus/South_Korea_bus_48091.jpg
+Image-Text Matching (ITM) score for the given text: tensor([[20.8979, 22.8126, 23.2238, 29.6966, 19.3721]])
+Probabilities for the given text: tensor([[1.5052e-04, 1.0213e-03, 1.5406e-03, 9.9725e-01, 3.2728e-05]])
+Predicted class: tensor([3])
